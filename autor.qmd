@@ -1,0 +1,24 @@
+---
+lang: es
+format: 
+  html:
+    toc: false
+    page-layout: full
+---
+
+# Sobre el autor {.unnumbered}
+
+
+Roger Cortéz Hurtado es investigador y analista de temas sociales, económicos, políticos, ambientales, de comunicación, transparencia, participación y control social.
+
+Desde 2012 es director del Instituto Alternativo; desde 2006 es miembro del Centro de Promoción de Tecnologías Sostenibles. Desde 1983 es docente universitario y docente de posgrados. Desde 1979 ha incursionado en el periodismo noticioso e investigativo y la producción televisiva y radial; es columnista y corresponsal extranjero.
+
+Entre sus últimas investigaciones y publicaciones figuran: “Participación popular y democratización de la sociedad boliviana”, en VV. AA., Antología. Historia política de Bolivia. La Paz: Konrad Adenauer Stiftung, 2021 (en prensa); “Constitución, Estado y proyecto nacional”, en Jorge Dulón (coord.), Visión de país. 11 propuestas para reconducir el Estado, La Paz: FES, 2020; “Propuestas de modelos de desarrollo en Bolivia durante la segunda década del siglo XXI”, en VV. AA, Seminario Internacional Perspectivas de la democracia en América Latina, La Paz: IDIS, Sociología, UMSA, 2020; “Chepete (Bala) un proyecto fallido” con Daniel Robison, La Paz, 2016 (investigación inédita).
+
+## Actividad periodística
+
+Línea de Fuego, programa audiovisual de investigación sobre modelos alternativos de desarrollo. La Paz, 2020.
+
+Columnista de los diarios nacionales Página Siete, El Deber, Los Tiempos, La Prensa, desde 2007.
+
+Investigación periodística para el semanario Pulso de 1999 a 2003. Producción, realización televisiva y radial en ATB TV, PAT y radio Fides.

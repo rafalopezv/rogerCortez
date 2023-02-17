@@ -1,0 +1,50 @@
+---
+lang: es
+format: 
+  html:
+    page-layout: article
+---
+# Anexo: Nuevo bloque de poder y contradicciones entre indígenas y campesinos de Bolivia {.unnumbered}
+---
+
+## El bloque de poder depurado
+
+La composición de los responsables de la conducción estratégica del gobierno se corresponde con una depuración del bloque social en el poder, en beneficio de las fracciones campesinas de mayor grado de maduración empresarial (campesinos exportadores, principalmente cocaleros y medianos soyeros), importadores (“comerciantes populares”, como los llama el antropólogo Nico Tassi), grandes propietarios del transporte terrestre y una activa burguesía burocrática [^13], gestora de negocios y oportunidades para todos ellos.
+
+Este núcleo del poder estatal reafirmó un acuerdo previo con la banca, que no es parte del bloque, pero que lo acompaña establemente y que ha avanzado un armisticio con los agroexportadores menos comprometidos con el sector duro de terratenientes que encabezó la resistencia anticonstituyente en 2008.
+
+Esta franja de acompañamiento del nuevo bloque de poder se complementa con los ejecutivos de corporaciones petroleras y mineras transnacionales, quienes se han adaptado con rapidez al nuevo estado de cosas que rige en Bolivia.
+
+## Diferenciación entre indígenas y campesinos
+
+La principal producción teórica que acompañó la evolución del proceso constituyente identificó a indígenas y campesinos como el agente revolucionario propio y particular del proceso boliviano en este momento histórico.
+
+A partir de esa noción, lo indígena originario campesino (IOC) se consagra como trinidad/unitaria, sujeto y esencia de la revolución democrática y cultural, según el art. 2 de la CPE y la definición del carácter plurinacional del Estado.
+
+Lo IOC intenta fusionar lo clasista y lo étnico como eje de la economía, la democracia, la cultura y la justicia plural, y como ruta de tránsito hacia un distante socialismo comunitario. La IOC parte del entendido de que indígena es una categoría esencialmente cultural y campesina, clasista. Asumiendo ese distinto sustrato, ambas aluden a un solo sujeto social colectivo, es decir, conglomerados con intereses y prácticas propias y diferenciadas, con capacidad de actuación política e ideológica autónomas.
+
+Sin embargo, respetando la distinción entre clase y cultura, en nuestra realidad concreta es posible establecer particularidades económicas que distinguen a cada una de estas categorías y que se aplican en cuatro aspectos centrales: i) el tipo de propiedad predominante de la tierra entre cada una de ellas; ii) su relación con el mercado del trabajo; iii) la división técnica del trabajo y iv) su vinculación con corrientes migratorias y de urbanización.
+
+Aplicando esos criterios, los campesinos son propietarios individuales de parcelas dedicadas principalmente a la agricultura o la ganadería, compradores y vendedores de fuerza de trabajo, que residen una parte considerable del año en áreas urbanas, que combinan sus actividades agropecuarias con multiempleo y multiocupación (comercio, transporte las más frecuentes, pero no las únicas) y con origen étnico y cultural indígena.
+
+Los hoy llamados indígenas, habitualmente en posesión de “chacos” familiares, según las costumbres de su comunidad, residen en TCO, reconocidas o no legalmente como tales. Tienen una vinculación esporádica con el salario (casi siempre como vendedores de fuerza de trabajo), así como con actividades económicas ajenas a las que practican en su comunidad.
+
+Estas actividades incluyen recolección, pesca, caza y agricultura y ganadería en las tierras bajas y minería en las tierras altas; de allí el enfoque predominantemente territorial de sus reivindicaciones.
+
+En términos demográficos, los indígenas representan una minoría neta del total de la población rural (incluyendo a la totalidad de comunidades de tierras altas y bajas) y su peso económico es casi indetectable en la actual composición del PIB. En contrapartida, en sus territorios se ubica prácticamente la totalidad de reservas hidrocarburíferas nacionales probadas y probables, yacimientos minerales, acuíferos y gran parte de las reservas de biodiversidad.
+
+Con referencia a los campesinos —clase social cuya existencia se remonta a la Revolución Nacional de 1952—, debe tomarse en cuenta que la pequeña producción agropecuaria ha seguido una trayectoria que la conduce del mercantilismo al capitalismo, cuando es exitosa, o a la migración urbana que, a la postre, tiene un resultado similar en la mayoría de los casos, al ubicar al migrante relativamente exitoso en una situación de microempresario o de asalariado muchas veces proletarizado.
+
+El proyecto político que ha ido decantando el MAS se basa en ignorar y negar las trayectorias divergentes de campesinos e indígenas, caracterizándolas como “tensiones creativas”.
+
+Aquí se plantea como hipótesis que ese ocultamiento de las contradicciones favorece a las fracciones campesinas más competitivas desde el punto de vista capitalista. Estas fracciones se inclinan muy rápidamente, con activo impulso de sus representantes estatales, a incrementar su capitalización mediante la acumulación de tierras para la captura de rentas, ante la creciente demanda de agroexportadores extranjeros (brasileños, menonitas, colombianos, argentinos) y algunos locales.
+
+Los problemas que confronta el gobierno con los indígenas, incluyendo los que han impulsado las marchas convocadas por la CIDOB, obedecen a la dinámica descrita, cuyo desenlace, si se resuelve como está ocurriendo hasta ahora, será a favor del grupo rentista de la tierra, para consolidar un activo mercado de tierras.
+
+::: {style="text-align:right; font-weight: bold;"}
+Junio de 2015
+:::
+
+## Notas
+
+[^13]: Uso la categoría siguiendo la de Charles Bettelheim (1978, Las luchas de clases en la URSS, Segundo periodo, 1923-1930, vol. 1, Madrid: Siglo XXI, p. 36), quien la define como compuesta por “agentes de reproducción, distintos a los productores, que [...] tienen [el poder de disponer] efectivamente de los medios de producción que pertenecen formalmente al Estado”, así como del excedente que producen esos medios estatales. Afirma que no necesitan ser agentes conscientes de la burguesía, pero terminan asimilándose a ella por “su interés material y situación social”. Más adelante se identifican particularidades de esta fracción de clase en nuestro país.

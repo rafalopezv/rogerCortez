@@ -1,0 +1,79 @@
+project:
+  type: book
+  
+book:
+  search: true
+  downloads: [pdf, epub]
+  sharing: [twitter, facebook]
+  
+  
+  chapters:
+    - index.qmd
+    - presentacion.qmd
+    - introduccion.qmd
+    - como_leer.qmd
+    - part: "2013"
+      chapters: 
+        - ano_2013_1.qmd
+        - ano_2013_2.qmd
+        - ano_2013_3.qmd
+    - part: "2014"
+      chapters: 
+        - ano_2014_1.qmd
+        - ano_2014_2.qmd
+        - ano_2014_3.qmd
+        - ano_2014_4.qmd
+    - part: "2015"
+      chapters: 
+        - ano_2015_1.qmd
+        - ano_2015_2.qmd
+        - ano_2015_3.qmd
+        - ano_2015_4.qmd
+    - part: "2016"
+      chapters: 
+        - ano_2016_1.qmd
+        - ano_2016_2.qmd
+        - ano_2016_3.qmd
+    - part: "2017"
+      chapters: 
+        - ano_2017_1.qmd
+        - ano_2017_2.qmd
+        - ano_2017_3.qmd
+    - part: "2018"
+      chapters: 
+        - ano_2018_1.qmd
+        - ano_2018_2.qmd
+        - ano_2018_3.qmd
+    - part: "2019"
+      chapters: 
+        - ano_2019_1.qmd
+        - ano_2019_2.qmd
+        - ano_2019_3.qmd
+    - part: "2020"
+      chapters: 
+        - ano_2020_1.qmd
+        - ano_2020_2.qmd
+        - ano_2020_3.qmd
+    - part: "2021"
+      chapters: 
+        - ano_2021_1.qmd
+        - ano_2021_2.qmd
+        - ano_2021_3.qmd
+    
+    - autor.qmd
+    - version.qmd
+  
+    
+format:
+  html:
+    theme: 
+      light: [cosmo, theme-light.scss, styles.css]
+      dark: [cosmo, theme-dark.scss, styles.css]
+      
+      
+      
+  pdf:
+    documentclass: scrreprt
+
+editor: visual
+

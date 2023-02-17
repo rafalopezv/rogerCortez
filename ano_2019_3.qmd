@@ -1,0 +1,592 @@
+---
+lang: es
+format: 
+  html:
+    page-layout: article
+---
+
+# La caída {.unnumbered}
+
+La Gran Quema de los bosques ---el rasgo más destacado y apremiante del cuatrimestre anterior--disparó el incendio del escenario político cuando en las elecciones nacionales se desataron, en súbita explosión, contradicciones acumuladas y reprimidas. A ellas se suma la estupefacción que se apoderó de la dirigencia del MAS al comprobar el derrumbe de sus planes [^1].
+
+Sin que haya transcurrido siquiera un mes de la atropellada fuga del binomio del MAS, y sin haberse terminado de apaciguar los choques más intensos y sangrientos, aparece en el horizonte la posibilidad de que este partido gane la primera vuelta (la primera, no en la primera) de las nuevas elecciones, con posibilidades significativas de conseguir un peso crucial en la composición del próximo Parlamento.
+
+No se debe perder de vista que, cualquiera sea la velocidad o los accidentes y desviaciones con que evolucionen esta coyuntura y las siguientes, los sucesos de octubre y noviembre marcan el comienzo del fin de un orden político.
+
+El tránsito puede completarse en meses o, como ya nos ha pasado antes, puede tomar un tiempo más prolongado (piénsese en las décadas que demoró la cristalización del país diseñado en la Constituyente de 1937) [^2]. Pero debe descartarse que culmine con la próxima elección.
+
+## Del "apagón" a la rebelión
+
+Con mucha anticipación a las elecciones, dos convicciones se habían arraigado vivamente en la opinión de una holgada mayoría de bolivianas y bolivianos, como lo mostraron múltiples y reiteradas encuestas en los meses previos a octubre: una, que el MAS ganaría las elecciones, y la segunda, que ese triunfo se debería necesariamente al despliegue de un fraude [^3].
+
+Sin embargo, cuando la Transmisión del Recuento Electoral Preliminar de votos (TREP), a cargo del Tribunal Supremo Electoral (TSE), se interrumpió bruscamente la misma noche de las elecciones, faltando menos del 17% de actas a verificarse ---casi calcando la experiencia mexicana de 1989---, empezaron a manifestarse reacciones en cadena ante la sospecha de fraude, demostrando que en ningún caso la reacción ciudadana se mantendría pasiva o resignada [^4].
+
+Estas reacciones no se produjeron en frío; habían sido anunciadas con suficiente anticipación a través de expresiones de diversa naturaleza, a partir del triunfo del No en el referendo constitucional del 21F y las incontables manifestaciones que refrendaron esos resultados. La continuidad de ese movimiento social, que se mantuvo con oscilaciones por más de dos años, tuvo como expresión mayor al cabildo de Santa Cruz de la Sierra el 4 de octubre, que advirtió estentóreamente al gobierno que cualquier indicio de fraude sería contestado vigorosa e inmediatamente.
+
+En esa masiva manifestación popular también quedaron prefigurados algunos de los nuevos y fundamentales rasgos del tipo de resistencia que se desplegaría ante la sospecha de manipulación del voto. Los más destacados fueron: i) el rol gravitacional que asumía Santa Cruz, a escala nacional, en una movilización de tales características; ii) la presencia central de jóvenes, adolescentes y mujeres en las movilizaciones; iii) el lanzamiento de nuevos actores políticos como protagonistas y iv) el encuentro y la alianza entre actores que previamente se hubiese considerado muy improbable o imposible (el más destacado: cívicos y CONADE) [^5].
+
+Un rasgo adicional y de la mayor importancia, aunque fue reiteradamente desdeñado por las empresas encuestadoras y por el gabinete de campaña del MAS, es que la reacción social ante la Gran Quema de la Chiquitanía (y de la Amazonía, el Chaco y el Pantanal), y la porfiada resistencia gubernamental a declararla Desastre Nacional, se había convertido en el motor de la convocatoria de ese cabildo y de sus derivaciones en el campo electoral.
+
+Más allá de lo electoral, en ese cabildo y en reuniones del Comité Cívico cruceño, en las que se abrió la participación al público, se expresó una profunda ruptura del llamado "modelo cruceño": la quema de los bosques mostró una tajante separación de intereses entre los grupos empresariales que lucran con el agronegocio y la especulación con las tierras ---como una suerte de subsidio a sus actividades agroganaderas--y la gente de a pie. Parece que estos últimos empiezan a percibir que los bosques, las fuentes de agua, de oxígeno y de biodiversidad constituyen nuestra principal esperanza de sobrevivir y de sustentar nuestra existencia [^6].
+
+Otros problemas subestimados por el Ejecutivo fueron el reclamo cívico potosino sobre las condiciones en que se contrató la explotación del litio, la marcha indígena que exigía reparar los daños de la Gran Quema en la Chiquitanía y el inacabable pleito con los médicos.
+
+Antes del "apagón" informático del 20 de octubre, que cortó la TREP, el primero en reaccionar fue el segundo en votación (Comunidad Ciudadana), con un mensaje del expresidente Mesa. Su equipo desbordaba de entusiasmo y sonrisas al sentirse prácticamente ganador de una segunda vuelta, asumiendo que no existía forma de que, con las pocas actas por verificarse, el MAS pudiese acumular los diez puntos de diferencia que requería para eliminar a sus contendores en la primera ronda.
+
+Simultáneamente, la estupefacción se apoderó del MAS con estos resultados iniciales, obligándolo a postergar su anunciada conferencia de prensa. Cuando esta se realizó, dejó ver el rostro cariacontecido del candidato oficialista y sus más próximos seguidores, aunque paradójicamente cantaban victoria [^7], seguramente amparados en la certeza que les daban los planes b), c) o d) preparados por su equipo, que tirarían por los suelos cualquier posibilidad de una segunda vuelta. Y es que en una segunda vuelta el triunfo de Morales sería simplemente inverosímil.
+
+Resulta perfectamente plausible asumir que, incluso cuando las encuestas de por lo menos dos años antes mostraban consistentemente que el MAS no alcanzaría el 50% de los votos y que inclusive tendría dificultades para remontar los 40%, el presidente alentaba la secreta esperanza de que los resultados superasen tales límites [^8]. En términos absolutos, los 2,7 millones de votos que el TSE reconoció al MAS en la elección última apenas suman 145 mil votos a los que obtuvo en el referendo de 2016, y son casi medio millón menos de los que obtuvo en la elección de 2014.
+
+```{r}
+#| include: true
+#| echo: false
+#| message: false
+#| warning: false
+
+library(downloadthis)
+
+source("data/ano_2019_3/ano_2019_3.R")
+```
+
+```{r}
+#| include: true
+#| echo: false
+#| message: false
+#| classes: light-mode
+
+hc_2019_3
+```
+
+```{r}
+#| include: true
+#| echo: false
+#| message: false
+#| classes: dark-mode
+
+hc_2019_3_dark
+```
+
+<p class="fuente">
+
+Fuente: Elaboración propia basada en Viaciencia
+
+</p>
+
+<center>
+
+```{r}
+#| include: true
+#| echo: false
+#| message: false
+#| classes: light-mode
+plot_ano_2019_3 %>% 
+  download_this(
+    output_name = "grafica conteo rapido",
+    output_extension = ".jpg",
+    button_label = " Descargar gráfica ",
+    button_type = "warning",
+    has_icon = TRUE,
+    icon = "fa fa-save"
+  )
+```
+
+</center>
+
+<center>
+
+```{r}
+#| include: true
+#| echo: false
+#| message: false
+#| classes: dark-mode
+
+plot_ano_2019_3 %>% 
+  download_this(
+    output_name = "grafica conteo rapido",
+    output_extension = ".jpg",
+    button_label = " Descargar gráfica ",
+    button_type = "default",
+    has_icon = TRUE,
+    icon = "fa fa-save"
+  )
+```
+
+</center>
+
+<br>
+
+```{r}
+#| include: true
+#| echo: false
+#| message: false
+#| classes: light-mode
+
+hc_2019_3_1
+```
+
+```{r}
+#| include: true
+#| echo: false
+#| message: false
+#| classes: dark-mode
+
+hc_2019_3_1_dark
+```
+
+<p class="fuente">
+
+Fuente: Elaboración propia basada en OEP
+
+</p>
+
+<center>
+
+```{r}
+#| include: true
+#| echo: false
+#| message: false
+#| classes: light-mode
+plot_ano_2019_3_1 %>% 
+  download_this(
+    output_name = "grafica computo",
+    output_extension = ".jpg",
+    button_label = " Descargar gráfica ",
+    button_type = "warning",
+    has_icon = TRUE,
+    icon = "fa fa-save"
+  )
+```
+
+</center>
+
+<center>
+
+```{r}
+#| include: true
+#| echo: false
+#| message: false
+#| classes: dark-mode
+
+plot_ano_2019_3_1 %>% 
+  download_this(
+    output_name = "grafica computo",
+    output_extension = ".jpg",
+    button_label = " Descargar gráfica ",
+    button_type = "default",
+    has_icon = TRUE,
+    icon = "fa fa-save"
+  )
+```
+
+</center>
+
+<br>
+
+El desglose departamental de la votación se consigna en el cuadro siguiente; en el subsiguiente, el que corresponde al origen del voto, ya sea en el país o en el extranjero. A pesar de que estos resultados perdieron validez legal con la anulación de las elecciones, tienen importancia estadística y son bastante útiles para el análisis sociológico y político.
+
+<br>
+
+<center>**Votación relativa por partido político conforme cómputo electoral por departamento en Bolivia (elecciones nacionales del 20 de octubre de 2019)**</center>
+
+```{r}
+#| include: true
+#| echo: false
+#| message: false
+#| classes: light-mode
+
+tabla_2019_3_1
+```
+
+```{r}
+#| include: true
+#| echo: false
+#| message: false
+#| classes: dark-mode
+
+tabla_2019_3_1_dark
+```
+
+<p class="fuente">
+
+Fuente: Órgano Electoral Plurinacional de Bolivia (<https://computo.oep.org.bo/#>)
+
+</p>
+
+<br>
+
+<center>
+
+```{r}
+#| include: true
+#| echo: false
+#| message: false
+#| classes: light-mode
+df %>% 
+  download_this(
+    output_name = "computo departamental",
+    output_extension = ".xlsx",
+    button_label = " Descargar tabla ",
+    button_type = "warning",
+    has_icon = TRUE,
+    icon = "fa fa-save"
+  )
+```
+
+</center>
+
+<center>
+
+```{r}
+#| include: true
+#| echo: false
+#| message: false
+#| classes: dark-mode
+
+df %>% 
+  download_this(
+    output_name = "computo departamental",
+    output_extension = ".xlsx",
+    button_label = " Descargar tabla ",
+    button_type = "default",
+    has_icon = TRUE,
+    icon = "fa fa-save"
+  )
+```
+
+</center>
+
+<br>
+
+Los elementos que más destacan al revisar los datos son, en primer término, la tendencia predominante del electorado a concentrar sus votos; en segundo término, que estas elecciones prácticamente eliminan a los partidos como canal representativo válido. Puede añadirse que el factor decisivo para el triunfo del MAS es la votación proveniente del extranjero.
+
+Respecto a la concentración de votos, los resultados por departamento muestran muy claramente cómo en todos, excepto Beni, más del 80% de los votos se canalizan hacia los dos primeros binomios.
+
+Los resultados muestran un país que ejerce su democracia prácticamente sin partidos, o al margen de ellos, ya que el grueso de la votación beneficia al MAS, una coalición de organizaciones sociales; en segundo lugar, a Comunidad Ciudadana, que es un conglomerado de colectivos de activistas y militantes; finalmente, la votación de Chi, apenas amparada por una sigla comercialmente disponible, pero prácticamente carente de real vida orgánica y militante, como es el caso del PDC. La del FRI, que posibilitó la inscripción de CC, puede también inscribirse en esa categoría.
+
+Sobrevivió, muy maltrecho ciertamente, el partido Demócratas, con su 4% de votación, como una referencia esencialmente regional y de proyección tan limitada como Unidad Nacional, que en estas elecciones optó por no exponerse directamente a los electores.
+
+Ante este cuadro se percibe que, prospectivamente, los problemas que tendrá que superar el MAS están principalmente en su propio seno más que en la amenaza de terceros, ya que su unidad se verá sujeta a fuerzas centrífugas considerables durante el próximo proceso electoral. Depende casi exclusivamente de sus propias decisiones si consigue preservar su espacio de organización política mayor o si se embarca en un rumbo de desgaste y minimización.
+
+Las tensiones entre los grupos corporativistas que le dan base y cuerpo se han agudizado en esta fase adversa, agregándose a las contradicciones que provoca una descendente capacidad gubernamental de satisfacer las exigencias y presiones de su dirigencia [^9].
+
+Las protestas iniciales contra resultados fraudulentos se inflamaron con la publicación del informe preliminar de la misión de observadores de la Organización de Estados Americanos (OEA), que pone en duda la autenticidad del brusco viraje que se observa con la reanudación de la publicación de datos, junto a otras anomalías, para concluir que la mejor solución, independientemente de los resultados, sería convocar a una segunda vuelta entre las dos primeras candidaturas [^10].
+
+## Noviembre ardiente
+
+El incendio del tribunal departamental electoral (TED) de Potosí el mismo día en que se dio a conocer el informe preliminar de la OEA fue la primera advertencia de la violencia que desataría el intentar imponer a cualquier costo unos resultados cada vez más dudosos. Ese ataque contra la instalación electoral (cuya autoría no se ha establecido) y otros hechos aislados abren espacio a las primeras acusaciones mutuas sobre quiénes impulsan y favorecen la proliferación de escenarios de violencia [^11].
+
+Al margen de tales rencillas políticas, la tónica prevaleciente entre las movilizaciones de resistencia fue pacífica, y tuvo como epicentro a Santa Cruz, mientras que la participación de los demás departamentos se caracterizaba por una cierta intermitencia en adoptar y cumplir las medidas adoptadas por el CONADE y las dirigencias cívicas [^12].
+
+La participación de los dirigentes políticos se limitó a pronunciamientos, en forma de comunicados, tuits o piezas audiovisuales. En el caso del candidato Chi, ya sea por la sorpresa del momento, ya por inexperiencia o por un soterrado pacto con el régimen, mantuvo un continuo y hermético silencio, apenas roto cuando las circunstancias no le dejaban otra salida.
+
+En conjunto, y durante todo el desenvolvimiento de los conflictos, los candidatos y sus organizaciones exhibieron una completa falta de aptitud para ponerse al frente de la movilización y para generar pautas que la orienten. La masiva concentración convocada por CC el 28 de octubre en La Paz daba pistas seguras de la disponibilidad social para encaminarse bajo una conducción y, simultáneamente, desnudaba el vacío que recibía como respuesta de los dirigentes, que apenas atinaban a hacer acto de presencia, pero sin un plan estructurado para enfrentar la situación.
+
+Esta ausencia amplió el espacio para la aparición de sujetos y grupos que se destacaron en las movilizaciones. Los comités cívicos se convirtieron en ese momento en un hervidero de aspirantes a montar la cresta de la ola; de ellos, Luis Fernando Camacho, de Santa Cruz, y Marco Pumari, de Potosí, se ubicaron fácil y vigorosamente por delante. En cierto momento, cada uno por su cuenta, había respaldado a Carlos Mesa como la opción electoralmente viable para enfrentar a Morales Ayma, pero ante la indomable resistencia de ese dirigente para asumir el rol de conductor político, ninguno perdió la oportunidad para proyectarse a sí mismo.
+
+Especialmente Camacho, que se apresuró al máximo ---exhibiendo un claro aprendizaje de los errores que cometió la élite cruceña en 2008---, se arrebujó en una bandera nacional y, escudándose tras una biblia y un rosario, desplegó un espectáculo con generoso derroche de testosterona que capturó la atención, y pronto también la adhesión de los miles que concurrían a los cabildos de Santa Cruz de la Sierra y otros en toda la geografía del país.
+
+Con un discurso sencillo y binario, muy parecido al del MAS en el sentido de "somos los buenos" y los otros "los malos", lanzando promesas tremendas ---como la de posesionar a Mesa si Morales no renunciaba[^13]--- y prodigando señales de intrepidez, empezó a copar la escena mediática, al mismo tiempo que el paro cruceño rompía récords y expectativas.
+
+Fue superando así, con inesperada facilidad, los vetos y recelos que provoca su inconfundible pertenencia a las élites oligárquicas y sus inclinaciones políticas e ideológicas, demasiado emparentadas con las de personajes de la estirpe de Jair Bolsonaro.
+
+La máxima concesión a la que atinó el MAS, ante la persistencia y la expansión nacional de la resistencia [^14], fue abrirse a una auditoría encargada a la OEA que, de cualquier manera, no alteraría su mayoría parlamentaria en ambas cámaras. En ese momento confiaba, aparentemente, en que los guiños amistosos que le había regalado Luis Almagro, secretario general de ese ente, durante una visita a invitación de Morales Ayma, eran suficientes para no temer sorpresas desagradables.
+
+De todas formas, el contrato que pergeñó y suscribió unilateralmente con la OEA le daba de la libertad de rescindir unilateralmente y sin explicaciones el convenio. Para mayor seguridad, ordenó al TSE que publicase el 24 de octubre los resultados "finales y definitivos" del escrutinio, con lo que, según la legislación boliviana, resultaban irrevisables e irreversibles.
+
+Correlativamente, la tensión y la violencia se incrementaron, hasta que corrió sangre con dos muertos en la ciudad de Montero, Santa Cruz, el 29 de octubre. A continuación, la fuerza adquirió centralidad en la escena cuando el gobierno decidió impedir que Camacho se apersonara en la sede de gobierno el 5 de noviembre, para entregar una carta en la que exigía la renuncia del presidente.
+
+Preso de un febril acceso de algo demasiado parecido a la superstición, Morales y su equipo ordenaron, de manera inocultablemente irracional y frenética, que altos dirigentes del MAS, autoridades y exautoridades (un exministro de Aguas y una de Justicia, entre otros) asalten y copen el aeropuerto internacional de El Alto para impedir que el cívico salga de esas instalaciones. Con el apoyo de bandas de militantes y, según algunas denuncias, de mercenarios comunes, ejercieron violencia racista y discriminatoria sobre los pasajeros cuyos documentos indicaban que habían nacido en Santa Cruz, vejándolos y humillándolos, para luego devolverlos a su ciudad de origen cual si se tratase de migrantes extranjeros ilegales [^15].
+
+Lejos de aprovechar la oportunidad única que le otorgaba Camacho al gobierno, con su anuncio de que obtendría su renuncia simplemente entregándole la carta y "llevando la biblia" a Palacio, en vez de recibirlo cordial y atentamente y pedirle que espere el tiempo que tome la respuesta, Morales, con sus acciones represivas, eleva la figura del cívico a un sitial donde, simbólicamente, adquiere la misma importancia que el jefe del Ejecutivo.
+
+En vez de sumergirlo en la impotencia y el ridículo ---como percibieron como riesgo inminente algunos de sus seguidores cuando el cívico anunció que su tiro de plata era la simple entrega de su carta---, la ira desorbitada del régimen rescata a Camacho y lo inserta en el Olimpo de los vencedores. La asociación entre su figura y la del potosino Pumari crea, además, rápidamente, la ilusión de una dupla que representaría al conjunto del país, capaz de coronar el triunfo de la movilización popular. Eso la convierte en carta ganadora en unas nuevas elecciones que ya se habían impuesto, como una fórmula que desplazó la demanda de segunda vuelta que estuvo vigente hasta fines de octubre.
+
+Para ese momento, la movilización retomaba a plenitud las reivindicaciones del 21F, al incluir la aplicación de la prohibición constitucional para que Morales y su acompañante García participasen en los comicios de 2020.
+
+El pedido de renuncia terminó por desbordar a los dirigentes políticos profesionales y los puso, definitivamente, a la cola de los acontecimientos. Ese pedido actúa, además, como gatillo de la violencia *in crescendo* que sucede a la toma oficialista del aeropuerto de El Alto, y neutraliza la tardía invocación de Morales Ayma a un diálogo [^16], que es solamente aceptada por Chi, quien se retracta casi de inmediato.
+
+Pocos sabían que el mensaje forzadamente conciliador del presidente era una desesperada ---pero ya inútil--- respuesta, que lanzó al haberse enterado de que la auditoría de la OEA emitiría un informe preliminar que deslegitimaba completamente las elecciones del 20 de octubre.
+
+Este último elemento redondeaba la percepción pública de que el MAS haría cualquier cosa para retener el poder. El partido lo había anunciado abiertamente en múltiples oportunidades y, más recientemente, con la amenaza directa de Morales Ayma (convertido en vocero) de cercar a las ciudades para derrotarlas por hambre [^17], en un acto con cooperativistas mineros el 26 de octubre.
+
+La inclemente represión policial de las manifestaciones y bloqueos juveniles y femeninos en las ciudades, y su aterrada respuesta al arribo de la carta de renuncia, habían terminado por cerrar el círculo de incredulidad y rechazo no solo de quienes votaron contra el MAS en octubre, sino de una parte considerable de los que persistieron en apoyarlo, como permitió descubrir semanas después la primera encuesta de intención de voto publicada luego de estos sucesos.
+
+## Matanzas y el éxodo de los no valientes [^18]
+
+Hasta el momento de redactar este informe, no fue posible localizar un solo documento o testimonio que anticipara la posibilidad de que Juan Evo Morales Ayma y Álvaro Marcelo García Linera escaparan, más o menos despavoridos, solicitando asilo a los pocos días de culminadas las elecciones nacionales. Por el contrario, existía un cerrado consenso de que nada impediría su nueva posesión a principios del próximo año.
+
+La primera fuga del Ejecutivo de la ciudad de La Paz al Chapare desconcertó a una gran mayoría, e hizo temer que la rabiosa ola de violencia, verificada principalmente en la sede de gobierno y en Cochabamba, podría extenderse incontrolable. Sobre todo porque, ya en esas circunstancias, se percibían diversos y vehementes indicios de que el MAS había preparado grupos parapoliciales y paramilitares capaces de embestir frontalmente contra la resistencia, junto con una narrativa que subrayaba la supuesta proscripción y sometimiento de "los indios" a manos de los enemigos del MAS.
+
+Las características de incuestionable orientación terrorista, en el sentido más estricto del término ---es decir, la ejecución de acciones violentas contra la población civil desarmada y, muchas veces, ajena a los enfrentamientos--- que se verificaron la noche del 10 de noviembre en las laderas surorientales de La Paz [^19], en El Alto y en otros sitios presagiaban que los personeros del régimen habían decidido desplegar una ofensiva a gran escala para asegurar su inamovilidad y su blindaje ante acciones legales.
+
+Cuando se trata de comprender las causas profundas que llevaron a que Morales optara por renunciar, y huir primero al Chapare y luego a México, trizando (como se ha afirmado) todos los pronósticos al respecto, la mayor de todas parece ser el anuncio del Alto Mando militar de que se sumaría a las fuerzas policiales para contener la expansión de la violencia callejera. Con ello contradiría las expresas y continuas instrucciones de Morales y sus ministros de no auxiliar a la Policía [^20].
+
+La pérdida de control sobre las FF. AA. trastorna la estructura básica del imaginario con que el expresidente empezó a gobernar desde el primer día. En este destaca una marcada nostalgia por su época de conscripto, a la que se suma la más profunda devoción hacia lo militar. Esta suerte de fetichismo por lo castrense ---amén del pragmatismo generalizado entre los dirigentes políticos bolivianos--- se expresó en privilegiar sus relaciones con la cúpula de la institución armada (en sagradas reuniones semanales de "coordinación") [^21], premios y beneficios especiales, incluyendo cargos y designaciones diplomáticas a excomandantes, con una protección manifiesta en casos de acusaciones contra sus miembros y la total adhesión del gobierno hacia los mandos cuando suboficiales demandaron la descolonización de las Fuerzas Armadas.
+
+La pérdida de control de los militares, sumada al conocimiento del adelanto informativo de la auditoría de la OEA [^22], consigue finalmente quebrantar su ánimo, que hasta ese momento había encajado, aparentemente sin mayor problema, el carácter plenamente nacional de la resistencia popular, e incluso la insubordinación policial [^23].
+
+El pico violento ascendió con un simétrico incremento de muertes cuando, apelando a una sentencia constitucional de 2001, los senadores del partido Demócratas ungieron a la segunda vicepresidenta de la Cámara Alta, Jeanine Añez, como presidenta interina. Con ello desbarataron el plan masista de forzar, mediante las renuncias en cadena de las tres primeras autoridades, un vacío de poder [^24] que permitiría a Morales Ayma retomar el control del Ejecutivo.
+
+El desconcierto masista se expresa, en un principio, en la combinación de acciones callejeras con la victimización de Morales Ayma [^25], presentado en vitrina como un reformador social atacado por el imperio y la extrema derecha [^26].
+
+## El fraude y el nuevo gobierno
+
+El informe preliminar de la OEA, señalando grandes anormalidades en la elección, así como la renuncia del presidente, el vice y la presidenta del Senado, crearon una oportunidad única para que la astucia leguleyesca, tan recurrente en nuestra historia, brille en una combinación ejecutada por el equipo de Demócratas y allegados a Luis F. Camacho, con asesoría de un abogado y exlegislador del Movimiento de Izquierda Revolucionaria (MIR). La búsqueda de una fórmula que permita alguna posibilidad de sucesión constitucional encuentra una declaración del entonces Tribunal Constitucional (la 0003/01 del 21 de julio de 2001) que se ajusta al requerimiento.
+
+Con esa declaración constitucional en mano, la segunda vicepresidenta del Senado, Jeanine Añez Chávez, acude al TCP para consultar si, sobre esa base, puede pasar a ejercer el cargo de presidenta del Estado Plurinacional de Bolivia, mediante un mecanismo de sucesión ante la ausencia de quienes la preceden en el orden constitucional. Con fulgurante rapidez, el TCP afirma, sin reservas ni embrollos, que la sucesión procede. Así, en una sesión de la que están ausentes dos terceras partes de los senadores, jura al cargo y se posesiona, cumpliendo su aspiración y la de Luis F. Camacho de *hacer retornar* la biblia al Palacio Quemado [^27].
+
+El resultado práctico de la huida de Morles Ayma y García Linera, que escondía un plan de retorno rápido, es el ascenso vertiginoso del número de muertes durante las movilizaciones en Senkata, El Alto, y Sacaba, al ingreso a la ciudad de Cochabamba. En este caso las víctimas son, en sumayoría o en su totalidad, de los grupos que piden la destitución de la presidenta Añez, el retorno de Morales y el desagravio a la whipala, que había sido quemada y arrancada de uniformes policiales [^28].
+
+Sobre estos cimientos se abre la todavía vigente pugna sobre la veracidad de que la renuncia de los hombres y mujeres fuertes del régimen masista se debe a un golpe de Estado o no [^29]. La izquierda internacional ha respondido casi unánimemente, proclamando a grandes voces, que no hubo fraude y que el golpe de Estado es incuestionable. Son pocos los cuadros progresistas que, conociendo la travesía cada vez más autoritaria, antiindígena, desarrollista y "extractivista" del MAS, interpretan que el régimen ha implosionado y generado las bases de su propia caída [^30].
+
+Pero, ya se trate de posiciones que afirmen la existencia del golpe o de las que la refuten, suele perderse de vista que el hecho esencial a dilucidar es la situación de legalidad ---previa, durante y ulterior a su salida--- del gobierno. Desde esta posición se advierte que el cimiento de toda la institucionalidad y legalidad del país, que es la Constitución Política del Estado, estaba en suspenso desde el 28 de noviembre de 2017.
+
+En esa fecha el TCP ---conformado por un grupo de adherentes al MAS, debido a que fueron seleccionados como candidatos por ese partido para las primeras elecciones judiciales---, emitió el fallo 084-2017, que declara, a pedido de la bancada oficialista, que nuestra Constitución es inconstitucional. Por ello procede a la simple supresión o ilegal reforma (sin consulta popular) de los artículos referidos a reelecciones y, más importante todavía, anula de hecho el referendo constitucional del 21 de febrero de 2016, sin siquiera mencionarlo, cuando ellos, al igual que cualquier otro funcionario juez, carecen de potestad para hacerlo.
+
+Dos días antes de terminar su mandato, esos funcionarios oficialistas ---coaccionados además por la amenaza de que se ejecutarían decenas de procesos por corrupción contra ellos [^31] si no fallaban favorablemente--- deciden que la CPE solo puede aplicarse si cuenta con su venia. Es decir, la suspenden inmediatamente ya que, en cualquier controversia constitucional, son ellos y no el texto constitucional, ni la voluntad soberana del pueblo, los que deciden. Sus reemplazantes, hoy en funciones, avalaron íntegramente su criterio y su conducta [^32].
+
+Si el gobierno de la señora Añez obtuvo de ellos un gesto tan amistoso como la venia que le otorgaron, debe buscarse la causa en el espíritu oportunista de los componentes de esa institución y el profundo temor de que se les pida cuentas por sus fechorías, especialmente la monstruosa reforma de la Constitución.
+
+La desatención que se presta desde las esferas oficiales al gran margen de maniobra del TCP, al omitir una enérgica y rápida rectificación del verdadero golpe de Estado que ejecutaron en 2017, es propio del origen, contextura y límites del gobierno interino [^33].
+
+En esencia, dicho gobierno es resultado de una alianza pragmática de dos alas de la clase dominante tradicional, que ha afincado sus mayores negocios (agroganaderos, financieros y comerciales) en Santa Cruz. Confrontadas duramente desde 2008, sus representantes más conocidos son el gobernador Rubén Costas, que también encabeza a Demócratas, y en la vereda del frente, Branco Marinkovic, exdirigente cívico, mentor y respaldo principal de Luis Fernando Camacho [^34].
+
+Mientras que la primera encontró mecanismos de coexistencia y convivencia con el MAS, la fracción de Marinkovic tuvo que soportar el exilio de su máximo representante y participar soterradamente, y sin directo derecho a voz y voto, en los espacios que abrió el MAS para compartir con el empresariado y, a continuación, para otorgarle un espacio protagónico en la próxima fase de su gobierno, que debía iniciarse el próximo 23 de enero.
+
+El programa de reelección de Morales Ayma y García Linera, la Agenda Patriótica, prueba las relaciones carnales entre la cúpula del MAS y su base colonizadora-empresarial soyera (incluyendo la pequeña-mediana) y la cúpula empresarial agroganadera, financiera y comercial asentada en Santa Cruz. Estas fracciones sociales no se sienten completamente representada por el partido Demócratas [^35], que es por el momento la organización política más afín a ellos; por ello, es posible que el proyecto electoral de L. F. Camacho les resulte más atractivo.
+
+La fracción minoritaria, pero muy poderosa, de Marinkovic, que no gozó de las preferencias y de la proximidad con el gobierno que consiguió la primera, se puso a la cabeza de la oposición corporativa empresarial contra Morales y Costas. Ante la renuncia de Morales, Camacho, el Comité Cívico y la facción de Marinkovic consideraron la posibilidad de impulsar un acuerdo cívico-militar [^36], pero retrocedieron ante el muy alto grado de incertidumbre y debilidad que suponía.
+
+Se ha conformado así un gobierno de naturaleza profundamente conservadora, "cuoteado" entre los Demócratas y los allegados a L. F. Camacho [^37] (Marinkovic), que representan al sector más duro en las carteras de Gobierno, Defensa, Comunicación y Cancillería.
+
+De manera unánime y compacta, cayendo inclusive en actitudes caricaturescas, el gabinete de Añez ha realizado extraordinarios esfuerzos para "reparar" las relaciones con Estados Unidos. Han sido tales sus ansias, que la representación de ese país ha tenido que aclarar que la restitución de embajadores llevará un tiempo y que, en consecuencia, era prematuro nombrar embajador al encargado de negocios Oscar Serrate Cuéllar [^38].
+
+El arraigo de las peores y más antiguas mañas que caracteriza lo mismo a la militancia de Demócratas, como a sus detestados pero inevitables socios *camachistas*, ha empezado a filtrarse cotidianamente en las noticias sobre nepotismo y tráfico de influencias [^39] en el Ejecutivo, o en la selección de ternas de vocales para los TED en lugares como Santa Cruz.
+
+## Las disyuntivas del MAS
+
+Los hechos han probado taxativamente ---como se ha sostenido reiteradamente en esta serie de análisis--- que el carácter corporativista del MAS es, al mismo tiempo, fuente de su potencia y de sus mayores vulnerabilidades. Los grupos corporativos que son la base del MAS, ya sea como organizaciones sociales o asociaciones gremiales de diverso tipo, tienen desarrollado el más fino olfato para detectar las situaciones favorables a sus intereses sectoriales o, en su caso, los riesgos que pueden amenazarlos.
+
+La unidad alrededor de Evo Morales Ayma y del MAS fue hasta ahora la mejor forma de protegerse y de negociar ---y también de pugnar con las corporaciones afines---; sin embargo, su caída promueve revisar posiciones.
+
+La súbita desaparición de Morales del centro de la escena descompone este orden de equilibrios precarios, que requería indispensablemente de un caudillo fuerte y con capacidad de mediador y árbitro indiscutible. Su ausencia activa hondos y complicados resentimientos ---posiblemente cercanos a una sensación de orfandad---, pero también agudiza los reflejos de autopreservación y, de este modo, eriza los roces y las disputas internas.
+
+La autonomía relativa que ha ostentado la bancada del MAS, con sus diferencias entre duros y flexibles, exhibe el proceso de adaptación de sus componentes. Ese juego le ha permitido al gobierno interino, compuesto por políticos entrenadísimos en las artes de la componenda, frenar la oleada bélica que promueve Morales [^40], apoyándose en el grupo más próximo de la burguesía burocrática de Estado, generada por el régimen, y de la burocracia sindical asociada.
+
+La aprobación unánime de la Ley de Régimen Excepcional y Transitorio para la Realización de las Elecciones Generales, que incluye la elección de los miembros del TSE y excluye a Morales Ayma y García Linera como candidatos, representa un retroceso del dominio absoluto ejercido por Morales y muestra fisuras que pueden ensancharse y amenazar la inquebrantable unidad monolítica del MAS.
+
+Su último ampliado, el sábado 7 de diciembre de 2019 en Cochabamba, proyectó una imagen unitaria en torno a las consignas más duras, en un ambiente tal que le permitió a Morales, mediante comunicación telefónica, tratar de liquidar el estigma de prófugo y cobarde, al mostrarse como un león rugiendo: "Cualquier momento, quiera o no quiera la derecha, digan lo que digan, hagan lo que hagan, pronto voy a estar en Bolivia para que juntos enfrentemos las elecciones y las ganemos como siempre lo hemos hecho" [^41].
+
+La frase refleja claramente el ánimo y los objetivos del líder, pero su aparente claridad y decisión no se compadecen de las dudas, la desconfianza, los temores y los celos que priman ahora en amplios sectores de su militancia organizada. Las contradicciones y tensiones internas del MAS se van resolviendo hasta ahora, una a una, bajo una dinámica muy reñida de tendencias en pugna.
+
+La elección de candidatos para las elecciones definirá el grado y el número de divisiones internas a las que tendrá que enfrentarse en el futuro. Pero si el grado de estupidez que precipitó su caída es igualado y superado por la oposición política, como ha ocurrido casi ininterrumpidamente desde 2006, sus expectativas pueden mejorar mucho.
+
+## Panorama económico
+
+En lo que hace a la situación económica, aunque no se ha ingresado en una espiral de crisis, su grado de deterioro predispone a que las disputas por excedentes se agudicen (presiones salariales, exigencias de privilegios sectoriales para empresarios, cooperativas mineras y otros similares) y generen protestas sociales. El ministro del área, que es uno de los cuadros más experimentados y prudentes [^42] del gabinete, ha aseverado que no hay catástrofes en puertas, ni necesidad de ajustes bruscos durante la duración del gobierno provisional.
+
+El resumen preparado por el economista Gonzalo Chávez, que se cita a continuación, es menos optimista:
+
+> *La economía está desacelerada. En este periodo que termina llegaremos al 3% del PIB, máximo. \[Acumulamos\] cinco años consecutivos de déficit en cuenta corriente, que incluye el desajuste comercial (importaciones mayores que exportaciones). En el 2019, el déficit en cuenta corriente llegará al 5% de Producto Interno Bruto (PIB).*<br> Se gasta e invierte mucho más de lo que se recauda con impuestos. El déficit público acumulado es superior a 12.000 millones de dólares y en 2019, la brecha fiscal será superior al 8% del PIB.<br> La pérdida de reservas internacionales del Banco Central fue de 8.500 millones de dólares desde 2013. Gastamos 1.417 millones por año de nuestros ahorros para mantener una burbuja de consumo e inversiones públicas de dudosa rentabilidad.<br> El incremento de la deuda externa llegará a más del 25% del PIB y la deuda interna subió en un valor similar. Las empresas públicas presentan serias dificultades financieras.
+
+Excesiva o no, esta visión prima entre los técnicos y los dirigentes opositores. Es necesario prestar especial atención a dos variables, no explícitamente mencionadas por Chávez: la disminución del margen entre los ingresos que percibe el país por exportación de gas y lo que debe gastar en importar diésel y gasolina [^43], así como el continuo crecimiento de las importaciones de alimentos. La suma de importaciones solo de combustibles y alimentos en 2018 se aproxima a los 2.000 millones de dólares, mientras en ese año nuestras exportaciones de gas llegaron a 2.334 millones de dólares.
+
+La movilización contra el fraude, por la defensa de la Constitución y la democracia, da serias pistas para suponer que cualquier ajuste económico, al estilo Fondo Monetario Internacional, practicado por Macri, Temer, Bolsonaro o Lenín Moreno, se topará con una muralla social tan seria como las que se han visto en Chile y otros vecinos.
+
+El MAS puede especular que estas reacciones reflejarían algún tipo de fidelidad a su sigla y modelo, pero no puede estar más equivocado porque en las circunstancias presentes, de haberse impuesto y asegurado su continuidad, nos hubiera colocado en breve, como sociedad, ante la disyuntiva de aceptar paquetazos económicos. Esto, debido a que su plan de nuevas grandes y fallidas inversiones en un patrón industrialista obsoleto, con alto endeudamiento y devastación intensiva de la naturaleza, aceleraría las contradicciones sociales y las protestas.
+
+## Cambio de época
+
+El principal riesgo de que se reactive la violencia proviene de la estructura del MAS, que constituyó una especie de oleocracia ---usando el término creado por Marcelo Quiroga Santa Cruz--- de fracciones campesinas enriquecidas, que apostaron por un modelo capitalista depredador y basado en la expansión del mercado y la especulación de tierras como punto de encuentro y entendimiento con la burguesía más concentradora de capital.
+
+Esta última prefiere, ciertamente, una representación política surgida de sus propias filas, pero al estar entrenada a coexistir provechosamente con un régimen corporativista, no tendría mayores dificultades en reactivar dicha alianza si las circunstancias lo requieren.
+
+Durante estos 14 años, desde el centro del poder se trabajó incansablemente para cerrar paso a la transformación del viejo Estado para transitar al Estado plurinacional bosquejado en la Constitución. Del mismo modo, se canceló cualquier aproximación a la pluralidad económica y democrática, a la descentralización y las autonomías; a una verdadera y amplia participación y a un control social sobre el Estado. Se restringieron los derechos colectivos de los pueblos y se castigó severamente la disidencia y la oposición.
+
+Llegamos al final de la experiencia de un tipo estatal corporativista, altamente centralizado y de nítida orientación autoritaria, expresivo de un bloque social de campesinos ricos (fracciones de cocaleros y soyeros medianos), contrabandistas y burguesía importadora de bienes de consumo, cooperativistas mineros y una burguesía burocrática de Estado. Su acumulación propia se basó en la colonización y el tráfico de territorios colectivos (reservas naturales) e indígenas, en corrupción intensiva y permisividad con el negocio de cocaína.
+
+Aliada con la burguesía agroexportadora, la banca y la burguesía comercial tradicional (la nueva de origen popular ha sido parte del bloque de poder), consiguió mantener las políticas económicas más exitosas de la región en términos de expansión del consumo, de crecimiento improductivo del PIB, un cierto nivel de redistribución y buena contención de la inflación, manteniendo privilegios y concesiones para los sectores corporativos que le fueron leales [^44].
+
+Son el funcionamiento del tipo de Estado y el bloque de poder sobre el que se fundó los que se han hecho insostenibles, y condujeron a la caída del gobierno del MAS. Esto marca el comienzo de un cambio de época, que conducirá al realineamiento de coaliciones sociales y bloques de poder capaces de expresar eventualmente un horizonte y proyecto de país que, de momento, no asoman en ninguna parte y, menos aún, en el plano electoral.
+
+Es bastante evidente, además, que tampoco existen condiciones para una simple restauración del orden previo y para la reinstalación de la paz neoliberal de la última década del siglo XX. Como no asoman señales perceptibles del alumbramiento de un nuevo proyecto, el tránsito a un nuevo orden puede resultar prolongado y, mientras más se extienda su espera, resultará más difícil y agónico para nuestra sociedad.
+
+Toda la algazara masista respecto a que su "Agenda 2025" (o "Agenda Patriótica") proyectaba el modelo social comunitario a un nivel superior, donde finalmente se abría paso completamente la "industrialización de los recursos naturales" y se empezaba a cambiar el patrón productivo, nunca pasó de ser una expresión de deseos y propaganda pura. Sin embargo, importantes sectores afiliados o votantes del MAS creen en su veracidad y están convencidos que esta agenda expresa los planteamientos que ellos hicieron en las rondas de socialización de dicha propuesta en la fase preelectoral [^45].
+
+En realidad, como se ha insistido en varios de estos análisis, la propuesta electoral se resume en la construcción de megarepresas + ampliación de la frontera agrícola + contrato para explotación litio. Dicho de otro modo, un proyecto devastador de la naturaleza, endeudador a escala gigantesca y de subordinación nacional ante los financiadores del plan.
+
+Todas las propuestas electorales sometidas al voto en octubre aceptan, resignada o entusiastamente, nuestra completa dependencia de la explotación de hidrocarburos, que, con la minería y las exportaciones agroganaderas, serían las fuentes prácticamente únicas de los ingresos nacionales.
+
+Todas admiten que el cambio climático y la precariedad de los avances contra la pobreza y la desigualdad deberían impulsarnos a cambiar el patrón productivo. Pero, en esencia, hay una coincidencia unánime, no necesariamente explícita, de que la transición requiere no menos de dos décadas ---el mismo plazo mencionado por García Linera como necesario "para superar el extractivismo"---.
+
+Por lo general, esos planes omiten tomar en cuenta las advertencias del panel de expertos de Naciones Unidas en sentido de que estamos muy cerca de que el cambio se haga irreversible, y sus consecuencias destructivas, incontrolables.
+
+La diferencia más grande entre el MAS y los otros es que el primero gira en torno al protagonismo estatal y los demás, a la inversión privada y extranjera. Comunidad Ciudadana introduce el matiz de proponer una política pública claramente más amigable con el medio ambiente, pero también descarta cambios acelerados de matriz productiva.
+
+Un cambio de época que no se base en la transformación productiva profunda y radical quedará bloqueado, o muy entorpecido, por el predominio de los agentes sociales que sostienen el modelo depredador que caracteriza a la economía del país. La ampliación de las libertades democráticas y las intenciones de institucionalizar bajo el predominio de la ley no alcanzan de ninguna manera para sostener una transición hacia otro modelo de desarrollo y de país.
+
+La sensibilidad social frente a estos problemas ha avanzado en alguna medida, pero está lejos de alcanzar un grado de madurez que favorezca la irrupción de propuestas y programas políticas que alteren con la profundidad suficiente los imaginarios y el sentido común predominantes.
+
+## Tendencias prospectivas
+
+El protagonismo de militantes mujeres ---por un lado, la senadora Eva Copa, y por el otro, algunas de las principales dirigentes sindicales campesinas--- da luz a un capítulo muy peculiar de la historia del MAS y del país, a la cual no es del todo ajena la presidenta interina, que se ha mostrado capaz de desconcertar inclusive a sus asociados. El Parlamento de las mujeres, impulsado por "Mujeres Creando", ha servido de escaparate para descubrir un posible espacio de nacimiento de dirigentes femeninas que habrá de probarse en los siguientes meses.
+
+La mayor presencia femenina ha estado acompañada de la aparición de nuevos actores, como los que provienen del intento de reconstruir comités cívicos. Se manifestó entre medio, muy fugazmente, un nutrido y locuaz grupo de representantes de "comités cívicos populares" que ayudaron a caldear las tensiones de La Paz, con un estilo muy propio de remontadores de olas políticas, pero apenas alcanzaron a exhibirse por un tiempo algo mayor al que dura una rompiente.
+
+Es diferente el caso de Luis Fernando Camacho y de Marco Pumari, que tienen una representatividad y raíces más hondas. Además de lo que ya se ha apuntado sobre el dirigente cruceño, sus características personales en cuanto a osadía, impulsividad e impetuosidad calzan perfectamente, y mejor que el exitoso Percy Fernández, en ciertos patrones y estereotipos muy apreciados por el consumo de personajes vistosos, y no solamente en Santa Cruz.
+
+Esto se potencia con el manejo dramático de toques religiosos, cuya apetencia ha aumentado muy estimulada por el clima de incertidumbre, como bien lo mostró la importante votación que obtuvo Chi Hyun Chung.
+
+Marco Pumari, de apariencia más tímida y modesta, puede parecer una imagen actualizada de cómo se mostraba Evo Morales en sus inicios, con la ventaja de que quienes lo han identificado como su reemplazante seguramente daban por hecho, o todavía lo dan, de que se trata de una versión corregida y mejorada.
+
+Los implacables hechos dañaron gravemente esa imagen cuando Camacho propaló conversaciones grabadas en las que Pumari pide una suma de dinero para su campaña [^46], y que se gestione en su favor (no para mí, ha dicho el dirigente, para Potosí) el control de Aduanas en dos departamentos.
+
+La difusión de la conversación ---que se ajusta a un patrón calificado como mafioso y chantajista por algunos de los que lo han criticado--- serviría para que Camacho se deshaga de un aliado que ayudó mucho al crecimiento de su imagen electoral como dirigente inclusivo, democrático y de alcance nacional, pero muy incómoda, a continuación, por todo tipo de incompatibilidades, incluyendo las clasistas, étnicas y de representación de intereses básicamente contrapuestos.
+
+Pese al rápido y duro desgaste de las expectativas que despertaron, aún disfrutan de una imagen positiva asociada a la sensación de alivio colectivo que se respira ahora, después de la ansiedad y el profundo temor que se vivió durante la segunda quincena de noviembre. Pero, como se ve, ese alivio reposa sobre bases muy endebles, por lo menos en lo que toca a las prácticas de la mayor parte de representantes políticos.
+
+Por un lado, el oportunismo del gobierno interino [^47] (nueva versión del "ahora que podemos..."), se presta para desatar tormentas instantáneas e inesperadas; por el otro, el aparato belicista que prepara y dirige Morales Ayma a escasos metros de nuestra frontera sur puede generar escenarios de alta volatilidad, que contrarían frontalmente la inclinación que caracteriza a nuestra sociedad ---y no solo ahora--- a preferir y buscar soluciones pacíficas.
+
+El fundamento de la durabilidad de la paz social depende ahora principalmente de la disposición de ánimo y la experiencia de la sociedad, y no de la sagacidad o responsabilidad de la mayoría de los dirigentes políticos y sindicales. Los resortes de discursos y símbolos de confrontación étnica y racial que se han puesto en juego durante la última fase, que culminó con la salida de Evo Morales, representan la mayor amenaza de resurgimiento e intensificación de confrontaciones violentas.
+
+En el plazo más próximo, las semanas que restan para que fenezca el período constitucional vigente, el 21 de enero, estarán teñidas por una intensificación de tensiones políticas alrededor de la composición del Órgano Electoral Plurinacional (OEP), que abarca al nuevo TSE y a los TED. Esta definición se combina con la necesidad de extender el plazo de vigencia del gobierno interino y de la Asamblea Legislativa.
+
+La dirección del MAS se está esforzando por mostrarse inflexible en imponer el peso de sus dos tercios en el Legislativo, tanto en el nombramiento de vocales electorales como en no prorrogar la vigencia del gobierno interino, sentenciado por la CPE a no durar más de 90 días.
+
+El TCP jugará un rol preponderante en este último campo. Si hasta el momento de pronunciarse sobre la prórroga no ha anulado la sentencia 0084-2017, cobra intensidad la amenaza de que una eventual negativa a autorizar la extensión del mandato, manteniendo vigente dicha sentencia, supondría anular a la Ley No 1266, de Régimen Excepcional y Transitorio para la Realización de las Elecciones Generales, de 24 de noviembre de 2019, con la automática rehabilitación de la candidatura de Morales.
+
+No es esta la tendencia central de la coyuntura, ni su resultado más probable, sino el desenlace con que aun sueña la cúpula del MAS y que tratará de forzar. La tendencia central es la de una sórdida [^48] y opaca negociación entre el gobierno interino y la representación debilitada y dividida del MAS, que ampliará la extensión del primero y del Parlamento.
+
+Un TSE renovado presidirá una elección más limpia y equitativa para los candidatos y coaliciones electorales, aunque básicamente desprovista de opciones para los electores en materia de avanzar hacia un nuevo modelo de desarrollo y una vigencia cabal de los avances contenidos y proyectados en nuestra CPE.
+
+Como segundo escenario inmediato está la posibilidad de un estancamiento de las negociaciones que, sin llegar al extremo de volver a generar un gobierno vacante, conduzca a una seguidilla de enfrentamientos con rebrotes de confrontación, cuyo límite está fijado por la vigorosa decisión social (y también militar y policial) de cerrar el paso a una intentona de retorno inmediato del MAS.
+
+Bajo la hipótesis de que la tendencia principal es que se abra paso a nuevas elecciones, en ese proceso se insinúa que, pese a su significativo debilitamiento, el MAS continúa siendo [^49] la organización con mayores posibilidades de obtener la mejor votación en primera vuelta, pero sin chance de ganar la segunda. Sin embargo, contaría con la ventaja de obtener la representación parlamentaria más nutrida (alrededor de un tercio de bancas), lo que implica un altísimo poder y la capacidad de mantener en vilo la gobernabilidad del próximo régimen.
+
+Comunidad Ciudadana todavía tiene la chance de ocupar el mejor espacio para disputar con el MAS, siempre y cuando no se sumen a BDN las tentaciones de Doria Medina ---que se insinúan atenuadamente--- o de otro pretendiente a ocupar el centro (probablemente Demócratas, con un nuevo candidato).
+
+El potencial electoral de Mesa aparece tanto o más dañado que el del MAS porque seguramente perderá gran parte del voto útil de Santa Cruz, que representa un tercio de sus votos, y menguará en otros distritos. No es muy fácil que CC comprenda que la mejor posibilidad de recuperar votos depende de que busque y encuentre mensajes y medios que le permitan atreverse a interpelar a aquellos electores que sostuvieron al MAS, principalmente por resignación y temor, pese a conocer lo corrupto y decadente que era su régimen.
+
+Chi, Camacho y, con menores probabilidades, Pumari, disputarán un espacio no completamente nuevo, pero muy engordado con los nuevos decepcionados del MAS, surgidos más bien de sus alas más radicales y de la pobre capacidad de la oposición política durante la movilización social que se enfrentó al régimen.
+
+El proceso electoral tiende a acentuar los perfiles que ya se insinuaban en las elecciones de octubre, es decir, que el próximo gobierno nazca débil, acompañado de un parlamento fragmentado; esta vez posiblemente más fragmentado que en la elección anulada.
+
+El debilitamiento del sistema de representación política, en su dimensión partidaria y sindical, fortalecerá la presencia y la actuación de componentes que tuvieron un peso mayor hasta el arribo del MAS: las iglesias, los medios de difusión masiva y las ONG, entre los más conocidos. En ese sentido, existe una ventana de oportunidad para impulsar la recuperación de la autonomía, la democratización y la revitalización de organizaciones sociales y el fortalecimiento de la sociedad civil.
+
+La menor disponibilidad de ingresos nacionales activará dinámicas salarialistas y de reivindicaciones múltiples que serán infructuosas y desgastantes para todos los actores involucrados, en la medida en que no hallen vías de convergencia hacia una plataforma común capaz de superar la dinámica sectorialista que ha predominado en los últimos años. Si el movimiento popular no consigue trascender esos hábitos, contribuirá a incrementar las condiciones del deterioro económico general y del fortalecimiento de propuestas políticas regresivas.
+
+Esa menor disponibilidad de recursos afectará también la cúpula de los grupos corporativos y de las organizaciones sociales que actuaron como socios cogobernantes del régimen masista. Pero no hay garantías de que esto contribuya al saneamiento y la recuperación de la independencia de estas organizaciones, porque los ajustes de cuentas entre facciones y el rebrote de caudillismos estarán muy presentes.
+
+La combinación de nuevos desafíos y la existencia de un cierto nivel de empoderamiento de amplios grupos sociales con base a un mayor conocimiento de sus derechos, junto a la vigencia de un cierto impulso de renovación, puede lograr que las condiciones adversas se contrapesen con un intensivo trabajo de promoción y fortalecimiento de nuevas dirigencias de base e intermedias.
+
+Reivindicar nuestra maltratada Constitución, que ha probada ser ajena al MAS en su contenido fundamental, puede ser la mejor referencia de unidad para recuperar la autonomía de las organizaciones sociales y para ir trazando una plataforma programática orientada a buscar un modelo alternativo de desarrollo.
+
+Las bases de un programa mínimo de transición ya han aparecido en algunas luchas de resistencia popular: el planteamiento de una pausa ecológica prolongada contra quemas, desbosques y cambios del uso de suelos; reorientación de la inversión pública, orientada a superar la completa dependencia de la explotación hidrocarburífera, minera y de los negocios agroganaderos; transformación agrícola orientada a garantizar la seguridad alimentaria; transformación de la matriz productiva con la expansión acelerada de sectores que permitan multiplicar la cantidad de visitantes al país.
+
+Las demandas en mejoras de la salud y la educación pública ocupan un primer plano de la atención ciudadana, y son inseparables de una acelerada y honda reforma de la administración de justicia (tal vez acudiendo a garantes y apoyos internacionales, como se intentó en Guatemala). La recuperación democrática demandará efectivizar las autonomías, fortaleciendo procesos de descentralización, participación y control social.
+
+<br>
+
+::: {style="text-align:right; font-weight: bold;"}
+Diciembre de 2019
+:::
+
+## Notas
+
+[^1]: El impacto de la Gran Quema sobre las elecciones, está señalado en la anterior edición de este boletín (agosto 2019) al apuntar que: “la  coyuntura de los incendios hace más difícil (..) la acumulación oficialista y favorece la posibilidad de que se llegue a la segunda vuelta, con una oposición débil y desconcertada (…) el desgaste de credibilidad enorme que afecta al oficialismo por su comportamiento ante el desastre de los incendios, toca una profunda fibra nacional  y desgasta notoriamente su legitimidad y credibilidad, si consigue reelegirse”. Pág. 7
+
+[^2]: Para despejar cualquier tendencia a la desesperación, podemos estar seguros que en ningún caso sumará el siglo que le tomó al estado post monárquico el consolidarse, después de la caída del absolutismo en Francia
+
+[^3]: Ver: [https://www.lostiempos.com/actualidad/pais/20190929/fraude-electoral-aumenta-temor-poblacion](https://www.lostiempos.com/actualidad/pais/20190929/fraude-electoral-aumenta-temor-poblacion), [https://www.paginasiete.bo/nacional/2019/3/31/el-72-cree-que-en-las-elecciones-presidenciales-habra-fraude-213653.html](https://www.paginasiete.bo/nacional/2019/3/31/el-72-cree-que-en-las-elecciones-presidenciales-habra-fraude-213653.html). Mientras el MAS achaca la diseminación de esa creencia, a un sistemático trabajo psicológico, propio de la preparación de un “golpe blando”, analistas independientes y la oposición lo atribuyen a las prácticas y los reiterados mensajes oficialistas de que se quedarían en el poder indefinidamente.  
+
+[^4]: Se refiere a la famosa “avivada” con que se justificó el triunfo de Carlos Salinas de Gortari, después de un apagón del sistema de cómputo. Ver   [https://www.eluniversal.com.mx/colaboracion/mochilazo-en-el-tiempo/nacion/sociedad/el-dia-en-que-se-cayo-el-sistema-y-gano-salinas](https://www.eluniversal.com.mx/colaboracion/mochilazo-en-el-tiempo/nacion/sociedad/el-dia-en-que-se-cayo-el-sistema-y-gano-salinas). Con el 83.7% de avance del recuento rápido del TSE, la diferencia entre el primero y el segundo obligaba a ir una segunda vuelta, mientras el conteo rápido, al 100%, de la empresa colombiana “Viaciencia”, identificada como una compañía contratada por el MAS, pronosticaba una diferencia de 5 puntos porcentuales entre Morales y Mesa. Ver: [https://www.opinion.com.bo/articulo/pais/conteo-rapido-100-votos-escrutados-viaciencia-confirma-victoria-mas-segunda-vuelta/20191020205425733071.html](https://www.opinion.com.bo/articulo/pais/conteo-rapido-100-votos-escrutados-viaciencia-confirma-victoria-mas-segunda-vuelta/20191020205425733071.html)
+
+[^5]: Ver: [https://www.paginasiete.bo/nacional/2019/10/5/cabildo-resuelve-rebeldia-ultimatum-apunta-trabajar-por-el-federalismo-233290.html](https://www.paginasiete.bo/nacional/2019/10/5/cabildo-resuelve-rebeldia-ultimatum-apunta-trabajar-por-el-federalismo-233290.html)
+
+[^6]: El comunicador Carlos Valverde, devoto del modelo cruceño, se refiere a esta separación en su columna dominical [https://www.eldeber.com.bo/150385_tenia-que-suceder](https://www.eldeber.com.bo/150385_tenia-que-suceder) 
+
+[^7]: Ver [https://www.youtube.com/watch?v=sKCoeAJVRto ](https://www.youtube.com/watch?v=sKCoeAJVRto)
+
+[^8]: La declinación electoral del MAS a través de los años puede observarse en la compilación de la periodista Ma. Silvia Trigo: [https://eldeber.com.bo/154338_asi-ha-caido-el-apoyo-a-evo-morales-en-sus-13-anos-en-el-poder](https://eldeber.com.bo/154338_asi-ha-caido-el-apoyo-a-evo-morales-en-sus-13-anos-en-el-poder)
+
+[^9]: Dado el tipo de construcción orgánica del MAS, el primer obstáculo a remontar será su propia convicción de que ninguna victoria es posible sin Evo, o como lo expresaba el vice, a tiempo de considerar que la Constitución es apenas una “formalidad abstracta”, que encarar una elección sin su caudillo sería un “suicidio político”. Ver  [https://www.lanacion.com.ar/el-mundo/alvaro-garcia-linera-perder-a-evo-morales-seria-un-suicidio-politico-nid2098877](https://www.lanacion.com.ar/el-mundo/alvaro-garcia-linera-perder-a-evo-morales-seria-un-suicidio-politico-nid2098877). Por encima de esas y otras explicaciones está el difícil juego de equilibrios de la cúpula masista y el potente caudillismo de su base social -y en general de todo el país- que se aferra a tradiciones mesiánicas.
+
+[^10]: Ver: [http://www.la-razon.com/nacional/animal_electoral/Observadores-OEA-cambio-resultados-electorales-bolivia_0_3243275698.html](http://www.la-razon.com/nacional/animal_electoral/Observadores-OEA-cambio-resultados-electorales-bolivia_0_3243275698.html)  
+
+[^11]: Ver: [http://www.la-razon.com/nacional/animal_electoral/Queman-oficinas-Sereci-Potosi-tse-fuego-elecciones-bolivia_0_3243875581.html](http://www.la-razon.com/nacional/animal_electoral/Queman-oficinas-Sereci-Potosi-tse-fuego-elecciones-bolivia_0_3243875581.html), también  [https://www.paginasiete.bo/nacional/2019/10/22/conalcam-culpa-mesa-por-la-violencia-descalifica-la-oea-235167.html](https://www.paginasiete.bo/nacional/2019/10/22/conalcam-culpa-mesa-por-la-violencia-descalifica-la-oea-235167.html)  
+
+[^12]: La colección de testimonios de “la resistencia de las pititas”, como propia de es inagotable. Algunas piezas ampliamente difundidas son: [https://www.youtube.com/watch?v=dQUQjekLpPo](https://www.youtube.com/watch?v=dQUQjekLpPo), al lado de conciertos callejeros [https://www.youtube.com/watch?v=w7Ywdk3k5W0](https://www.youtube.com/watch?v=w7Ywdk3k5W0),  [https://www.youtube.com/watch?v=0rVmwILTlOQ](https://www.youtube.com/watch?v=0rVmwILTlOQ)
+
+[^13]: Ver: [https://www.pressreader.com/bolivia/el-deber/20191104/281517932925905](https://www.pressreader.com/bolivia/el-deber/20191104/281517932925905); también  [https://alc-noticias.net/es/2019/11/11/teologia-politica-del-discurso-de-luis-fernando-camacho/](https://alc-noticias.net/es/2019/11/11/teologia-politica-del-discurso-de-luis-fernando-camacho/) 
+
+[^14]: Ver: [https://eldeber.com.bo/154343_por-presunto-fraude-electoral-bolivia-vive-una-jornada-de-paro-civico](https://eldeber.com.bo/154343_por-presunto-fraude-electoral-bolivia-vive-una-jornada-de-paro-civico) 
+
+[^15]: Ver: [https://www.atb.com.bo/sociedad/mujer-denuncia-que-intentaron-obligarla-arrodillarse-por-ser-cruce%C3%B1a](https://www.atb.com.bo/sociedad/mujer-denuncia-que-intentaron-obligarla-arrodillarse-por-ser-cruce%C3%B1a)  
+
+[^16]: Ver: [https://www.youtube.com/watch?v=a45P715DV7E](Ver https://www.youtube.com/watch?v=VmbI5ReHa2M, fragmento del noticiero de la pro MAS red ATB) en “La Razón”, 9 de noviembre 2019
+
+[^17]: Ver: [https://www.youtube.com/watch?v=VmbI5ReHa2M](https://www.youtube.com/watch?v=VmbI5ReHa2M), fragmento del noticiero de la pro MAS red ATB
+
+[^18]: El subtítulo imita deliberadamente el insatisfactorio estilo de traducción de la primera parte de la trilogía Millenium, del sueco Stieg Larson, aparecida en español con el incierto título de “Los hombres que no amaban a las mujeres”, historia centrada en la lucha de una valerosa joven contra una tropa de delincuentes misóginos. El expresidente Morales ha creado un catálogo de calificativos para los políticos que evaden la acción de la justicia, sentenciando que quien huye reconoce automáticamente su culpabilidad.
+
+[^19]: Ver sobre la violencia del 10 de noviembre: [https://www.youtube.com/watch?v=xT4hNFgktxE](https://www.youtube.com/watch?v=xT4hNFgktxE), en esa jornada se quemaron las casas de Waldo Albarracín rector de la UMSA, de la periodista Casimira Corrales y se destruyeron instalaciones y antenas de varias emisoras de TV  [https://www.youtube.com/watch?v=dBjh5PTofw8](https://www.youtube.com/watch?v=dBjh5PTofw8). En esa misma ruta se quemaron 32 de los 64 buses calcinados: [https://www.youtube.com/watch?v=AhkI0XODrt0](https://www.youtube.com/watch?v=AhkI0XODrt0) 
+
+[^20]: Ver: [https://actualidad.rt.com/actualidad/333081-ministro-defensa-morales-acuartelamiento-operacion-militar](https://actualidad.rt.com/actualidad/333081-ministro-defensa-morales-acuartelamiento-operacion-militar)
+
+[^21]: Ver: [https://elpais.com/internacional/2019/11/10/actualidad/1573426533_008486.html](https://elpais.com/internacional/2019/11/10/actualidad/1573426533_008486.html). Señala ese artículo *“Morales se reunía cada lunes con el alto mando militar y participaba con gran entusiasmo en los desfiles y las actividades militares. También incorporó a los soldados a diferentes tareas sociales del Estado, como la distribución de bonos y programas de riego. El Gobierno de Morales apoyó fuertemente a las empresas militares, bajo la concepción nacionalista del Ejército como columna vertebral del desarrollo nacional. Incluso en el momento de renunciar”*
+
+[^22]: Ver registro de la discusión sobre el Informe final en la OEA  [https://www.youtube.com/watch?v=009ibGMRkBc](https://www.youtube.com/watch?v=009ibGMRkBc) 
+
+[^23]: La cascada de motines policiales pareció preocupar principalmente al ministro Carlos Romero, encargado permanente de lubricar las relaciones con esa fuerza, pero no modificó sustantivamente los planes del gobierno. Los audiovisuales muestran parte del repliegue de los efectivos policiales de las tareas de represión que cumplieron por casi tres semanas ininterrumpidamente y que no alcanzaron a prolongarse ni con el pago de un bono especial de miles de Bs.  [https://www.youtube.com/watch?v=qc3tzsHdXYs](https://www.youtube.com/watch?v=qc3tzsHdXYs), el ya clásico anuncio de [https://www.youtube.com/watch?v=2Ocol2tiNG8](https://www.youtube.com/watch?v=2Ocol2tiNG8), o  [https://www.youtube.com/watch?v=5SyQ-mPBYZ4](https://www.youtube.com/watch?v=5SyQ-mPBYZ4)
+
+[^24]: Renuncia de Morales el 10 de noviembre [https://www.youtube.com/watch?v=wT3l-V9zWOM](https://www.youtube.com/watch?v=wT3l-V9zWOM) y su posterior justificación y balance político, por él mismo  [https://www.youtube.com/watch?v=a8f7GALb49w](https://www.youtube.com/watch?v=a8f7GALb49w) 
+
+[^25]: El periodista Iván Paredes ha logrado una muy sugerente reconstrucción de las horas previas a la decisión de Morales en [https://eldeber.com.bo/158490_encerrado-y-sin-dormir-asi-fueron-las-ultimas-28-horas-de-evo-en-el-poder](https://eldeber.com.bo/158490_encerrado-y-sin-dormir-asi-fueron-las-ultimas-28-horas-de-evo-en-el-poder)
+
+[^26]: Desde la explicación de la renuncia (para pacificar y evitar su propio asesinato) [https://www.youtube.com/results?search_query=evo+morales+denuncia+amenzas+contra+su+vida+noviembre+2019](https://www.youtube.com/results?search_query=evo+morales+denuncia+amenzas+contra+su+vida+noviembre+2019),  [https://www.youtube.com/watch?v=2VG6vG279Ec](https://www.youtube.com/watch?v=2VG6vG279Ec) , al lado de  la escenificación de un mandatario desguarnecido, obligado a dormir, casi, sobre un suelo desnudo [https://www.youtube.com/watch?v=6U7pALaThos](https://www.youtube.com/watch?v=6U7pALaThos); mientras, simultáneamente, se desataba una oleada de manifestaciones favorables a su retorno, cada vez más belicosas en El Alto: [https://www.youtube.com/watch?v=M4kOkGF2NT8](https://www.youtube.com/watch?v=M4kOkGF2NT8) y también en La Paz  [https://www.youtube.com/watch?v=J_Aq1x2Po_w](https://www.youtube.com/watch?v=J_Aq1x2Po_w) 
+
+[^27]: La agencia ERBOL resume aquí el episodio: [https://erbol.com.bo/nacional/declaraci%C3%B3n-del-tc-de-2001-abri%C3%B3-paso-la-sucesi%C3%B3n-ipso-facto-de-a%C3%B1ez](https://erbol.com.bo/nacional/declaraci%C3%B3n-del-tc-de-2001-abri%C3%B3-paso-la-sucesi%C3%B3n-ipso-facto-de-a%C3%B1ez)
+
+[^28]: El informe de la Comisión Interamericana de derechos Humanos (CIDH) alerta sobre masacres y torturas durante los acontecimientos   de Sacaba y Senkata. Ver [https://cnnespanol.cnn.com/2019/12/11/cidh-recomienda-una-investigacion-internacional-de-graves-violaciones-de-derechos-humanos-en-bolivia/](https://cnnespanol.cnn.com/2019/12/11/cidh-recomienda-una-investigacion-internacional-de-graves-violaciones-de-derechos-humanos-en-bolivia/) . Desde el gobierno y plataformas activistas se ha criticado la diligencia y severidad de la CIDH, en contraste con su lenidad e inacción ante la violación de la CPE y los resultados del referendo del 21 de febrero de 2016.
+
+[^29]: Gran parte de la izquierda internacional adhiere a ese enfoque y algunos de sus más vehementes testimonios se pueden encontrar en: [https://cronicon.net/wp/chomsky-sobre-bolivia-el-golpe-de-estado-fue-promovido-por-la-oligarquia-boliviana-con-el-apoyo-de-estados-unidos/](https://cronicon.net/wp/chomsky-sobre-bolivia-el-golpe-de-estado-fue-promovido-por-la-oligarquia-boliviana-con-el-apoyo-de-estados-unidos/),  [https://malsalvaje.com/2019/11/20/el-analisis-de-slavoj-zizek-sobre-la-situacion-en-bolivia/](https://malsalvaje.com/2019/11/20/el-analisis-de-slavoj-zizek-sobre-la-situacion-en-bolivia/), donde el psicoanalista-marxista Slavoj Zizek empieza diciendo: ““Aunque soy desde hace más de una década un firme partidario de Evo Morales, debo admitir que, después de leer acerca de la confusión después de la disputada victoria electoral de Morales, yo estaba con muchas dudas: ¿acaso él también sucumbió a la tentación autoritaria, como sucedió con tantos izquierdistas radicales en el poder?”.  Socialdemócratas o  radicales confirman que Evo Morales se convirtió en un ícono mundial; ver [https://diario16.com/partidos-y-sindicatos-rechazan-el-golpe-de-estado-en-bolivia/](https://diario16.com/partidos-y-sindicatos-rechazan-el-golpe-de-estado-en-bolivia/)  y  [https://www.baenegocios.com/mundo/El-repudio-de-la-comunidad-internacional-al-golpe-de-Estado-en-Bolivia-20191111-0011.html](https://www.baenegocios.com/mundo/El-repudio-de-la-comunidad-internacional-al-golpe-de-Estado-en-Bolivia-20191111-0011.html)
+
+[^30]: Tienen visiones alternativas: Rita Segato   [https://www.infobae.com/america/america-latina/2019/11/20/rita-segato-durisima-con-evo-morales-dijo-que-no-fue-victima-de-un-golpe-y-recordo-su-machismo-y-autoritarismo/](https://www.infobae.com/america/america-latina/2019/11/20/rita-segato-durisima-con-evo-morales-dijo-que-no-fue-victima-de-un-golpe-y-recordo-su-machismo-y-autoritarismo/),  la cruceña Liliana Colanzi [https://muywaso.com/colanzi-contra-la-vieja-politica-que-se-acabe-la-fiesta-de-los-zombies/?fbclid=IwAR0iXTyraqmv7cXHEsvrNpPpKzfu4gJy5QPO_D2SiV98ilbiYSyAIjhwkJc-+r](https://muywaso.com/colanzi-contra-la-vieja-politica-que-se-acabe-la-fiesta-de-los-zombies/?fbclid=IwAR0iXTyraqmv7cXHEsvrNpPpKzfu4gJy5QPO_D2SiV98ilbiYSyAIjhwkJc-+r), el uruguayo Raúl Zibechi [https://desinformemonos.org/evo-perdio-a-evo/](https://desinformemonos.org/evo-perdio-a-evo/) , o , el académico boliviano Luis Tapia  [http://www.cides.edu.bo/webcides2/index.php/interaccion/noticias-f/264-crisis-politica-en-bolivia-la-coyuntura-de-disolucion-de-la-dominacion-masista?fbclid=IwAR0OQgaB3XdrqkCCvgp6OozgHeBd8fg_CDo3evxxUfemcF1WjrNB9F_ZSms](http://www.cides.edu.bo/webcides2/index.php/interaccion/noticias-f/264-crisis-politica-en-bolivia-la-coyuntura-de-disolucion-de-la-dominacion-masista?fbclid=IwAR0OQgaB3XdrqkCCvgp6OozgHeBd8fg_CDo3evxxUfemcF1WjrNB9F_ZSms) , el chileno Fernando Mires [https://polisfmires.blogspot.com/2019/11/fernando-mires-golpe-de-estado.html](https://polisfmires.blogspot.com/2019/11/fernando-mires-golpe-de-estado.html)
+
+[^31]: Ver: [https://eldeber.com.bo/111122_conoce-a-los-magistrados-del-tcp-que-habilitaron-a-evo](https://eldeber.com.bo/111122_conoce-a-los-magistrados-del-tcp-que-habilitaron-a-evo) 
+
+[^32]: Se han introducido en estas últimas semanas al menos 4 demandas para rectificar esa sentencia. Junto al abogado José Antonio Rivera, el autor de este boletín, ha presentado una demanda de anulación del fallo 084-2017, porque quebranta, viola y suspende la Constitución. El TCP aún no se ha pronunciado.
+
+[^33]: No se trata en propiedad de una conducta exclusiva del gobierno, sino del conjunto de los profesionales políticos que demuestran una bajísima estima de la CPE, como fundamento de la institucionalidad que dicen querer restaurar o construir. Consideran que la anulación de la sentencia sería una formalidad jurídica, consonantemente con su equivocada idea que nuestra CPE es una criatura del MAS con la cual, en consecuencia, tienen discrepancias insalvables.
+
+[^34]: La mayor evidencia de esta íntima asociación radica en que las *plataformas* apoyadas por Marinkovic volcaron su apoyo irrestricto a la promoción y respaldo de Camacho.
+
+[^35]: El triunfo del voto *útil* en Santa Cruz, que permitió la victoria de Mesa sugiere fuertemente que gran parte de este sector  se volcó en favor de CC, no obstante de su vinculación con el MAS, debido probablemente a la gran resistencia colectiva que producía la reelección de Morales.
+
+[^36]: La fuente informativa sobre la consideración de esta posibilidad procede de allegados al comité cívico regional.
+
+[^37]: Ver: [https://www.cenital.com/2019/11/15/quien-es-quien-en-el-gabinete-de-a%C3%B1ez/64445](https://www.cenital.com/2019/11/15/quien-es-quien-en-el-gabinete-de-a%C3%B1ez/64445) 
+
+[^38]: Serrate Cuéllar, en su momento de mayor visibilidad política a principios de los años 90 era caracterizado como un “casimir” (cercano al MIR), con una destacada carrera académica y diplomática fundador de SAGUAPAC, ejecutivo de Transredes y uno de los principales cuadros que organizó el llamado golpe cívico-prefectural en Santa Cruz, con un perfil tan bajo y habilidad tal que unca fue detectado por los aparatos de inteligencia del MAS, ni fue objeto de pesquisa o persecución alguna. [https://www.paginasiete.bo/nacional/2019/11/28/para-estados-unidos-serrate-es-el-encargado-de-negocios-238788.html](https://www.paginasiete.bo/nacional/2019/11/28/para-estados-unidos-serrate-es-el-encargado-de-negocios-238788.html)
+
+[^39]: Camacho, después de denunciar que su empresa estaba siendo auditada con claros fines extorsivos por la Dirección de Impuestos en los últimos días del régimen masista, interpeló brutalmente a las cabezas de los entes empresariales de Santa Cruz, ganándose una cuota mayor de respeto popular por enfrentar así a grupos e individuos intocables. Días después, hacía que uno de sus empleados quede a la cabeza del Servicio Nacional de Impuestos. Ver [https://www.eldeber.com.bo/156326_cao-pide-unidad-ante-llamado-a-renuncia-de-lideres-empresariales](https://www.eldeber.com.bo/156326_cao-pide-unidad-ante-llamado-a-renuncia-de-lideres-empresariales)  y [https://www.paginasiete.bo/economia/2019/12/17/dos-exempleados-de-camacho-ahora-son-asesor-de-entel-presidente-del-sin-240646.html](https://www.paginasiete.bo/economia/2019/12/17/dos-exempleados-de-camacho-ahora-son-asesor-de-entel-presidente-del-sin-240646.html)
+
+[^40]: El audiovisual al que lleva el lazo siguiente muestra nítidamente esa orientación y para agredir frontalmente a población civil: [https://www.youtube.com/watch?v=F9iACoFNGOQ](https://www.youtube.com/watch?v=F9iACoFNGOQ) 
+
+[^41]: Ver [https://www.lostiempos.com/actualidad/pais/20191208/mas-descarta-invitados-critica-exministros-anula-conalcam](https://www.lostiempos.com/actualidad/pais/20191208/mas-descarta-invitados-critica-exministros-anula-conalcam)
+
+[^42]: José Luis Parada, ha manejado continuamente las finanzas de la gobernación de Santa Cruz y ha sido un constante negociador con el gobierno central.
+
+[^43]: Ver [https://ibce.org.bo/publicaciones-ibcecifras-pdf.php?id=689](https://ibce.org.bo/publicaciones-ibcecifras-pdf.php?id=689) también   [https://www.lostiempos.com/actualidad/economia/20190823/importacion-diesel-gasolina-lubricantes-se-incremento-72](https://www.lostiempos.com/actualidad/economia/20190823/importacion-diesel-gasolina-lubricantes-se-incremento-72). En materia de importación de alimentos [https://jubileobolivia.com/Ambito-Tematico/Desarrollo-Humano/El-2018-se-importaron-alimentos-por-sus-675-millones](https://jubileobolivia.com/Ambito-Tematico/Desarrollo-Humano/El-2018-se-importaron-alimentos-por-$us-675-millones) 
+
+[^44]: Como contraparte no halló formas de transitar a un modelo alternativo de desarrollo, no se propuso ni realizó esfuerzos para lograr mejores servicios de salud pública y educación y desvió en corrupción los muy visibles avances en infraestructura caminera, construcción de vivienda y las grandes obras públicas de industrialización, con un notable desperdicio de recursos en la inversión pública, anclada en una visión de desarrollo arcaica. Su incuestionable progresa en reducción de la pobreza, tiene una base tan frágil que en las actuales condiciones de alta vulnerabilidad al cambio climático, frente al que no hemos creado mecanismos de resiliencia y una situación económica internacional desfavorable, quienes salieron de la pobreza están inmediatamente amenazados de hacer el camino inverso, sumando uno o dos millones más de nuevos pobres.
+
+[^45]: El autor de este boletín ha corroborado directamente esta información en una ronda de contactos, en distintos distritos del país y en diálogo con dirigentes y sectores de base sobre los cambios ocurridos en el país.
+
+[^46]: Es decir reproduciendo la historia que el MAS y el gonismo, conjuntamente, atribuyen a la transferencia de fondos recibidas por la empresa televisiva PAT, de Carlos Mesa, a inicios de la campaña electoral de 2002, pero, a diferencia de esa situación, nunca esclarecida por el candidato de CC (“para no hacerle el juego a la guerra sucia”), donde no se negociaba la prelación en los cargos del binomio, en el caso de Pumari aparece como el costo inmediato de no disputar la cabeza de la fórmula y, a mayor plazo, a la aceptación del predominio político de Camacho. Sobre su responsabilidad en la filtración de conversaciones en YouTube se halla su entrevista con CNN al respecto.
+
+[^47]: Tan notorio en los protagonismos de algunos ministros y la desesperación colectiva del gabinete por colmar de abrazos e incitaciones amistosas a la embajada de EEUU.
+
+[^48]: Tal como se está manifestando en la selección de ternas para vocales departamentales de los TED
+
+[^49]: Si se impone el radicalismo de la dirección masista y continúa fracasando

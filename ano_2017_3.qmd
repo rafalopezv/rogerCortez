@@ -1,0 +1,292 @@
+---
+lang: es
+format: 
+  html:
+    page-layout: article
+---
+
+# Golpe contra la constitución y la soberanía popular {.unnumbered}
+
+La única claridad que parece haberse ganado colectivamente durante este año en la esfera política es que el MAS no puede entenderse ni imaginarse a sí mismo fuera del ejercicio monopólico del poder. Por ello, no escatimará recursos ni respetará fronteras de ninguna naturaleza para tratar de imponer esa su visión.
+
+Desde los devaneos del referendo de 2016, cuando todavía insinuaba que su plan era una vez más y no pedimos más, hasta la sentencia constitucional del 28 de noviembre último, han caído todas las máscaras y los afeites con que estuvo intentando disfrazar su real, constante y existencial determinación.
+
+## No son lo mismo
+
+Desde la ofensiva contra el TIPNIS con que inició la actual fase estratégica, hasta la violación abierta de la Constitución y el desconocimiento de la voluntad popular soberana, el MAS ha desplegado un impulso y una agresividad tan agudos que pueden llevar a que se pierda de vista con qué intensidad tratan de esconder una profunda inseguridad de fondo.
+
+El último incidente en que esto se revela cristalinamente es la atropellada reacción de los presidentes de las cámaras de la Asamblea Legislativa Plurinacional (ALP) al contestar a la presidenta del Tribunal Supremo Electoral (TSE) cuando ella comenta la necesidad de que el Tribunal Constitucional (TCP) aclare lo que implica su sentencia respecto al carácter vinculante del referendo del 21F [^ano_2017_3-1].
+
+[^ano_2017_3-1]: Véase: <https://n9.cl/jh42y>
+
+El casi "cállate y ocúpate solo de administrar elecciones", que expresan el segundo y la tercera en la sucesión presidencial, es un claro intento de volcar la página noticiosa y pasar a otra cosa.
+
+## ¿Por qué?
+
+Porque la incómoda consulta de Katia Uriona devela cuán apresurada había sido la reacción de los medios masivos de difusión, comentaristas y analistas políticos y jurídicos cuando coincidieron en interpretar que el fallo del 28 de noviembre *habilita la nueva candidatura de Morales Ayma*. Así titularon o comentaron, casi de manera unánime, dando por hecho que el fallo puede aplicarse indistintamente a la ilegal reforma a la Constitución consumada por la Sala Plena del TCP, o a la anulación de los resultados del referendo del 21 de febrero de 2016.
+
+La presidenta del TSE hace notar que son cuestiones distintas, como lo había reconocido enérgicamente el ministro de Justicia [^ano_2017_3-2], aunque con una intención exactamente opuesta. La consecuencia es que la candidatura no tiene la vía legal expedita sencillamente porque el fallo de ningún juez o tribuno, cualquiera que fuese, puede sobreponerse a la voluntad popular soberana, tal como lo desliza el comentario del expresidente del país y hoy representante ante la Haya cuando, comentando el fallo del TCP, tuitea: "la Constitución dispone que la soberanía reside en el pueblo \[...\] es su poder constituyente el que debe consultarse con preferencia" [^ano_2017_3-3].
+
+[^ano_2017_3-2]: Véase el último párrafo de la noticia: <https://n9.cl/jh42y>. Antonio Costa, vicepresidente del TSE, aludió a esta misma cuestión en junio de este año. Véase: <https://n9.cl/scuy3>
+
+[^ano_2017_3-3]: Véase: <https://n9.cl/jh42y>
+
+En otras palabras, la sentencia del 28 de noviembre carece de valor para anular el resultado del referendo, razón por la cual la sentencia omite referirse directamente al tema. Es tan sensible este punto, que ha obligado al propio presidente, don Juan Evo Morales Ayma, a intervenir a continuación, "descubriendo" que la sentencia del 28 de noviembre respetaría el resultado del 21F porque el "TCP no ha reformado a la Constitución", *solo la ha interpretado* [^ano_2017_3-4], en un intento tan forzado como inútil para tratar de deformar los hechos.
+
+[^ano_2017_3-4]: Véase: https://n9.cl/zya1t. Tienen similar orientación las declaraciones presidenciales sobre la necesidad de sustituir la democracia de mayorías por una de consenso.
+
+No es que tanto atufamiento e improvisación vayan a cambiar la determinación masista de presentar a su único candidato en la elección de 2019. Lo que el gobierno y el partido dominante tratan de impedir es que la discusión deje en claro que la única manera de que la sentencia pueda imponerse legalmente al resultado del 21F es que se anule el art. 7 de la CPE, que establece que la soberanía reside en el pueblo [^ano_2017_3-5].
+
+[^ano_2017_3-5]: "Se ejerce \[la soberanía\] en forma directa y delegada, dice el texto a continuación, pero es indisputable que cuando existe un pronunciamiento directo del soberano ningún órgano delegado puede sobrepasarlo" afirma Rodríguez V., sin detenerse a aclarar el comentario.
+
+La prisa por conseguir que el debate se extinga se debe a que el MAS hará todo lo posible para esconder el hecho de que sus acciones vulneran el último argumento de autojustificación de su existencia: su presunta lealtad a la voluntad popular.
+
+Un hecho central que se ha puesto de manifiesto, y que se está tratando de encubrir por la situación electoral que el gobierno central impone al país, es que los últimos acontecimientos demuestran que la Constitución vigente, como cuerpo conceptual, es ajena al MAS. Su máxima cercanía con ella se dio en los tiempos de la Asamblea Constituyente, cuando el MAS abrió la puerta a su aprobación, porque eso le convenía desde un punto de vista práctico para enfrentar a sus mayores adversarios, pero sin entender y sin asumir el contenido fundamental de la carta magna.
+
+La dificultad opositora de asumir la defensa de la CPE como bandera fundamental de la recuperación democrática se basa en el extendido prejuicio que considera a la nueva Constitución una criatura del MAS [^ano_2017_3-6] (elaborada con asesoramiento de españoles y venezolanos). Sin embargo, los hechos demuestran invariablemente lo contrario. Para entenderlo, vale la pena repasar los cambios sustanciales de la CPE de 2009 respecto a sus predecesoras:
+
+[^ano_2017_3-6]: De hecho, el proceso constituyente enfrentó un proceso destituyente como contraparte de las fuerzas y figuras del viejo régimen. Esta pelea, junto al intervencionismo del MAS y su gobierno, nubló, a los ojos del público, el contenido y la orientación de las luchas que se dieron en la Asamblea Constituyente.
+
+1.  el reconocimiento de la pluralidad (cultural, económica, democrática, jurídica) como elemento gravitante del ser nacional (plurinacional); se trata de una comunidad de minorías diferentes que conviven, intercambian y se asimilan dinámica y creati- vamente;
+2.  las autonomías (encabezadas por la indígena) como expresión del avance y proyección democrática, en tanto suponen autogobierno, descentralización y rendición de cuentas;
+3.  los derechos colectivos de los pueblos;
+4.  los derechos de la naturaleza y el derecho colectivo a un medioambiente sano y equilibrado;
+5.  la participación y el control social;
+6.  la denuncia histórica del racismo y la discriminación y
+7.  la propiedad colectiva de los recursos naturales.
+
+Al reflexionar en torno a esta lista, puede apreciarse lo ajena y distante que resulta de las prácticas del MAS, pero cuán representativa respecto a la experiencia y la acumulación histórica de la sociedad. En consecuencia, es crucial reivindicar a la Constitución como pieza clave de la recuperación democrática [^ano_2017_3-7], de la construcción institucional, del respeto a la ley, de la superación del corporativismo, del diseño de una nueva economía y de la necesidad de avanzar hacia una reforma moral e intelectual de nuestra sociedad.
+
+[^ano_2017_3-7]: La primera alusión directa al tema por las cabezas de la oposición partidista se halla en el documento conjunto de ex presidentes y dirigentes partidarios, publicado como respuesta al fallo del TCP. Véase el texto completo del pronunciamiento "Defenderemos la democracia" en: <https://n9.cl/jzfyr>
+
+Esta apropiación colectiva de la CPE no es incompatible con el debate de las modificaciones que requiere el texto constitucional para que resulte más congruente y sólido [^ano_2017_3-8]. Por el contrario, brinda una guía histórica a las luchas sociales por la democracia, las libertades, las autonomías (empezando con la autonomía social frente al Estado y a los poderes económicos y políticos).
+
+[^ano_2017_3-8]: Por ejemplo, eliminar los pasajes que escamotean la propiedad común del Estado, al afirmar que el Estado ejerce dicha propiedad. Si se asume que el Estado administra (es decir, no posee ni es dueño), se crean condiciones para exigir responsabilidad y rendición de cuentas (parte del control social). Otro ejemplo de lo que se debía hacer es enmendar la confusión que supone la fusión de lo indígena con lo campesino, que ha servido para consolidar la impostura gubernamental y ocultar su rol de fuerza represora de los pueblos indígenas.
+
+En ese mismo sentido, la reivindicación de la soberanía popular, con su fallo irrevocable respecto a la reelección indefinida, tiene el enorme poder de desnudar la descomposición del régimen y su deriva represiva. Resulta mucho más educativa y eficaz que hablar de dictadura, como ha sucedido con frustrantes experiencias opositoras (es el caso de la venezolana). Y, sobre todo, es indispensable para plantear una disputa ideológica a largo plazo que denuncie y arrincone el caudillismo, tan extendido y arraigado en nuestra sociedad.
+
+## Datos y consecuencias
+
+Pese a la experiencia anterior y a la claridad de sus lecciones, este 3 de diciembre último ha vuelto a reproducirse lo que ocurrió en 2011 con la primera elección judicial, cuando la oposición política, especialmente la partidista, interpretó que sus resultados constituían un plebiscito que se calcaría en las presidenciales. En aquel entonces, la alta proporción de nulos y blancos sorprendió a propios y extraños, pero dos años después, en 2014, el MAS obtuvo su mayor votación histórica: 3 millones de votos, equivalentes al 61% de los válidos.
+
+Este año, más que en las elecciones de 2011, el voto tiene inconfundibles ecos y derivaciones políticas, que no consagran la futura victoria electoral de un oponente del régimen, pero que advierten del hartazgo y el disgusto creciente ante su comportamiento antidemocrático, verticalista y autoritario. También ahora la oposición ha intentado proclamar su propiedad sobre los nulos, con la esperanza de que se repita el resultado de 2011.
+
+En la primera elección judicial, la explicación más utilizada por el MAS para justificar la elevada proporción de blancos y nulos era la inexperiencia del votante sobre las reglas y la dinámica de una consulta electoral atípica, así como la falta de difusión sobre las características novedosas de la elección y las cualidades de los candidatos. Y, desde luego, también estaban la mala fe y la perfidia de sus enemigos, que se negaban a renovar la administración de justicia para beneficiarse del descalabro de este Órgano estatal.
+
+Ninguna de estas justificaciones podía sostenerse en ese entonces, y tampoco hoy, como se sustenta en la comparación de resultados entre una y otra elección.
+
+```{r}
+#| include: true
+#| echo: false
+#| message: false
+#| warning: false
+
+library(downloadthis)
+
+source("data/ano_2017_3/ano_2017_3.R")
+```
+
+```{r}
+#| include: true
+#| echo: false
+#| message: false
+#| classes: light-mode
+
+tabla_2017_3
+```
+
+```{r}
+#| include: true
+#| echo: false
+#| message: false
+#| classes: dark-mode
+
+tabla_2017_3_dark
+```
+
+<p class="fuente">
+
+Elaboración propia basada en Órgano electoral Plurinacional.
+
+</p>
+
+<center>
+
+```{r}
+#| include: true
+#| echo: false
+#| message: false
+#| classes: light-mode
+a %>% 
+  download_this(
+    output_name = "tabla elecciones judiciales",
+    output_extension = ".xlsx",
+    button_label = " Descargar tabla ",
+    button_type = "warning",
+    has_icon = TRUE,
+    icon = "fa fa-save"
+  )
+```
+
+</center>
+
+<center>
+
+```{r}
+#| include: true
+#| echo: false
+#| message: false
+#| classes: dark-mode
+
+a %>% 
+  download_this(
+    output_name = "tabla elecciones judiciales",
+    output_extension = ".xlsx",
+    button_label = " Descargar tabla ",
+    button_type = "default",
+    has_icon = TRUE,
+    icon = "fa fa-save"
+  )
+```
+
+</center>
+
+<br>
+
+Los nulos alcanzaron el 51%, es decir, casi un millón de votos más que en 2011 [^ano_2017_3-9], lo que significa que aumentaron el 6%. Esto corrobora la interpretación que les atribuye un crecimiento de la crítica y la oposición social al régimen; en todo caso, no se debe a la falta de comprensión del sistema de elección. Sin embargo, los nuevos administradores de justicia asumen su cargo a pesar de que dos tercios los electores resisten su postulación.
+
+[^ano_2017_3-9]: Es interesante que los 2.784.138 votos nulos de las elecciones judiciales están muy cerca de los 2.682.517 que votaron por la No reelección. En cambio, si se restan de los votos por el Sí (que fueron 2.546.135) los 739.633 votos blancos de la elección judicial, se obtiene un resultado muy parecido al total de los válidos del 3 de diciembre. La participación (y la abstención) en el referendo y la última elección judicial son prácticamente e idénticas.
+
+La disminución relativa de la abstención entre ambas elecciones judiciales, del 20 al 15%, expresa un mayor interés político de los electores. Esto refuerza la constatación del incremento relativo de las votaciones obtenidas por los candidatos oficialistas este año en comparación con 2011, cuando el máximo porcentaje de votos válidos que logró el más votado apenas superó el 10%, porcentaje que ahora se ha superado ampliamente (en el universo de los votos válidos). Este incremento revela una conducta más orgánica y militante de los electores afines al MAS y una acción de campaña más eficaz por parte del Estado y de la dirigencia que controla las organizaciones sociales más numerosas.
+
+Los 739.363 votos blancos (150 mil votos más que en 2011 [^ano_2017_3-10]) lucen más críticos que neutrales en las circunstancias concretas de estas últimas elecciones [^ano_2017_3-11].
+
+[^ano_2017_3-10]: Se trata de la Confederación Sindical Única de Campesinos de Bolivia (CSUTCB); la Confederación Nacional de Mujeres Campesinas Indígenas Originarias de Bolivia "Bartolina Sisa" (CNMCIOB "BS") o las Bartolinas, como se las llama comúnmente, y la Confederación de Colonizadores (los interculturales, anteriormente llamados colonizadores)
+
+[^ano_2017_3-11]: Uno de los graves errores de los opositores en sus campañas fue convocar exclusivamente a los nulos y omitir toda mención a los blancos.
+
+Todos los partidos, incluyendo al MAS en un primerísimo plano, contribuyeron a estimular la politización del voto. El gobierno, para contrarrestar el discurso opositor, lanzó una ofensiva comunicativa a gran escala y movilizó con carácter forzoso a gran parte del personal de las instituciones públicas, estableciendo que votar válido equivaldría a respaldar el proceso de cambio.
+
+La enorme proximidad del fallo derogatorio de la Constitución emitido por el TCP el 28 de noviembre, para autorizar ya no el derecho de buscar una nueva reelección, sino la reelección perpetua, atizó el ambiente que empujaba al votante a sentir que su voto expresaría adhesión o rechazo no solo a los candidatos seleccionados por los parlamentarios masistas, sino a toda la política del régimen y a su reelección.
+
+Con todo ello, se han intensificado los argumentos opositores para descalificar la elección como una forma apropiada de renovar a los altos magistrados, ocultando que la verdadera falla del sistema está en el mecanismo partidista-parlamentario de selección de postulantes.
+
+Lo único que parece molestar a la oposición partidista es que dicho mecanismo los excluya, ahora que el MAS, con sus dos tercios, puede seleccionar a su antojo. Dejan de lado su incapacidad para concentrarse en 2014 en la elección parlamentaria, que les habría permitido obtener un mínimo de 40% de las bancas, en vez de perder el tiempo en la caudillista competencia por el Ejecutivo, claramente perdida de antemano según todas las encuestas.
+
+La elección de magistrados dejaría de ser una elección antidemocrática y, por tanto, una ceremonia inútil y costosa, si se modificara la ley electoral en sentido de que ningún candidato pueda ser considerado ganador si tiene menos votos que la suma de blancos y nulos [^ano_2017_3-12]. Así se daría voz a la mayoría, que se manifiesta con millones de votos, y que es silenciada con el sistema actual. De ese, modo los votos ejercerían una verdadera presión para tener postulantes más independientes y de mejor calidad.
+
+[^ano_2017_3-12]: Si se hubiera habilitado una casilla para Ninguno, la suma los hubiera superado. Es indiscutible que resulta igualmente necesario modificar los mecanismos de difusión sobre los candidatos, para permitir que los votantes conozcan sus posiciones sobre cuestiones jurídicas fundamentales.
+
+En el campo estrictamente judicial, nadie, ni siquiera los más caracterizados voceros del régimen, se animan a pronosticar que el cambio de personal en la cúpula de las instancias administradoras de justicia pueda mejorar en algo su situación de profunda crisis. La única modificación plausible es que los reemplazos que rigen desde el 4 de diciembre sean más dóciles y disciplinados con sus mandantes políticos.
+
+## Del Fondo al Banco
+
+En el escenario en que se prepararon las elecciones ha destacado el estallido del escándalo que afectó al Banco Unión (BU) ---el nuevo Banco del Estado---, al descubrirse un desfalco de no menos de 5 millones de dólares cometido por un solitario operador. Según la versión oficial del Ministerio Público y los voceros gubernamentales, este habría extraído el botín a lo largo de un año, a un escalofriante e inverosímil ritmo de 145.000 bolivianos por día en promedio (de lunes a sábados), de las arcas de una muy secundaria filial de la institución.
+
+El escándalo superó ampliamente la cuestión policial pues, al demostrar la vulnerabilidad del símbolo máximo de la seguridad que supuestamente son los bancos, ponía de manifiesto la negligencia, molicie y probablemente complicidad de autoridades bancarias, y tal vez también políticas. Esto, en un imaginario social sacudido a diario por denuncias de corrupción grandes, muy grandes e inmensas.
+
+El monto desfalcado al BU es una reducida fracción de los recursos que se evaporaron del FONDIOC, cuya cuantificación final nunca ha sido presentada al público [^ano_2017_3-13]. Y lo que se aplica al Fondo también se extiende a los muchos otros casos publicados. Sin embargo, aparentemente nadie se ha tomado hasta ahora la tarea de sumar los montos de todas las denuncias por defraudación, desfalcos y otros delitos contra las arcas públicas ---al margen de las que corresponden a ineficiencia, negligencia y similares---, pero no es temerario calcular la cifra final en cientos de millones de dólares.
+
+[^ano_2017_3-13]: El último dato oficial lo proporcionó la interventora del Fondo, quien mencionó una cifra de unos 174 millones de bolivianos, es decir unos 25 millones de dólares, aunque, según las denuncias, el monto total superaría los 100 millones de dólares.
+
+Sin embargo, pese a tales magnitudes, el timo del banco desató la indignación pública a niveles desconocidos, aunque el exministro de Economía, Arce Catacora [^ano_2017_3-14], afirmara que se trata de un monto insignificante que no afectaría el brillante desempeño de esa entidad financiera [^ano_2017_3-15].
+
+[^ano_2017_3-14]: Su quizás definitivo alejamiento del gabinete, a raíz de la trama del BU, puede traer impactos inesperados, si se considera la influencia gravitante que ejerció por más de una década conduciendo la política económica del país.
+
+[^ano_2017_3-15]: El actual titular de la cartera ha reconocido que es posible que el seguro no pague el daño y que, en consecuencia, deba castigarse de las utilidades del banco.
+
+Si durante el primer período presidencial del MAS (2006-2009) las encuestas exhibían una poderosa imagen anticorrupción del gobierno, desde del apresamiento de Santos Ramírez ---segundo en la jerarquía partidaria y presidente de YPFB, vinculado a delitos de soborno, extorsión y asesinato---, esa imagen se ha ido difuminando hasta ser reemplazada por su opuesta.
+
+El desfalco del FONDIOC posiblemente sea la más tóxica de esas experiencias, en tanto que, por encima del daño contra el patrimonio estatal, sobresalen las prácticas de cooptación sistemática de dirigentes de las más grandes organizaciones sociales (las campesinas) a través de la apertura de una ventanilla de caja que les permitía acceder a grandes recursos financieros, prácticamente sin mecanismos de control ni fiscalización. Esto, además, implica una correlativa pérdida de autonomía de dichas organizaciones y una descomposición de sus estructuras organizativas paralela en ritmo y profundidad a la del gobierno.
+
+La importancia que desde la cúpula del poder se da a preservar el control sobre estas organizaciones ha sido nuevamente ratificada, desde la perspectiva de lo ocurrido en el Fondo indígena: ha habido una reciente seguidilla de liberaciones de dirigentes y exautoridades, quienes, a partir del momento en que fueron imputados o investigados por el caso, estuvieron presos por varios meses.
+
+La aplicación de medidas sustitutivas a la cárcel puede considerarse parte del conjunto de decisiones y actividades de la contraofensiva estratégica gubernamental, con el objetivo expreso de mejorar las relaciones con toda la estructura corporativa que mantiene y caracteriza al Estado [^ano_2017_3-16], como ya ocurrió con las medidas favorables a los cooperativistas mineros que se comentaron en el anterior análisis.
+
+[^ano_2017_3-16]: Principalmente las exministras Achacollo y Ramos, así como la dirigente oficialista Melba Hurtado y el exmasista, ahora opositor, Damián Condori. No puede pasarse por alto que cuando el MAS sanciona a exautoridades, las mujeres llevan la peor parte: ni un solo ministro ha sido apresado o investigado, ni siquiera aquellos con acusaciones e indicios muy serios en su contra, como el actual representante en la ONU, vinculado directamente con la represión de Chaparina.
+
+## Represión en el altiplano y visión de país del régimen
+
+Uno de los hechos que apenas se tocaron en el análisis previo es la dura confrontación entre el régimen y Achacachi. Según la explicación oficial, todo se debe a una fractura entre la pequeña burguesía urbana de Achacachi y los verdaderos campesinos y comunarios que respaldan a un alcalde, por muy acusado de corrupción que este pueda estar.
+
+Para el MAS, el máximo representante de esa clase media provincial sería nada menos que Felipe Quispe, El Mallku, quien se ha visto obligado a permanecer en la más sigilosa clandestinidad desde que la represión doblegara la movilización de aquel bastión aymara, donde el vice confesara, en un inesperado y sorprendente ataque de sinceridad, que había aprendido "a amar y matar" [^ano_2017_3-17].
+
+[^ano_2017_3-17]: En un discurso pronunciado en diciembre de 2006. Véase: <https://n9.cl/wsfv4>
+
+Cabe preguntarse si la explicación clasista y presuntamente marxista del conflicto de Achacachi resiste el análisis concreto de la situación concreta, o si está más bien emparentada, aunque con un lenguaje más erudito, con interpretaciones y pronósticos al estilo del sol se esconderá y todo será tristeza [^ano_2017_3-18], que de cuando en cuando nos aportan las nuevas teorías con que se intenta justificar la retención y reproducción del poder en nuestro país.
+
+[^ano_2017_3-18]: La muy plástica versatilidad con que el (o los) teórico oficial crea relatos para justificar los virajes y contravirajes del régimen empata bien con la caracterización de la alcaldesa de Taverny, Francia, quien, al referirse a su rival ---que recientemente ganó la conducción del derechista partido de Los Republicanos--- afirmó: *"No resalta como persona, excepto en su capacidad de saltar de una convicción a otra en un mínimo de tiempo"*.
+
+La revuelta de Achacachi mantuvo un prolongado bloqueo carretero y catapultó a la cabeza del movimiento al más conocido dirigente indigenista, un aymara que perdió terreno ante el MAS por mantener obcecadamente su propuesta de reconstrucción del Kollasuyo y de repudio al Estado y la nación boliviana.
+
+Su bullicioso y teatral retorno a la escena política tuvo como punto más alto la firma de un acuerdo con dirigentes del TIPNIS, que trajo a la memoria la imagen del largo camino de entendimiento entre las organizaciones campesinas y las indígenas de tierras bajas, del cual nació el Pacto de Unidad, probablemente el actor social más relevante dentro de la Asamblea Constituyente de 2006.
+
+El convenio del Mallku con los representantes del TIPNIS ocurrió cuando el Pacto de Unidad ya había muerto y había sido enterrado subrepticiamente, en medio de la confusión política, ideológica e identitaria a la que se presta la trilogía "indígena originario campesina" a la que se refiere la CPE. Pero, sobre todo, este pacto había muerto por el feroz incremento de tensiones entre indígenas y campesinos que el Estado viene promoviendo desde el año 2010.
+
+La represión concentrada en los pueblos de tierras bajas, en los episodios del TIPNIS, Takovo Mora, los ribereños del proyecto Chepete/Bala y otros, cayó esta vez sobre aymaras, justamente en uno de los centros más icónicos de su insurgente historia.
+
+Al mismo tiempo, y a un ritmo tanto o más acelerado, la aproximación entre el gobierno y los agroexportadores y otros sectores de la gran burguesía no ha dejado de anudarse, lo que obedece a fuerzas nacidas del pragmatismo y el mercado, así como a dinámicas sociológicas que resulta más fácil probar que la mutación de campesinos en pequeñoburgueses urbanitas.
+
+La intimidad entre el régimen y los empresarios ha sido especialmente denunciada en estos días por movilizaciones juveniles y femeninas en Santa Cruz de la Sierra [^ano_2017_3-19]. Ese malestar no toma en cuenta que las contradicciones éticas y políticas que reprochan a sus representantes empresariales y a los del gobierno tienen raíces sociales muy profundas. Es el caso de los antiguos colonizadores que en los años cincuenta y sesenta migraron de los Andes, y que han conformado un grupo de miles de pequeños productores de soya que hoy se identifican (económica, tecnológica, política e ideológicamente) con las cámaras empresariales controladas por las fracciones burguesas de mayor concentración de capital y transnacionalización.
+
+[^ano_2017_3-19]: Movilizaciones donde lo rebelde se mezcla con influencias conservadoras, expresadas por ejemplo en el anhelo de reanimar al Comité Cívico Regional.
+
+En ese sentido, un presidente colonizador, campesino y cocalero representa fielmente la deriva que, desde el mercantilismo simple, ha llevado a un sector de campesinos prósperos a asimilarse plenamente a la economía capitalista, desde la cual los acuerdos con otros sectores empresariales pueden considerarse tan naturales como su predisposición a utilizar la migración de familias de campesinos pobres (colonizadores) como el recurso más práctico para ampliar la frontera agrícola y el mercado de tierras. Los discursos anticapitalistas no modifican esa realidad, pero hasta ahora han probado ser buenos para alimentarla.
+
+Así, unos y otros se identifican con propuestas centrales de la Agenda 2025, es decir, el programa para la reelección de Juan Evo Morales Ayma, que propone el desbosque de unos 15 millones de hectáreas para seguridad alimentaria, pero, más propiamente, para incrementar las exportaciones de soya y otras oleaginosas y otras cadenas productivas propias del ensanchamiento de la frontera agrícola y el mercado de tierras. Esta es la motivación real y profunda de proyectos como la carretera del TIPNIS. Por eso los entusiasma, de manera casi idéntica, el anuncio de la aprobación del nuevo Plan de Uso del Suelo (PLUS) de la Gobernación del Beni [^ano_2017_3-20], que completa y explica lo que se ha hecho con el TIPNIS.
+
+[^ano_2017_3-20]: Véase: <https://n9.cl/mocfe> nuevo PLUS del Beni
+
+El vicepresidente resulta el mejor portavoz de la coalición de esos intereses, cuando nos conmina a mantener el desarrollismo extractivista por al menos dos décadas más, mientras sentencia que cuidar los bosques es un mandato imperial sustentado por los proimperialistas. En esa misma tónica, el director de la Autoridad de la Madre Tierra proclama orgulloso nuestro "*derecho* a emitir gases contaminantes" [^ano_2017_3-21], mientras que el ministro de Desarrollo Rural y Tierra defiende el derecho del gobierno a construir ingenios azucareros aunque no exista materia prima para operarlos, ya que más adelante se desboscará todo lo necesario... y más.
+
+[^ano_2017_3-21]: Véase: <https://n9.cl/lugdk>
+
+Todos estos derechos nacidos del vientre de la "agenda patriótica" son precursores del derecho reclamado por el MAS a que su candidato se habilite perpetuamente para participar en elecciones nacionales. Por lo tanto, se encuentran y se entrelazan, aunque hace pocos años se hubieran enfrentado con gran intensidad.
+
+## La economía y el proyecto de largo plazo
+
+La imposibilidad de pagar el aguinaldo extra es la más reciente muestra de las dificultades propias de la desaceleración que acompaña la baja de nuestras exportaciones, en volúmenes y precios, durante los tres últimos años. Pese a ello, la política económica sigue siendo la mejor carta de presentación del régimen y de su plan de mantenerse en el poder.
+
+La exhibición y reiteración de que tenemos el mayor crecimiento regional y las señales de estabilidad que se mantienen tienen mayor fuerza política y electoral que las advertencias de los especialistas sobre la evolución de un déficit que sobrepasa el 8% del PIB, o que los indicios de que están disminuyendo las oportunidades de empleo [^ano_2017_3-22]. Así, el régimen intenta mostrarse invulnerable ante estos problemas e inmutable ante las recurrentes explosiones que provocan las grandes lagunas en materia de educación y sanidad pública. Es igualmente eficaz para el gobierno su incansable repetición de que los opositores carecen de políticas económicas alternativas.
+
+[^ano_2017_3-22]: La drástica disminución de los recursos presupuestados este año para el pago del aguinaldo sería un indicador muy preciso, según esta nota periodística. Véase: <https://n9.cl/k3g7n>
+
+Un examen de las propuestas de los partidos de oposición confirma que el proyecto de construir grandes obras de infraestructura, especialmente represas, carreteras y de transporte urbano, obedece a la herencia común que han dejado los planes de desarrollo concebidos desde la década de 1940, bajo la inspiración de consultores como el norteamericano Merwin L. Bohan. Estos planes son asumidos por prácticamente todos los partidos como inevitables o, más bien, como altamente deseables, sin importar el costo ambiental que, en la actual situación del planeta, equivale a avanzar de frente a la catástrofe.
+
+Los planteamientos que distinguen a los opositores resultan más bien poco atractivos para la mayoría de electores, porque prometen ajustes fiscales, sinceramientos cambiarios y reformas neoliberales de última generación, muy propatronales y nada prolaborales. Otra diferencia es el compromiso opositor de apartarse del estatismo del MAS [^ano_2017_3-23], que se constituye hoy en la principal línea divisoria con los demás partidos.
+
+[^ano_2017_3-23]: El principal toque keynesiano de la política económica del MAS, la inversión pública como núcleo motor de todo el aparato productivo, viene tropezando desde un inicio con los bajos niveles de ejecución que, con cada año que pasa, no hacen sino empeorar. Véase: <https://n9.cl/uhr07> 38% de avance a septiembre
+
+La falta de una alternativa económica congruente con la que bosqueja la Constitución al referirse a una pluralidad de formas económicas que coexistan constructivamente, y lo más armoniosamente posible, con la naturaleza [^ano_2017_3-24] muestra nuevamente a una oposición cuyas acciones en favor de la recuperación democrática ---y tan dependientes de la búsqueda de un candidato--- resulten insuficientes para la mayoría social, que ha avanzado sustantivamente en desacoplarse de la acción y del proyecto del régimen, pero que tendrá grandes dificultades en culminar ese recorrido, mientras persista tan ostentosa falta entre quienes tratan de presentarse como genuina opción política diferente.
+
+[^ano_2017_3-24]: Es decir, una economía basada en las fuentes de vida (a las que solemos llamar muy imprecisamente recursos naturales renovables), tendiente a extinguir la dependencia (energética y fiscal) de los combustibles fósiles y a la sinergia entre la preservación y uso sostenible de las fuentes de vida, buscando avanzar al máximo en la innovación tecnológica en el campo energético y de la alimentación, conjugada con el impulso de la economía del conocimiento.
+
+Sin embargo, no entra en el debate público el hecho de que ratificar la estrategia de reelección continua para ejecutar la Agenda 2025 ---con su desmesurado plan de inversiones, solo alcanzable elevando drásticamente los niveles de endeudamiento y el consecuente incremento de la dependencia del país--- favorece indudablemente la permanencia del régimen.
+
+El vacío de propuestas económicas y de visión de país alternativa permite al gobierno seguir presentando como grandes éxitos proyectos como el corredor bioceánico, al que recientemente ha logrado incorporar a Brasil después de una larga y dolorosa espera. Nadie conoce los hipotéticos beneficios que pueda traer a nuestra población, pero la experiencia prueba que ---aun cuando estas megaobras puedan no alimentar a la población--- nutren su anhelo de autoestima y orgullo nacional, operando como grandes estímulos electorales en favor de quien las ejecuta o promete llevarlas a cabo.
+
+Esta fuerza es tan poderosa que puede borrar de la memoria la escasa utilidad de que YPFB tenga dos plantas separadoras de líquidos, excesivamente caras ambas y una sin casi materia prima para operar, o una producción de urea que se exporta al valor que cuesta producirla o por debajo de este, es decir subvencionando a los países compradores [^ano_2017_3-25]. Esta realidad puede convertirse en un hábito si el gobierno lleva adelante su propósito de construir el Chepete, aunque no tenga un compromiso de compra por parte del Brasil, para después ofrecerle la energía y darle la opción de imponer su precio, pues sería el único comprador.
+
+[^ano_2017_3-25]: El precio de \$US 279/TM acordado con Brasil es apenas superior a los \$US 204/TM que YPFB asevera cuesta producirla (véase al respecto: <https://n9.cl/hsvdaz>). Queda además por aclararse el verdadero costo del transporte, que en este momento es motivo de amenaza de paro por los dueños de camiones que prestan el servicio, ante la no conclusión del tramo ferroviario Bulo Bulo-Montero.
+
+## El nuevo orden
+
+Si la resistencia no obliga a que el régimen retroceda de su atropello a la CPE y a la voluntad soberana del pueblo, se consolidará un nuevo orden, descrito de la siguiente manera por un cientista político:
+
+> *Con la sentencia del TCP, lo que se vislumbra es el establecimiento de un nuevo sistema político. No la muerte de la democracia o su desfallecimiento como mencionan la mayoría de los analistas y políticos opositores, pero si el deceso del multipartidismo \[...\].* <br><br> Asistimos al funeral de un modelo democrático para iniciar otro \[...\]. En el mejor de los casos, para una concepción liberal y pluralista \[...\] la edificación de un sistema bipartidista y, en el peor, un sistema de partido hegemónico y, a la larga, de partido único. El cambio político provocado no es menor, ya que de ahora en adelante solo habrá dos posibilidades para pensar la calidad y el modelo de la democracia.<br><br>La primera, quizás la más viable, es la configuración de un sistema donde el MAS deviene en el partido hegemónico. Ello garantizaría la continuidad del "proceso de cambio" a través del desplazamiento del "instrumento político" ---todavía en manos de sectores, grupos y estructuras corporativas--- a partido del Estado, semejante al PRI mexicano para gobernar de manera continua varias décadas. La diferencia con el PRI mexicano sería que este proceso de asentamiento del "proceso de cambio" y del MAS en el Estado, girará bajo la egida de un solo líder \[...\]. Los determinantes políticos están dados: la sentencia constitucional del 28 de noviembre fue la apertura de la primera puerta, y lograr dos tercios en las elecciones nacionales del 2019 será la segunda. De ahí, para adelante, todo estará en sus manos y en su cancha.<br><br>La segunda, quizás la más inviable dada la cultura política en la que nos movemos, es la configuración de un sistema bipartidista competitivo en la que las decisiones, y el propio ejercicio del poder, es resultado de la gestión política de constantes tensiones y juegos de equilibrios. Modelo deseable para el pluralismo y la democracia, ya que no todo descansa en la voluntad de una persona o una sola fuerza política, sino en la posibilidad del disenso, la competencia, el recambio y la alternancia. Para ello, se requiere que la oposición partidaria se congregue en una sola fuerza y se proponga, de manera sería y factible, no vencer y derrotar a Evo Morales y al MAS de manera definitiva; pero sí, al menos, frenar a la maquinaria gubernamental y voluntad hegemónica del MAS y Evo Morales en lograr el control absoluto del poder político (Fernando García Yapur [^ano_2017_3-26]).
+
+[^ano_2017_3-26]: Este politólogo cochabambino ha trabajado durante varios años en fortalecimiento democrático en el PNUD Bolivia, como parte de un equipo encabezado por el exdirigente de la COB Carlos Camargo. Véase: <https://hurgandoelavispero1.wordpress.com/2017/12/06/bipartidismo-o-partido-hegemonico-por-fernando-l-garcia-yapur%EF%83%97/>
+
+El autor de la anterior cita tiene el mérito de decir frontalmente lo que ningún representante gubernamental se atreve, aunque posiblemente todos ellos lo ven como razonable y deseable, especialmente cuando alguien supone que el sistema democrático pueda ser compatible con un régimen monopartidista basado en la anulación de la Constitución y la soberanía popular.
+
+Es posible que, a estas alturas, ni el más convencido de los cuadros masistas esté tan seguro de que Juan Evo Morales Ayma es invencible electoralmente, como lo afirma la cita. Por el contrario, todo indica que las manifestaciones de descontento y resistencia que se suceden desde el 21 de febrero hasta las últimas elecciones los conduzcan a pensar que su triunfo en nuevas elecciones es muy dudoso, especialmente si los opositores se presentan coaligados. Si se impusieran limpiamente, sería con la pérdida del control absoluto del Legislativo, y deberían hacerse cargo de una gestión que podría terminar antes de tiempo sin necesidad de golpe, por lo complicado de mantener un régimen asentado en corporaciones ---que no es antagónico con un partido de Estado, como García Yapur supone---, carcomido por la corrupción y embarcado en un proyecto de endeudamiento, dependencia y devastación.
+
+El mayor error de los pronósticos de las afirmaciones de García Yapur es que supone un estado social de resignación, apatía y permisividad que no se corresponde con los hechos, ni con la historia de cómo se han conquistado la libertad y la democracia ni con la fuerza con que se prosigue defendiéndolas.
+
+La posibilidad de que se cumpla esa visión fatalista y complaciente, al menos en un trienio, es que la fuerza espontánea de resistencia no alcance para cristalizar una conducción política portadora de un programa y una propuesta que se agoten en el restablecimiento de la pura formalidad jurídica.
+
+::: {style="text-align:right; font-weight: bold;"}
+Diciembre de 2017
+:::
+
+## Notas

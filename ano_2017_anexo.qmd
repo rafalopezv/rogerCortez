@@ -1,0 +1,42 @@
+---
+lang: es
+format: 
+  html:
+    page-layout: article
+---
+# Anexo: Coca y neocolonización de territorios indígenas {.unnumbered}
+---
+
+La objeción más frecuentemente empleada para resistir y criticar el avasallamiento, de hecho y/o legal, del Territorio Indígena y Parque Nacional Isiboro Securé (TIPNIS) es que la superficie restada de los territorios indígenas o de las reservas naturales será asimilada por un persistente incremento de los cultivos de coca. Este argumento se aplica a casi cualquier situación parecida, y su popularidad reside principalmente en que, de manera abierta o implícita, se supone que los avasalladores están necesariamente vinculados a los “narcos”.
+
+Se trata sin duda de una noción falsa. No en vano tales acusaciones se han estado formulando desde el primer día del ascenso del régimen sin causarle la menor mella ni impedir que su votación haya subido constantemente en las elecciones nacionales. Tampoco parecen haber jugado ningún papel en su derrota en febrero de 2016. Llamar cocalero y narcotraficante al presidente y sus seguidores entusiasma a la franja de electores conservadores y ultraconservadores (usualmente entre el 20 y el 25% del electorado) que le ha sido adversa desde un principio, pero no a la mayoría de electores que ha respaldado al MAS.
+
+Uno de los problemas de esta interpretación es que obvia el hecho de que Bolivia es el país que tiene la superficie más estable de cocales durante los últimos 30 años [^15] (a excepción del descontrol durante la década de 1980 y la erradicación radical durante el gobierno de Banzer), según se verifica al hacer un seguimiento de los informes de la UNODC (la Oficina de Naciones Unidas contra la Droga y el Delito, por sus siglas en inglés) y de los del Departamento de Estado de EE. UU. sobre la producción andina.
+
+Los informes de EE. UU. tienen un estimado promedio de alrededor del 50% por encima de los de Naciones Unidas, ya que en 2016 informan de una superficie de 37.000 ha, frente a las cerca de 25.000 ha que registra la UNDOC. En ese lapso Colombia y Perú han mostrado grandes oscilaciones, con Colombia como el caso extremo, ya que en 1980 tenía una superficie de 8.000 ha y se espera que este año supere las 180.000.
+
+Aun en el supuesto de que los cultivos del trópico cochabambino tuvieran el triple de extensión que la de los informes (220 km2, en vez de 77 km2, es decir, 22.000 ha en vez de las 7.700 que autoriza la nueva Ley de la Coca), eso implica que la superficie dedicada a labores agropecuarias en la provincia Chapare [^16] es muy reducida. Esto permite hacerse una idea respecto a la noción de que en esos sectores ya se “habría agotado” la tierra para sembrar coca [^17].
+
+Afirmar que el gobierno está empeñado en fomentar la producción de coca hasta convertir las 1.200.000 ha del TIPNIS en un inmenso cocal significa creer, con base a los resultados de la actual erradicación —que alcanza un promedio de 10.000 ha/año— que la siembra de coca avanzará, más o menos incólume, durante los siguientes 120 años. Lo que es peor, lleva a pensar que los demás aspectos de la política del régimen pesan poco frente a esa cocalización, que sería el motor principal de sus acciones.
+
+La centralidad que se le da a la expansión de cultivos de coca y la satanización de los cocaleros deforma la perspectiva amplia y predispone, además, a suponer que cuando cambie el gobierno podría sobrevenir una política de eliminación de cocales, como en su momento lo hizo la administración Banzer-Quiroga, que terminó fortaleciendo, y finalmente entronizando, al actual presidente del Estado.
+
+No se plantea subestimar los enormes problemas que nos acarrea la elaboración, comercialización y consumo de cocaína al que se destina la mayor parte de la hoja de coca producida en el país. Se trata, más bien, de salir del círculo de soluciones ensayadas que tienen como factor común el haber permitido que sean el Estado y los cocaleros quienes negocien y tomen las decisiones.
+
+Precisamente por la seriedad de los problemas en materia de corrupción política y judicial, de incremento de la delincuencia y de los hechos violentos, inseguridad, hostigamiento internacional y otros, es necesario construir nuevas opciones basándonos en la norma constitucional que obliga a que la participación y el control social sean la base de la definición de las políticas públicas.
+
+En tanto que la superficie de cocales tiene tantas repercusiones en varios planos, toca plantear el funcionamiento de un mecanismo de concertación para que la representación del Estado y la de los cocaleros se encuentren con todos los demás sectores y, de manera conjunta, adopten decisiones sobre la superficie legal de cultivos, la calidad de la coca (orgánica, por ejemplo), el régimen tributario que le corresponde, etcétera.
+
+Una instancia de esa naturaleza —impensable en las condiciones políticas vigentes— tiene que ocuparse también de las políticas para atenuar impactos en los sectores cuyos ingresos y posibilidades reales de empleo resulten afectados por las decisiones que adopte. Desde una perspectiva democrática, es impensable pensar en reproducir prácticas corporativas, esta vez haciendo que otros sectores amenacen o se confronten con cocaleros (o cooperativistas), que es a lo que induce el tipo de confrontación que hoy prevalece en nuestro país.
+
+::: {style="text-align:right; font-weight: bold;"}
+Agosto de 2016
+:::
+
+## Notas
+
+[^15]: Laserna, quien opina que nuestra tendencia es ascendente, ha sistematizado importantes observaciones sobre los cocaleros de Yungas y Chapare, obtenidas a través de visitas de campo. Véase: [http://www.cepes.org.pe/cendoc/eventos/Libro-Foro-Reforma-Agraria-2007/12-laserna-bolivia.pdf](http://www.cepes.org.pe/cendoc/eventos/Libro-Foro-Reforma-Agraria-2007/12-laserna-bolivia.pdf)
+
+[^16]: Datos del Censo Nacional Agropecuario 2013 muestran que en el municipio de Villa Tunari se encuentra la mayor cantidad de unidades de producción agropecuaria, respecto a los municipios que conforman la región de trópico cochabambino. Este municipio tiene una superficie cultivada de verano de 27.238 hectáreas y 28.404 unidades de producción agropecuaria. Véase: [https://www.ine.gob.bo/index.php/villa-tunari-el-platano-banano-es-el-principal-producto-cultivado/](https://www.ine.gob.bo/index.php/villa-tunari-el-platano-banano-es-el-principal-producto-cultivado/)
+
+[^17]: En términos de peso demográfico, los cocaleros suman un total de aproximadamente 100.000 familias, con lo que representan alrededor del 3% al 5% del padrón electoral (6,4 millones aproximadamente, en 2017), pero compensan largamente su bajo peso en las urnas con su potencia en las calles y en la movilización.

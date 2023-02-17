@@ -1,0 +1,10 @@
+---
+lang: es
+format: 
+  html:
+    page-layout: full
+---
+
+# Funcionalidades de esta versión {.unnumbered}
+
+Aquí explicaré de que modo el usuario puede utilizar interactuar con el libro 

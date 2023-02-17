@@ -1,0 +1,774 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="es" xml:lang="es"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.2.269">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+
+<title>Popularidad a prueba de fuego</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1.6em;
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="site_libs/quarto-nav/headroom.min.js"></script>
+<script src="site_libs/clipboard/clipboard.min.js"></script>
+<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="site_libs/quarto-search/fuse.min.js"></script>
+<script src="site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="./">
+<link href="./ano_2013_2.html" rel="next">
+<link href="./como_leer.html" rel="prev">
+<script src="site_libs/quarto-html/quarto.js"></script>
+<script src="site_libs/quarto-html/popper.min.js"></script>
+<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
+<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<script src="site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-dark.min.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<script id="quarto-search-options" type="application/json">{
+  "location": "sidebar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "start",
+  "type": "textbox",
+  "limit": 20,
+  "language": {
+    "search-no-results-text": "Sin resultados",
+    "search-matching-documents-text": "documentos encontrados",
+    "search-copy-link-title": "Copiar el enlace en la búsqueda",
+    "search-hide-matches-text": "Ocultar resultados adicionales",
+    "search-more-match-text": "resultado adicional en este documento",
+    "search-more-matches-text": "resultados adicionales en este documento",
+    "search-clear-button-title": "Borrar",
+    "search-detached-cancel-button-title": "Cancelar",
+    "search-submit-button-title": "Enviar"
+  }
+}</script>
+
+
+</head>
+
+<body class="nav-sidebar floating">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+  <nav class="quarto-secondary-nav" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+    <div class="container-fluid d-flex justify-content-between">
+      <h1 class="quarto-secondary-nav-title">Popularidad a prueba de fuego</h1>
+      <button type="button" class="quarto-btn-toggle btn" aria-label="Show secondary navigation">
+        <i class="bi bi-chevron-right"></i>
+      </button>
+    </div>
+  </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article">
+<!-- sidebar -->
+  <nav id="quarto-sidebar" class="sidebar collapse sidebar-navigation floating overflow-auto">
+      <div class="mt-2 flex-shrink-0 align-items-center">
+        <div class="sidebar-search">
+        <div id="quarto-search" class="" title="Search"></div>
+        </div>
+        <div class="sidebar-tools-collapse tools-wide">
+    <a href="" title="Download" id="sidebar-tool-dropdown-0" class="sidebar-tool dropdown-toggle px-1" data-bs-toggle="dropdown" aria-expanded="false"><i class="bi bi-download"></i></a>
+    <ul class="dropdown-menu" aria-labelledby="sidebar-tool-dropdown-0">
+        <li>
+          <a class="dropdown-item sidebar-tools-collapse-item" href="./rogerCortez.pdf">
+            <i class="bi bi-bi-file-pdf pe-1"></i>
+          Download PDF
+          </a>
+        </li>
+        <li>
+          <a class="dropdown-item sidebar-tools-collapse-item" href="./rogerCortez.epub">
+            <i class="bi bi-bi-journal pe-1"></i>
+          Download ePub
+          </a>
+        </li>
+    </ul>
+    <a href="" title="Share" id="sidebar-tool-dropdown-1" class="sidebar-tool dropdown-toggle px-1" data-bs-toggle="dropdown" aria-expanded="false"><i class="bi bi-share"></i></a>
+    <ul class="dropdown-menu" aria-labelledby="sidebar-tool-dropdown-1">
+        <li>
+          <a class="dropdown-item sidebar-tools-collapse-item" href="https://twitter.com/intent/tweet?url=|url|">
+            <i class="bi bi-bi-twitter pe-1"></i>
+          Twitter
+          </a>
+        </li>
+        <li>
+          <a class="dropdown-item sidebar-tools-collapse-item" href="https://www.facebook.com/sharer/sharer.php?u=|url|">
+            <i class="bi bi-bi-facebook pe-1"></i>
+          Facebook
+          </a>
+        </li>
+    </ul>
+  <a href="" class="quarto-color-scheme-toggle sidebar-tool" onclick="window.quartoToggleColorScheme(); return false;" title="Toggle dark mode"><i class="bi"></i></a>
+</div>
+      </div>
+    <div class="sidebar-menu-container"> 
+    <ul class="list-unstyled mt-1">
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./index.html" class="sidebar-item-text sidebar-link">Portada</a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./presentacion.html" class="sidebar-item-text sidebar-link">Presentación</a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./introduccion.html" class="sidebar-item-text sidebar-link">Introducción</a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./como_leer.html" class="sidebar-item-text sidebar-link">Funcionalidades de esta versión</a>
+  </div>
+</li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" aria-expanded="true">2013</a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" aria-expanded="true">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./ano_2013_1.html" class="sidebar-item-text sidebar-link active">Popularidad a prueba de fuego</a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./ano_2013_2.html" class="sidebar-item-text sidebar-link">Identidades censales y desarrollo como ideología estatal</a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./ano_2013_3.html" class="sidebar-item-text sidebar-link">Aguinaldo extra y guerra anti ONG</a>
+  </div>
+</li>
+      </ul>
+  </li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" aria-expanded="true">2014</a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" aria-expanded="true">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-2" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./ano_2014_1.html" class="sidebar-item-text sidebar-link">“Descolonización” de las FF.AA. y redes de extorsión</a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./ano_2014_2.html" class="sidebar-item-text sidebar-link">Cumbre de la hegemonía del MAS</a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./ano_2014_3.html" class="sidebar-item-text sidebar-link">Triunfo anunciado</a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./ano_2014_4.html" class="sidebar-item-text sidebar-link">Panorama después de las elecciones nacionales</a>
+  </div>
+</li>
+      </ul>
+  </li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" aria-expanded="true">2015</a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" aria-expanded="true">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-3" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./ano_2015_1.html" class="sidebar-item-text sidebar-link">Elecciones regionales: Primer desmarque aymara</a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./ano_2015_2.html" class="sidebar-item-text sidebar-link">Triunfo de la certidumbre y la compulsión reeleccionista</a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./ano_2015_3.html" class="sidebar-item-text sidebar-link">El fondo campesino y la contraofensiva por la reelección</a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./ano_2015_4.html" class="sidebar-item-text sidebar-link">La búsqueda oficial de victoria en el referendo</a>
+  </div>
+</li>
+      </ul>
+  </li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-4" aria-expanded="true">2016</a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-4" aria-expanded="true">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-4" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./ano_2016_1.html" class="sidebar-item-text sidebar-link">La huella del 21 de febrero</a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./ano_2016_2.html" class="sidebar-item-text sidebar-link">Derrota en el referendo y maniobras para anularla</a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./ano_2016_3.html" class="sidebar-item-text sidebar-link">Aterrizaje de Trump y despegue de la contraofensiva al 21F</a>
+  </div>
+</li>
+      </ul>
+  </li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-5" aria-expanded="true">2017</a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-5" aria-expanded="true">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-5" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./ano_2017_1.html" class="sidebar-item-text sidebar-link">Recrudece el plan para atropellar la soberanía popular</a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./ano_2017_2.html" class="sidebar-item-text sidebar-link">Desarrollismo versus pueblos indígenas</a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./ano_2017_3.html" class="sidebar-item-text sidebar-link">Golpe contra la constitución y la soberanía popular</a>
+  </div>
+</li>
+      </ul>
+  </li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-6" aria-expanded="true">2018</a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-6" aria-expanded="true">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-6" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./ano_2018_1.html" class="sidebar-item-text sidebar-link">Clases medias en debate y la hipótesis de Morales prescindente</a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./ano_2018_2.html" class="sidebar-item-text sidebar-link">Burguesías estatales y la violencia <em>in crescendo</em></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./ano_2018_3.html" class="sidebar-item-text sidebar-link">Golpe de Estado consumado</a>
+  </div>
+</li>
+      </ul>
+  </li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-7" aria-expanded="true">2019</a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-7" aria-expanded="true">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-7" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./ano_2019_1.html" class="sidebar-item-text sidebar-link">Aires de tormenta</a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./ano_2019_2.html" class="sidebar-item-text sidebar-link">Incendio de bosques y de descontento social</a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./ano_2019_3.html" class="sidebar-item-text sidebar-link">La caída</a>
+  </div>
+</li>
+      </ul>
+  </li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-8" aria-expanded="true">2020</a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-8" aria-expanded="true">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-8" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./ano_2020_1.html" class="sidebar-item-text sidebar-link">Pugnas sociales en era de pandemias</a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./ano_2020_2.html" class="sidebar-item-text sidebar-link">Enfermedad y bloqueos</a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./ano_2020_3.html" class="sidebar-item-text sidebar-link">Triunfo y retorno</a>
+  </div>
+</li>
+      </ul>
+  </li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-9" aria-expanded="true">2021</a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-9" aria-expanded="true">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-9" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./ano_2021_1.html" class="sidebar-item-text sidebar-link">Fractura aymara en occidente, tráfico de tierras en oriente</a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./ano_2021_2.html" class="sidebar-item-text sidebar-link">Escenarios endógenos y externos ante una estrategia de poder</a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./ano_2021_3.html" class="sidebar-item-text sidebar-link">Épocas de marchas y contramarchas</a>
+  </div>
+</li>
+      </ul>
+  </li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./autor.html" class="sidebar-item-text sidebar-link">Sobre el autor</a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./version.html" class="sidebar-item-text sidebar-link">Sobre esta versión</a>
+  </div>
+</li>
+    </ul>
+    </div>
+</nav>
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Tabla de contenidos</h2>
+   
+  <ul>
+  <li><a href="#saldos-acumulados" id="toc-saldos-acumulados" class="nav-link active" data-scroll-target="#saldos-acumulados">Saldos acumulados</a></li>
+  <li><a href="#redes-y-enredos" id="toc-redes-y-enredos" class="nav-link" data-scroll-target="#redes-y-enredos">Redes y enredos</a></li>
+  <li><a href="#ruta-de-una-frustación-colectiva" id="toc-ruta-de-una-frustación-colectiva" class="nav-link" data-scroll-target="#ruta-de-una-frustación-colectiva">Ruta de una frustación colectiva</a></li>
+  <li><a href="#reinado-de-la-aritmética" id="toc-reinado-de-la-aritmética" class="nav-link" data-scroll-target="#reinado-de-la-aritmética">Reinado de la aritmética</a></li>
+  <li><a href="#notas" id="toc-notas" class="nav-link" data-scroll-target="#notas">Notas</a></li>
+  </ul>
+</nav>
+    </div>
+<!-- main -->
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title d-none d-lg-block">Popularidad a prueba de fuego</h1>
+</div>
+
+
+
+<div class="quarto-title-meta">
+
+    
+  
+    
+  </div>
+  
+
+</header>
+
+<p>Si en 2012, e incluso antes, la oposición partidista denunció la “campaña electoral permanente” que le atribuye al MAS, en este 2013 todos los actores políticos parecen embarcados en prepararse para las elecciones de octubre de 2014 <a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a>.</p>
+<p>Por eso, si se busca un asunto que haya dominado la escena informativa en este primer semestre, se impone por volumen e intensidad la confirmación de una nueva reelección de Morales y García.</p>
+<p>Incluso en estos días en que el flujo informativo se concentra alrededor del estruendoso forcejeo entre autoridades y la Central Obrera Boliviana (COB), una avanzadilla de francotiradores mediáticos del bando oficial ha estado hostigando a los dirigentes cobistas, afirmando que convocan y organizan la protesta “para lanzar y promocionar publicitariamente al partido” <a href="#fn2" class="footnote-ref" id="fnref2" role="doc-noteref"><sup>2</sup></a>, que ha decidido constituir la central sindical imitando los pasos asumidos en 1995 por quienes crearon el “instrumento político”, hoy convertido en partido gobernante.</p>
+<p>Lo notable de la presente oleada de reclamos callejeros y cortes de ruta es que no se origina en reivindicaciones salariales, puesto que en esta oportunidad se aceptó el 8% de incremento ofrecido por las autoridades, siempre con rezongos de insatisfacción, pero después de una negociación relativamente breve y con menos incidentes callejeros que en otras oportunidades.</p>
+<section id="saldos-acumulados" class="level2">
+<h2 class="anchored" data-anchor-id="saldos-acumulados">Saldos acumulados</h2>
+<p>La posibilidad de aglutinar fuerzas y motorizarlas en una escalada importante, como la que se ha observado este mes, con la consigna de aumentar las jubilaciones, puede revelar algunas cuestiones poco analizadas y discutidas por los medios de difusión masiva. Habitualmente, aquí como en otros países, las demandas referidas a jubilaciones convocan casi exclusivamente a jubilados y a sus beneficiarios. Es excepcional la participación asidua y entusiasta de otros grupos, como acontece aquí, excepto cuando se anuncian recortes, que es lo que ha sucedido recientemente en España y en otros países europeos.</p>
+<p>Según la masiva campaña propagandística que sostiene el gobierno, en Bolivia los montos cobrados por “cerca del 80% de los trabajadores asalariados se han incrementado con la nueva ley de pensiones” <a href="#fn3" class="footnote-ref" id="fnref3" role="doc-noteref"><sup>3</sup></a> . En contrapartida, la posición de los sindicatos es que “Todo el ahorro del trabajador con más de 30 años de contribuciones continuas no alcanza para cubrir [pagar] lo que señala la Ley de Pensiones vigente: una pensión de jubilación equivalente al 60% del referente salarial del trabajador”. “El resultado es que las rentas que ofrecen las actuales administradoras de pensiones, casi en la totalidad de los casos, no llegan al porcentaje fijado por ley, sino a un promedio cercano al 40%” <a href="#fn4" class="footnote-ref" id="fnref4" role="doc-noteref"><sup>4</sup></a>.</p>
+<p>Cuanto más reales las afirmaciones oficiales, más difícil de comprender resultaría el movimiento de protesta. Lo cierto es que si se considera el historial de conflictos del país, así como la experiencia —bastante generalizada— de que no es fácil agendar el tema de las jubilaciones como tema principal, y menos todavía como el único <a href="#fn5" class="footnote-ref" id="fnref5" role="doc-noteref"><sup>5</sup></a>, que es lo está pasando, tiene sustento la hipótesis de que lo que hay por detrás del reclamo explícito es un clima de malestar más o menos generalizado entre grandes grupos de asalariados.</p>
+<p>Se trata, por una parte, de una disminución de la capacidad adquisitiva de los salarios <a href="#fn6" class="footnote-ref" id="fnref6" role="doc-noteref"><sup>6</sup></a>, escondida por la subestimación del índice inflacionario que aplica el Instituto Nacional de Estadísticas (INE) y, por otra, de la precarización de las condiciones laborales. Estas condiciones afectan a un numeroso grupo de nuevos empleados públicos, contratados como “consultores” —y, por tanto, sin ninguno de los beneficios de los trabajadores de planta—, así como a una cantidad considerable de asalariados que trabajan en actividades informales <a href="#fn7" class="footnote-ref" id="fnref7" role="doc-noteref"><sup>7</sup></a>.</p>
+<p>Otra importante fuente de insatisfacción proviene de la acumulación de conflictos, muchas veces provocados por el propio gobierno, resueltos a medias y sometidos a treguas forzadas, como ha pasado con los trabajadores de Salud o con los policías. El intento de cercenar una conquista laboral de los primeros inició, por iniciativa de las autoridades, una intensa batalla que ahora atraviesa por un largo paréntesis en el que se realizan “cumbres de Salud”, en tanto que los policías se quejan de una desatención crónica de sus reclamos y de un trato despectivo, que contrasta con los privilegios que reciben las FF.AA.</p>
+</section>
+<section id="redes-y-enredos" class="level2">
+<h2 class="anchored" data-anchor-id="redes-y-enredos">Redes y enredos</h2>
+<p>A pesar de que el jefe de Estado cosecha índices de aprobación elevados, es ostensible que la confianza y la credibilidad de la administración están debilitadas por una prolongada sucesión de denuncias y evidencias de corrupción.</p>
+<p>Las “barcazas chinas” y la adquisición de maquinaria para Papelbol han estado en vitrina en los meses previos, exhibiendo pérdidas millonarias, pero modestas en comparación con las que se sospecha que han ocurrido con el paquete de 2.400 millones de dólares para contrataciones de Yacimientos Petrolíferos Fiscales Bolivianos (YPFB), cuyo responsable máximo fue apresado accidentalmente.</p>
+<p>Sin embargo, este año sobresale el develamiento de una o de un conjunto de redes de extorsión, enclavadas en centros neurálgicos del Estado. Personeros clave del Ministerio de Gobierno están presos bajo el cargo de dirigir dichas redes y beneficiarse con extraordinarios e ilícitos beneficios. Sin embargo, a pesar de su reclusión, exhiben señales de que acceden a información privilegiada <a href="#fn8" class="footnote-ref" id="fnref8" role="doc-noteref"><sup>8</sup></a>, y tal vez todavía cuenten con una importante influencia.</p>
+<p>Son iguales o mayores las consecuencias de las denuncias contra el fiscal responsable de los llamados casos “terrorismo” I y II, debido a la alta renta política que le significaron al gobierno. La “victoria militar” a la que se refiere la teoría oficial “tras el desbaratamiento del separatismo armado organizado por el grupo La Torre” <a href="#fn9" class="footnote-ref" id="fnref9" role="doc-noteref"><sup>9</sup></a>, se fundamenta en la trama que debían dilucidar los mencionados casos judiciales.</p>
+<p>Las primeras denuncias de que los extranjeros acusados de encabezar la célula armada murieron ejecutados y no en un enfrentamiento se han visto reforzadas por grabaciones de audio, que confirman que los fiscales del caso actuaron al compás de las ordenes políticas del Ejecutivo. Además, proliferan las quejas respecto a que los encargados de la investigación se enriquecieron chantajeando a imputados y sus familias.</p>
+</section>
+<section id="ruta-de-una-frustación-colectiva" class="level2">
+<h2 class="anchored" data-anchor-id="ruta-de-una-frustación-colectiva">Ruta de una frustación colectiva</h2>
+<p>La ciudad de Santa Cruz de la Sierra es, con certeza, donde los hechos relacionados con estas redes de extorsión tienen más impacto, porque la mayor parte de las reales y presuntas víctimas de estas mallas político-delictivas radican allá. Sin embargo, los ecos de la decisión del Tribunal Constitucional Plurinacional (TCP) autorizando una nueva reelección del presidente y su vice tienen impacto nacional, y afectan la reforma estatal más allá de los cuellos de botella que hoy la sofocan.</p>
+<p>La evaluación de Cusi, el magistrado del TCP <a href="#fn10" class="footnote-ref" id="fnref10" role="doc-noteref"><sup>10</sup></a> que obtuvo la mayor votación en las elecciones judiciales, sobre los efectos de la sentencia que habilita la re-reelección no ha merecido hasta ahora reacciones de voceros oficiales. Sin embargo, estos mismos voceros no ahorraron adjetivos para desautorizar a la expresidenta de Diputados de la gestión pasada, que calificó el fallo como inconstitucional <a href="#fn11" class="footnote-ref" id="fnref11" role="doc-noteref"><sup>11</sup></a>.</p>
+<p>La exuberante satisfacción oficial ante el pronunciamiento de los tribunos no sopesa el daño que produce el debilitamiento del crédito público del TCP, conquistado por esta instancia con algunas sentencias previas que enmendaron algunos yerros mayores, como la destitución de autoridades elegidas por una simple acusación formal.</p>
+<p>Su entusiasmo le impide entender que las señales de un aparato judicial deforme y arbitrario impactan inclusive entre sus más fieles adherentes y, seguramente, contribuyen en alguna medida a alimentar diversas expresiones de protesta, incluyendo la que se ha comentado al principio de este documento.</p>
+<p>La sentencia del TCP engrosa el flujo diario de datos que llevan a la población a sentirse desprotegida ante el crimen y las injusticias. Y es que demasiados policías aparecen demasiadas veces asociados con delincuentes o protagonizando delitos ellos mismos, mientras que fiscales y jueces, antiguos y nuevos, no dejan de exhibir su predisposición a inclinarse ante el dinero y el poder.</p>
+<p>A ello se suma la pérdida de confianza colectiva que trae la decisión del TCP, que muestra una radical impotencia de este Tribunal para atender la sentida demanda social de construir una administración de justicia imparcial y autónoma.</p>
+</section>
+<section id="reinado-de-la-aritmética" class="level2">
+<h2 class="anchored" data-anchor-id="reinado-de-la-aritmética">Reinado de la aritmética</h2>
+<p>Es cierto que, a estas alturas, no hay motivo para sorprenderse por el comportamiento del Ejecutivo, ya que, desde la elección de los magistrados a fines de 2011, quedó de manifiesto que había hecho lo posible para asegurarse la sumisión de estas autoridades judiciales electas, tal como antes había dejado claro que replicaría y reforzaría los tradicionales mecanismos de domesticación de los fiscales, indispensables en la hora de montar una persecución judicial a gran escala contra enemigos, rivales, competidores, disidentes o críticos.</p>
+<p>La dureza con que actúa en este plano el partido gobernante se apoya, por una parte, en el legado ideológico del sindicalismo revolucionario y de muchas organizaciones de izquierda que se han asimilado al MAS-IPSP. Por otra, posiblemente más importante, en el sentimiento de invulnerabilidad que le reporta una sucesión de victorias electorales, que en apenas siete años se traduce en un 500% de incremento de electores (de los 581.800 obtenidos en 2002 a los 2,8 millones que lo respaldaron en la reelección de 2009) y en la evidencia de que la intención de voto se inclina nítidamente a su favor, frente a la marcada debilidad de sus competidores.</p>
+<p>Ese cálculo supone que es automáticamente legal, justo y legítimo cualquier hecho que respalden sondeos o encuestas. La realidad, siempre más rica y compleja, muestra que la preferencia electoral de un ciudadano por una opción válida en un futuro próximo no anula su capacidad de entender que la Constitución prohíbe la reelección continua por más de una vez <a href="#fn12" class="footnote-ref" id="fnref12" role="doc-noteref"><sup>12</sup></a>. Es más, que sus simpatías o inclinaciones electorales no lo privan de experimentar una profunda frustración por el desempeño de la administración de justicia, que se mantiene igual o peor después de varios años de promesas, reformas constitucional y legal, elección de magistrados y otros actos y símbolos de renovación y cambio.</p>
+<p>La solidez de la convocatoria gubernamental se asienta, en primer lugar, en el profundo sentimiento de identidad cultural y étnica entre el presidente y una porción significativa del electorado <a href="#fn13" class="footnote-ref" id="fnref13" role="doc-noteref"><sup>13</sup></a>:. En segundo lugar, en la simbología del encuentro indígena-no indígena que refleja el binomio que encabeza el gobierno y, en tercer lugar, en un rango igualmente importante, en el récord de cumplimiento de compromisos contraídos con su base social.</p>
+<p>La Asamblea Constituyente y la reforma integral de la CPE, la recuperación del control estatal de recursos naturales, la redistribución de una parte del excedente —proveniente del alto precio de las materias primas exportadas— a través de bonos selectivos y subsidios, la sustitución de una porción considerable de ejecutivos y gerentes estatales por personal reclutado de sectores populares, la denuncia y penalización del racismo y la discriminación, la construcción de plantas separadoras de gas, el incremento de la participación femenina en responsabilidades públicas, la interpelación a la dominación regional por EE. UU., la extensión de redes domésticas de gas natural y la política frente a Chile son algunas de estas realizaciones. El presidente Morales y su partido han conseguido con ellas una acumulación política que se mantiene aparentemente intacta, pese:</p>
+<ul>
+<li>a su intento de aplicar un “gasolinazo” que igualaba los precios de los combustibles en el país con los de la ciudad de Nueva York <a href="#fn14" class="footnote-ref" id="fnref14" role="doc-noteref"><sup>14</sup></a>; al despliegue de miles de conflictos sociales anuales por año;</li>
+<li>a la represión abierta y sistemática contra movimientos sociales, como los que impugnan en el TIPNIS;</li>
+<li>a la ruptura frontal entre el relato proambiental del gobierno y su reiteración de prácticas desarrollistas rudimentarias y predatorias;</li>
+<li>al reparto ilegal y arbitrario de recursos naturales —incluyendo tierras fiscales y yacimientos mineros— entre sus allegados.</li>
+</ul>
+<p>Sin embargo, la baja de aprobación que se ha dado en los peores conflictos se desvanece en pocas semanas. En este momento, cuando estamos por cumplir los siete años de su primera elección, su aprobación se aproxima a los dos tercios (entre el 59% y el 60% en abril).</p>
+<p>En este año han continuado acumulándose evidencias de que el gobierno ha decidido frenar las reformas constitucionales más novedosas, como la descentralización, las autonomías, el control social o una pluralidad económica que vaya más allá del reconocimiento pasivo de que en Bolivia, tal como en muchos otros países, coexiste una diversidad de relaciones económicas.</p>
+<p>El ritmo de las estatizaciones ha decaído, pero eso no descarta que pueda decretarse alguna sin anuncio previo, siempre que cumpla con el requisito de lograr buenos réditos electorales.</p>
+<p>También se han extendido las rupturas gubernamentales con sectores populares, como los indígenas de tierras bajas y los obreros mineros e industriales (que representan menos de un tercio de todos los asalariados). También se ha desatado una guerra de baja intensidad contra algunas ONG <a href="#fn15" class="footnote-ref" id="fnref15" role="doc-noteref"><sup>15</sup></a> (especialmente con las que han estado trabajando con indígenas y defensa ambiental), lo que ha incrementado la severidad de la reglamentación de su funcionamiento.</p>
+<p>Entre tanto, se ha consolidado una serena cohabitación con grandes grupos empresariales de las finanzas, con agroexportadores y ganaderos de la zona oriental y con consorcios petroleros y mineros.</p>
+<p>La violencia callejera ha avanzado con la incursión de sicarios; hay señales de que grupos criminales extranjeros <a href="#fn16" class="footnote-ref" id="fnref16" role="doc-noteref"><sup>16</sup></a> estarían buscando establecerse en Bolivia.</p>
+<p>Frente a toda esta situación, la tendencia central es a que, entre tensiones y sobresaltos, el gobierno preserve su capacidad de control y mantenga una importante opinión favorable, apoyado en lo que se ha explicado más arriba, y en el temor, incluso entre algunos que lo desaprueban, a que en su ausencia los problemas se agravarían.</p>
+<p><br></p>
+<div style="text-align:right; font-weight: bold;">
+<p>Mayo de 2013</p>
+</div>
+</section>
+<section id="notas" class="level2">
+<h2 class="anchored" data-anchor-id="notas">Notas</h2>
+
+
+</section>
+<section id="footnotes" class="footnotes footnotes-end-of-document" role="doc-endnotes">
+<hr>
+<ol>
+<li id="fn1"><p>Aunque al momento de editar y entregar este material se mantiene todavía la convocatoria para diciembre, lo más probables es que se apruebe la iniciativa del Tribunal Supremo Electoral de adelantarlas dos meses, en previsión de que pudiera darse una segunda vuelta<a href="#fnref1" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn2"><p>Véase: <a href="https://uit-ci.org/index.php/2013/03/10/bolivia-gran-congreso-convocado-por-lacob-funda-el-partido-de-los-trabajadores/" class="uri">https://uit-ci.org/index.php/2013/03/10/bolivia-gran-congreso-convocado-por-lacob-funda-el-partido-de-los-trabajadores/</a><a href="#fnref2" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn3"><p>Vicepresidente del Estado, entrevista-exposición, TVB, 19 de mayo 2013<a href="#fnref3" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn4"><p>La afirmación es del CEDLA, una ONG especializada en temas laborales, y coincide con lo que señalan dirigentes de la COB, federaciones y sindicatos diversos. Véase <a href="http://www.%20cedla.org/content/2933">http://www. cedla.org/content/2933</a><a href="#fnref4" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn5"><p>No me refiero a los jubilados, sino al universo de trabajadores activos contribuyentes, que difícilmente llegan a las calles por una cuestión que empieza a preocuparles cuando se acerca el momento del retiro laboral, según lo han medido múltiples encuestas en países donde se ha encarado reformas de la seguridad social. Al respecto, véase R. Acuña, Fondos de pensiones: Información, educación, cultura previsional y Asesoría entregada a los afiliados, Serie Regulaciones Comparadas, Santiago de Chile: FIAP, 2011.<a href="#fnref5" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn6"><p>Silvia Escobar y Bruno Rojas, Situación de los derechos laborales en Bolivia, La Paz: CEDLA, 2010; también véase Enrique Velazco, Excedente bruto y remuneraciones, La Paz: INASET, 2011.<a href="#fnref6" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn7"><p>CEDLA, op. cit.: 26<a href="#fnref7" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn8"><p>Alude a la denuncia, apoyada en pruebas documentales, de una senadora respecto a que al menos uno de los encausados tenía datos precisos sobre quién sería elegido a la cabeza del Ministerio Público. <a href="http://www.la-razon.com/ciudades/seguridad_ciudadana/Senadora-Gonzales-Fiscal-General-favores_0_1828017242.htm" class="uri">http://www.la-razon.com/ciudades/seguridad_ciudadana/Senadora-Gonzales-Fiscal-General-favores_0_1828017242.htm</a><a href="#fnref8" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn9"><p>Álvaro García Linera, Las tensiones creativas de la revolución: la quinta fase del Proceso de Cambio, La Paz: Vicepresidencia del Estado Plurinacional, 2011. <a href="https://www.bivica.org/files/tensiones-creativas.pdf" class="uri">https://www.bivica.org/files/tensiones-creativas.pdf</a><a href="#fnref9" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn10"><p>“Prácticamente hemos perdido esa cualidad de ser Tribunal, ahora todo el mundo habla mal contra el Tribunal Constitucional, y eso que nos ha costado construir la imagen, pero lamentablemente por una sentencia hemos destruido todo” (Gualberto Cusi, entrevista en radio Fides, La Paz, 16 de mayo de 2013).<a href="#fnref10" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn11"><p>El artículo 168 de la CPE vigente desde 2009 establece que presidente y vicepresidente pueden ser reelegidos una sola vez de manera continua, y su disposición transitoria primera, inciso II, que: “Los mandatos anteriores a la vigencia de esta Constitución serán tomados en cuenta a los efectos del cómputo de los nuevos periodos de funciones”.<a href="#fnref11" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn12"><p>Tal presunción omite la clara evidencias de la gran selectividad de los electores bolivianos, que en 2005 y en 2010 demostraron que más de un tercio de quienes respaldan al MAS en votaciones nacionales pueden —inclusive en el mismo día, como ocurrió en diciembre de 2005— votar por una opción distinta, eventualmente contraria, en los comicios regionales.<a href="#fnref12" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn13"><p>Dicha franja abarca entre un tercio y un 40% de votantes, considerados —de manera más o menos reservada por dirigentes del MAS— su electorado cautivo. Está compuesto principalmente por la mayor parte de la población campesina (incluidos, en primer término, todos los colonizadores, y en especial los cocaleros), los cooperativistas mineros y transportistas, junto con una mayoría de pequeños comerciantes y el apoyo de pequeños (pero económicamente poderosos) grupos de empresarios que provienen de estas franjas populares, y que están muy bien representados en el Ejecutivo y Legislativo.<a href="#fnref13" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn14"><p>Las protestas en diciembre de 2010 impidieron que la medida se consolide.<a href="#fnref14" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn15"><p>El antioenegismo se relaciona con el hecho de que el gobierno conoce, por experiencia propia, la importante influencia de estas instituciones en un sistema de representación política en el que los partidos comparten su papel y responsabilidades con organizaciones sociales y corporativas, tanto como con instituciones sin fines de lucro. No es por nada que una proporción considerable de ejecutivos gubernamentales han sido reclutados de ONG. Se trata de una suerte de guerra preventiva contra una fuente de incubación de competidores individuales y de referentes para sectores de la opinión pública muy activos.<a href="#fnref15" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn16"><p>Principal, pero no exclusivamente, el Primeiro Comando da Capital brasileño (PCC).<a href="#fnref16" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+</ol>
+</section>
+
+</main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
+  const disableStylesheet = (stylesheets) => {
+    for (let i=0; i < stylesheets.length; i++) {
+      const stylesheet = stylesheets[i];
+      stylesheet.rel = 'prefetch';
+    }
+  }
+  const enableStylesheet = (stylesheets) => {
+    for (let i=0; i < stylesheets.length; i++) {
+      const stylesheet = stylesheets[i];
+      stylesheet.rel = 'stylesheet';
+    }
+  }
+  const manageTransitions = (selector, allowTransitions) => {
+    const els = window.document.querySelectorAll(selector);
+    for (let i=0; i < els.length; i++) {
+      const el = els[i];
+      if (allowTransitions) {
+        el.classList.remove('notransition');
+      } else {
+        el.classList.add('notransition');
+      }
+    }
+  }
+  const toggleColorMode = (alternate) => {
+    // Switch the stylesheets
+    const alternateStylesheets = window.document.querySelectorAll('link.quarto-color-scheme.quarto-color-alternate');
+    manageTransitions('#quarto-margin-sidebar .nav-link', false);
+    if (alternate) {
+      enableStylesheet(alternateStylesheets);
+      for (const sheetNode of alternateStylesheets) {
+        if (sheetNode.id === "quarto-bootstrap") {
+          toggleBodyColorMode(sheetNode);
+        }
+      }
+    } else {
+      disableStylesheet(alternateStylesheets);
+      toggleBodyColorPrimary();
+    }
+    manageTransitions('#quarto-margin-sidebar .nav-link', true);
+    // Switch the toggles
+    const toggles = window.document.querySelectorAll('.quarto-color-scheme-toggle');
+    for (let i=0; i < toggles.length; i++) {
+      const toggle = toggles[i];
+      if (toggle) {
+        if (alternate) {
+          toggle.classList.add("alternate");     
+        } else {
+          toggle.classList.remove("alternate");
+        }
+      }
+    }
+    // Hack to workaround the fact that safari doesn't
+    // properly recolor the scrollbar when toggling (#1455)
+    if (navigator.userAgent.indexOf('Safari') > 0 && navigator.userAgent.indexOf('Chrome') == -1) {
+      manageTransitions("body", false);
+      window.scrollTo(0, 1);
+      setTimeout(() => {
+        window.scrollTo(0, 0);
+        manageTransitions("body", true);
+      }, 40);  
+    }
+  }
+  const isFileUrl = () => { 
+    return window.location.protocol === 'file:';
+  }
+  const hasAlternateSentinel = () => {  
+    let styleSentinel = getColorSchemeSentinel();
+    if (styleSentinel !== null) {
+      return styleSentinel === "alternate";
+    } else {
+      return false;
+    }
+  }
+  const setStyleSentinel = (alternate) => {
+    const value = alternate ? "alternate" : "default";
+    if (!isFileUrl()) {
+      window.localStorage.setItem("quarto-color-scheme", value);
+    } else {
+      localAlternateSentinel = value;
+    }
+  }
+  const getColorSchemeSentinel = () => {
+    if (!isFileUrl()) {
+      const storageValue = window.localStorage.getItem("quarto-color-scheme");
+      return storageValue != null ? storageValue : localAlternateSentinel;
+    } else {
+      return localAlternateSentinel;
+    }
+  }
+  let localAlternateSentinel = 'default';
+  // Dark / light mode switch
+  window.quartoToggleColorScheme = () => {
+    // Read the current dark / light value 
+    let toAlternate = !hasAlternateSentinel();
+    toggleColorMode(toAlternate);
+    setStyleSentinel(toAlternate);
+  };
+  // Ensure there is a toggle, if there isn't float one in the top right
+  if (window.document.querySelector('.quarto-color-scheme-toggle') === null) {
+    const a = window.document.createElement('a');
+    a.classList.add('top-right');
+    a.classList.add('quarto-color-scheme-toggle');
+    a.href = "";
+    a.onclick = function() { try { window.quartoToggleColorScheme(); } catch {} return false; };
+    const i = window.document.createElement("i");
+    i.classList.add('bi');
+    a.appendChild(i);
+    window.document.body.appendChild(a);
+  }
+  // Switch to dark mode if need be
+  if (hasAlternateSentinel()) {
+    toggleColorMode(true);
+  } else {
+    toggleColorMode(false);
+  }
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
+  const clipboard = new window.ClipboardJS('.code-copy-button', {
+    target: function(trigger) {
+      return trigger.previousElementSibling;
+    }
+  });
+  clipboard.on('success', function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    var currentTitle = button.getAttribute("title");
+    button.setAttribute("title", "Copiado");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Copiado");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
+    setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
+      button.setAttribute("title", currentTitle);
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  });
+  function tippyHover(el, contentFn) {
+    const config = {
+      allowHTML: true,
+      content: contentFn,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start'
+    };
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      return note.innerHTML;
+    });
+  }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
+      });
+    }
+  }
+});
+</script>
+<nav class="page-navigation">
+  <div class="nav-page nav-page-previous">
+      <a href="./como_leer.html" class="pagination-link">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">Funcionalidades de esta versión</span>
+      </a>          
+  </div>
+  <div class="nav-page nav-page-next">
+      <a href="./ano_2013_2.html" class="pagination-link">
+        <span class="nav-page-text">Identidades censales y desarrollo como ideología estatal</span> <i class="bi bi-arrow-right-short"></i>
+      </a>
+  </div>
+</nav>
+</div> <!-- /content -->
+
+
+
+</body></html>

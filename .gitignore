@@ -1,0 +1,9 @@
+/.quarto/
+/notas/
+notas
+
+.Rproj.user
+.Rhistory
+.Rdata
+.httr-oauth
+.DS_Store

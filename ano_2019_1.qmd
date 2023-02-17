@@ -1,0 +1,296 @@
+---
+lang: es
+format: 
+  html:
+    page-layout: article
+---
+
+# Aires de tormenta {.unnumbered}
+
+Puede decirse que desde febrero último el régimen ha logrado, con poca bulla y escaso esfuerzo, introducir un giro en la relación social de fuerzas y en su tendencia central de evolución, de manera que vuelva a serle beneficiosa. Habiendo dejado atrás la ansiedad de fin de año, encuentra tiempo para hostigar a sus rivales, con diversas causas judiciales y en otros ámbitos. En el panorama electoral, en tanto, el ya desvaído perfil de su principal retador ha empalidecido, sumiéndose en una grieta de la que no será sencillo resurgir.
+
+La recuperación del MAS no debe atribuirse al oneroso juego que montó con las pseudoprimarias del 27 de enero, del que salió chasqueado, a pesar de la inversión de fondos públicos para mostrar la figura de un imbatible gigante electoral y organizativo, que enseñó más bien sus flaquezas. En esta oportunidad, como ha ocurrido continuamente, el partido dominante logra mantener su posición gracias a la debilidad, incongruencias y contradicciones de sus competidores partidarios.
+
+En la vereda de la seguridad y las páginas rojas, al revés que en la de la política, la agitación ha alcanzado algunos picos electrizantes con el destape de nuevos ilícitos de altos jefes y oficiales de la Policía, probablemente empeñados en competir con el ritmo de enriquecimiento de funcionarios encargados de dotar tierras, autorizar licencias ambientales, aprobar contratos de obras públicas o administrar justicia (si es que aún puede llamarse así al funcionamiento del Órgano Judicial).
+
+Todavía no sabemos si el encharcamiento de jefes y oficiales uniformados en el pantano de la corrupción repercutirá nítidamente en el espacio político, pero es seguro que lo está haciendo en lo que toca al destape de sordas pero furiosas pugnas del entorno presidencial más inmediato [^ano_2019_1-1], y atorpes empeños oficialistas de pringar a sus opositores.
+
+[^ano_2019_1-1]: Las esperanzas silenciosas de algunos partidos opositores de que estos incidentes tengan impacto directo sobre los resultados electorales carece de todo asidero, como se ha visto aquí y en otros países. La acusación de "narcotraficante" es un arma arrojadiza empleada con gran frecuencia y casi ninguna eficacia. Concretamente, en todo lo relacionado al largo conflicto del TIPNIS, los sectores más conservadores esperaban que acusar al oficialismo de que su estrategia de avasallar al TIPNIS territorial y políticamente tiene como objetivo ampliar los cultivos de coca daría mayor impulso a la resistencia que las críticas basadas en hechos como la agresión contra la naturaleza, la Constitución, los derechos y la autonomía indígena.
+
+## Resultados incómodos
+
+El triunfalismo de los jefes del MAS batió marcas previas en los días previos a las votaciones de partidos y coaliciones para ratificar ceremonialmente sus binomios ---puesto que en ningún caso compitieron candidaturas---. La base de su alharaca era la amplia difusión de las cifras de afiliados [^ano_2019_1-2] (mal calificados como militantes por partidos y medios) que le otorgaban aplastante ventaja.
+
+[^ano_2019_1-2]: La militancia, en términos prácticos y teóricos, entraña un nivel de afinidad ideológica, formación, organización y compromiso mucho mayor que el de quienes solo ratifican su condición de votantes del partido y avanzan un paso más, registrándose en sus libros, supuestamente públicos. En muchos países, incluyendo el nuestro, dicho registro suele estar fuertemente asociado a la búsqueda de oportunidades de empleo público, con un costo menor al que supone la militancia activa. Esta no supone incursionar, en lo absoluto, en las categorías propias de partidos revolucionarios.
+
+Con base a tales datos, en el último artículo de análisis, de diciembre de 2018, señalaba que el mayor objetivo de la votación ---sarcásticamente bautizada como "elecciones primarias"--- era exhibir una supremacía tan aplastante que se difundiría como un presagio de la relación de votos en las elecciones nacionales, a realizarse en octubre y, como bono adicional, humillar a los partidos opositores, cuyos registros apenas bordeaban, en el mejor de los casos, un 10% del casi millón de afiliados de los que presumía el MAS.
+
+Los partidos opositores, que entendieron tarde y secundaron atolondradamente la jugada oficialista, apenas atinaron a balbucear que convocarían a no votar a sus bases, o haciéndolo en una proporción mínima. Ninguna de esas fuerzas pudo exhibir la disciplina y coordinación necesarias para salir airosamente de la celada urdida por el partido de gobierno.
+
+Quienes cayeron en su trampa, sin apenas soñarlo, fueron el MAS y su caudillo, porque el conteo rápido de votos la noche misma de la votación exhibió que apenas cerca de un tercio de los llamados cumplieron con las órdenes que impartieron los mandos partidarios para concurrir a las urnas, so pena de drásticas penalizaciones.
+
+```{r}
+#| include: true
+#| echo: false
+#| message: false
+#| warning: false
+
+source("data/ano_2019_1/ano_2019_1.R")  
+```
+
+```{r}
+#| include: true
+#| echo: false
+#| message: false
+#| classes: light-mode
+
+hc_2019_1
+```
+
+```{r}
+#| include: true
+#| echo: false
+#| message: false
+#| classes: dark-mode
+
+hc_2019_1_dark
+```
+
+```{r}
+#| include: true
+#| echo: false
+#| message: false
+#| warning: false
+
+library(downloadthis)
+```
+
+<center>
+
+::: grid
+::: g-col-6
+```{r}
+#| include: true
+#| echo: false
+#| message: false
+#| classes: light-mode
+
+df %>% 
+  download_this(
+    output_name = "resultados primarias", 
+    output_extension = ".xlsx",
+    button_label = " Descargar resultadios primarias ",
+    button_type = "warning",
+    has_icon = TRUE,
+    icon = "fa fa-save"
+  )
+```
+:::
+
+::: g-col-6
+```{r}
+#| include: true
+#| echo: false
+#| message: false
+#| classes: light-mode
+
+plot_ano_2019_1 %>% 
+  download_this(
+    output_name = "grafica primarias", 
+    output_extension = ".jpg",
+    button_label = " Descargar gráfica ",
+    button_type = "warning",
+    has_icon = TRUE,
+    icon = "fa fa-save"
+  )
+```
+:::
+:::
+
+</center>
+
+<center>
+
+::: grid
+::: g-col-6
+```{r}
+#| include: true
+#| echo: false
+#| message: false
+#| classes: dark-mode
+
+df %>% 
+  download_this(
+    output_name = "resultados primarias", 
+    output_extension = ".xlsx",
+    button_label = " Descargar resultadios primarias ",
+    button_type = "default",
+    has_icon = TRUE,
+    icon = "fa fa-save"
+  )
+```
+:::
+
+::: g-col-6
+```{r}
+#| include: true
+#| echo: false
+#| message: false
+#| classes: dark-mode
+
+plot_ano_2019_1 %>% 
+  download_this(
+    output_name = "grafica primarias", 
+    output_extension = ".jpg",
+    button_label = " Descargar gráfica ",
+    button_type = "default",
+    has_icon = TRUE,
+    icon = "fa fa-save"
+  )
+```
+:::
+:::
+
+</center>
+
+<br>
+
+La siguiente tabla muestra los resultados del conteo rápido, comunicados oficialmente por el TSE la noche de la votación, con un 90% de actas escrutadas.
+
+Sin reponerse del todo de la desagradable sorpresa que supuso la muy baja concurrencia de sus afiliados y los altos índices de nulos y blancos en su votación interna, los "operadores" y estrategas del MAS "corrigieron" el problema, logrando que en los días posteriores el porcentaje, sin explicación congruente, matemática o estadística, ascendiese misteriosamente a una cifra final que ronda el 45%, cuando, según el Tribunal Supremo Electoral (TSE), el 35% que muestra el gráfico resultaba del 90% de las actas computadas [^ano_2019_1-3]
+
+[^ano_2019_1-3]: Véase: <https://n9.cl/w46jn>
+
+Esta experiencia electoral bajo el mando y responsabilidad del TSE reviste mucha mayor importancia que el súbito salto de 10 puntos de la participación de las huestes del MAS: demuestra la influencia y el control decisivo que ejerce el Ejecutivo sobre el Órgano Electoral Plurinacional (OEP), cuyas acciones lo encasillan como una dócil herramienta en manos del Ejecutivo [^ano_2019_1-4].
+
+[^ano_2019_1-4]: Entre las más graves, la habilitación de la candidatura de Morales y García, con el argumento de que el OEP carece de capacidad para salir en defensa de la CPE, y que sus acciones solo son administrativas, como lo comentó/instruyó públicamente el vice. Otra, negarse al censo de electores en las sedes extranjeras donde el MAS obtuvo menos votos. Una que es materia para enjuiciar y destituir a todos los vocales: su completa pasividad ante las 55.468 inscripciones falsas de afiliados de partidos. Véase: <https://n9.cl/ngjs3>
+
+Las renuncias y despidos de "59 profesionales, incluidos cinco directores nacionales, genera una situación de seria preocupación", según la carta del vicepresidente del OEP, "filtrada" a los medios y publicada los días 26 y 27 de abril recién pasados.
+
+El candidato Carlos Mesa reacciona afirmando que "la situación del organismo electoral empieza a preocuparlo" \[el resaltado es nuestro) (Página Siete, 27 de abril de 2018).
+
+## El silencio de los invisibles
+
+El sigilo o prescindencia son la característica distintiva del candidato Mesa frente a estentóreas y muchas veces dramáticas expresiones de descontento de significativos sectores sociales. Tal derroche de precaución equivale a una clara renuncia a convertirse en un canal adicional de expresión del descontento, o de ser una referencia caracterizada por la comprensión o solidaridad ante estos conflictos; se muestra más bien como una ausencia metódica, demasiado parecida a la indiferencia o al desdén.
+
+Ya se trate de la marcha del pueblo Qhara Qhara [^ano_2019_1-5], el avasallamiento de parques y reservas naturales, la sonada protesta de madres de infantes afectados por el cáncer, las de mujeres apaleadas por maridos en altas posiciones en el mando estatal, de amplios y documentados informes que revelan atrasos de años y pagos sospechosos a ejecutores de grandes obras viales (Caranavi, Yucumo-San Borja, Ixiamas, entre muchas otras), corrupción o subordinación judicial al gobierno, el binomio opositor más reputado considera que no es necesario, o que le resultaría desventajoso, expresar el menor reclamo sobre estas situaciones.
+
+[^ano_2019_1-5]: Véase: <http://www.rebelion.org/noticia.php?id=252893>
+
+La marcha de los Qhara Qhara, por ejemplo, toca la médula del desarrollo de crecientes contradicciones entre campesinos y colonizadores con pueblos indígena, y desmonta la narrativa sobre el supuesto monolitismo de la trinidad indígena originaria campesina (IOC).
+
+Más allá de esa indiferencia o ineptitud para responder, la renuencia de Comunidad Ciudadana (CC) para buscar un acuerdo o alianza con el núcleo campesino dirigido por el exdirigente de la CSUTCB y triunfador de las elecciones para gobernador en Chuquisaca en 2015, Damián Condori, deja entrever [^ano_2019_1-6] las serias dificultades de CC para entender la importancia vital de que un nuevo gobierno sea representativo de una coalición social, en la que campesinos e indígenas están claramente representados. No solamente para ganar las elecciones sino, sobre todo, para sostener la gobernabilidad en épocas que serán, para decirlo con cautela, tormentosas.
+
+[^ano_2019_1-6]: Algunas preguntas que sugiere este pasaje que determinó el alejamiento de la agrupación de Condori, quien al retirarse afirmó que no buscaría más aliarse con CC: i) ¿no está histórica, sociológica y políticamente demostrado que los movimientos y partidos capaces de realizar modificaciones sustanciales y dejar su huella han conseguido alianzas sólidas con campesinos e indígenas?; ii) el caso de Condori ---que estuvo preso por el caso del Fondo Campesino, pese a que devolvió los Bs 6 millones que se transfirieron a su cuenta para que los asigne a "proyectos"--- ¿no genera, acaso, una oportunidad muy importante para volver a debatir, bajo nuevas luces, uno de los peores casos de corrupción gubernamental y demostrar la completa impunidad que lo caracteriza?; iii) si la ruptura con Condori obedece al deseo de proyectar una imagen ajena a la corrupción, ¿cómo se entiende el trato diferenciado ante las acusaciones que el oficialismo esgrime contra Sol.bo?
+
+El silencio es igualmente hermético (y unánime en el conjunto de la oposición partidista, esta vez) ante las decisiones del gobierno para acelerar desmontes y ampliar la frontera agrícola con el fin de multiplicar los cultivos destinados a la fabricación de biodiesel. O ante la autorización para introducir nuevas variedades de soja transgénica ---nuevas, porque casi toda la que existe en el país es genéticamente modificada (OGM), burlando prescripciones de la Constitución y de las leyes---.
+
+Tales "omisiones" exhiben, sin apelación posible, la predisposición de todos los opositores a no confrontarse con los grupos de poder, que son aliados económicos del gobierno, pese a sus desavenencias y a su enfrentamiento político. Cuando no callan, algunos representantes opositores se embarcan en acciones tales como pedirle a ese paladín de la democracia, la justicia y los derechos humanos ---como consideran al actual presidente estadounidense--- que interceda o intervenga en la resolución de la arbitrariedad e ilegalidad de la participación del binomio que preside nuestro país en las elecciones próximas, dándole munición para que este vuelva a presentarse como defensor de la soberanía nacional.
+
+Hay pruebas abundantes de que el maximalismo suele conducir a derrotas aplastantes, igual que el minimalismo titubeante, y más todavía, la simple desaparición de la escena, que es la situación actual que se cierne sobre los partidos opositores. Su ausencia de batallas democráticas indispensables ---como debiera ser una contestación intensa y permanente al TSE, como árbitro completamente inhabilitado de las próximas elecciones, o al TCP como garante de la Constitución--- está asfaltando el camino para un triunfo del régimen.
+
+La capacidad de ponerse al frente del debate y convocar a la movilización por estas cuestiones elementales no garantiza que vayan a alcanzar sus objetivos. Sin embargo, la estrategia de hacerlo, aun cuando solo supongan cuestionamientos parciales y de sentido simbólico, es ineludible para crear condiciones que templen e incrementen la confianza en las fuerzas propias, alienten a los espectadores a interesarse y tomar posición, a generar espacios donde concurran y se canalicen las múltiples protestas y se favorezca la consolidación y el avance de las tendencias sociales de carácter democrático y aspiraciones de cambio.
+
+## El romance de las encuestas y el santuario económico
+
+Los costos de callar y desaparecer muestran su impacto en el cambio de tendencia que se observa en los sondeos y estudios sobre intención de voto. Lo interesante al respecto es que hoy, en nuestro país, las guerras de encuestas que habitualmente se presentan en épocas preelectorales han sido sustituidas, desde inicios de este año, por una singular danza de convergencias y armonías entre estas.
+
+Las cifras varían, según quién y cómo realiza los estudios, pero el punto de encuentro entre prácticamente las más importantes es una clara recuperación del MAS y un retroceso de la oposición.
+
+La mencionada al principio de este documento [^ano_2019_1-7] vaticina que Juan Evo Morales Ayma ganará en primera vuelta con casi diez puntos de ventaja sobre el siguiente candidato (Carlos Mesa, de CC). La de Mercados y Muestras le otorga el 37% a Morales, Ipsos le asigna un 34%, y ambas, 28% a Mesa.
+
+[^ano_2019_1-7]: El informe completo de la encuesta realizada por esta ONG, afín a los gobiernos del ALBA y al partido español PODEMOS, se encuentra en: <https://n9.cl/8nhbz>
+
+Las dos últimas encuestas de Mercados y Muestras, que estuvieron registrando previamente que CC ganaría, de todas maneras, en una segunda vuelta, apuntan ahora una caída de seis puntos del candidato de esa tienda en su intención de voto para la primera vuelta. La última de estas encuestas fija en solo cinco puntos su posible ventaja en una segunda ronda (véase Página Siete" del 28 de abril).
+
+Con todo el sesgo [^ano_2019_1-8] del trabajo del Centro Estratégico de Geopolítica (CELAG), con su metodología de "preguntas dirigidas" --y que es más bien de respuestas inducidas---, este contiene datos referidos a la "Situación nacional y personal" (páginas 6 a la 10) y la de "Metas personales" (12 a la 15), que resultan interesantes. Así, la evaluación positiva para el régimen (desde "regular bien", un tercio del total, a "muy bien", totaliza prácticamente un 65%, y llega al 80% si se le aumenta el 15% de "regular mal".
+
+[^ano_2019_1-8]: Se la encuentra en: <https://n9.cl/dzw4z> Las señales de tal sesgo se observan, por ejemplo, en la "Intención de voto: primera vuelta" (21), que pregunta ¿por quién votaría con mayor probabilidad para presidente de Bolivia en las elecciones de octubre de 2019? Esa formulación mezcla dos interrogantes de naturaleza muy diferente: i) por quién se piensa votar y ii) quién supone el entrevistado que tiene mayores posibilidades de ganar (justa y correctamente o no). La "Proyección de segunda vuelta" (misma página) rompe con la lógica y la congruencia metodológica al "proyectar" votaciones para todos los binomios, en una ronda donde solo serán dos los competidores. En vez de preguntar, los responsables del trabajo prefieren "proyectar".
+
+Aún si las cifras están infladas, queda de manifiesto que el apoyo al gobierno radica en que parte importante de la población mantiene la confianza en su gestión económica. Aparentemente, el gran público no muestra hasta ahora señales de impacto o inquietud por las malas noticias sobre exportaciones, reservas monetarias o déficits persistentes. Esto se reforzaría, según el estudio del CELAG, por una sensación muy generalizada de movilidad social ascendente, que se concentra en la clase alta (57,7%) y en la media alta (53,3%).
+
+La clave que puede unir y explicar los puentes entre visiones y deseos que muestran las encuestas, según las necesidades e intereses de los que las diseñan e interpretan, es que la mayor fortaleza del régimen continúa siendo su política económica, debido a que sigue infundiendo certeza, o ilusiones, de que se mantendrá un equilibrio que contrasta cada día más, con las noticias de desastres, desajustes o incertidumbres de varios vecinos y de otros no tan vecinos.
+
+Los fervientes deseos, ampliamente compartidos entre extensos y diversos grupos sociales, consisten en no toparse con desastres económicos a la vuelta de la esquina y, sobre todo, con un clima de incertidumbre. Por ello siguen protegiendo la gestión del MAS; incluso grupos empresariales que, pese a su descontento con varias decisiones gubernamentales y a sus propios pronósticos del porvenir económico próximo, temen más a lo desconocido.
+
+## El pragmatismo y los vaticinios de las élites económicas
+
+Los grupos empresariales más fuertes y experimentados entienden que, tomando en consideración todo lo que se juega en los meses previos a las elecciones, pueden obtener más ventajas que en el pasado. No se trata de intuición, sino de la evidencia dura que representan las importantes concesiones que ha obtenido el agronegocio con los agrocombustibles, la legalización formal del uso de OGM y los agrotóxicos, igual que la flexibilización de las normas ambientales, la extensión de la amnistía fiscal, etcétera.
+
+Por eso no aflojan la presión, que exige incorporar más semillas transgénicas (sorgo, maíz, algodón) a lo que llaman engañosamente "uso de la biotecnología", así como la liberación de exportaciones, junto con sus duras denuncias sobre la lentitud con que YPFB recibe y compra el etanol, o la vacilación de sus políticas para que las mezclas con etanol vayan arrinconando el uso de la gasolina corriente.
+
+Pese a todas las ventajas que les otorga el régimen, el pronóstico de sus expertos sobre el porvenir económico cercano es áspero con el gobierno, como se muestra en los siguientes párrafos:
+
+> *La política fiscal muestra rendimientos decrecientes. A mayor déficit fiscal menor crecimiento real en términos relativos. La deuda pública está creciendo más rápido que el PIB. Mientras que en 2014 se requerían 60 centavos por cada Bs que aumentó el PIB en términos reales, en 2017 se necesitaron casi 2 Bs. \[A ello\] se suman los menores ingresos externos y fiscales relacionados con la exportación de gas.*<br><br> La ineficiencia del gasto público en Bolivia alcanza al 6.3% del PIB, solo por debajo de Argentina (7.2%) y El Salvador (6.5%), mientras que el promedio para América Latina y el Caribe asciende a 4.4% del PIB.<br><br> El gasto fiscal escaló de 35% del PIB a 55% del PIB entre 1990 y 2014, (debido principalmente al) gasto en compras públicas, que se duplicó, subió de 17% a 36% del PIB.<br><br> La economía boliviana se ha debilitado. Se crece menos y con un costo fiscal cada vez mayor; los rendimientos del gasto y la inversión pública son decrecientes. Los indicadores muestran \[...\] riesgos potenciales para la estabilidad macroeconómica. También \[...\] que la disminución de la pobreza y la desigualdad se ha detenido.<br><br> Bolivia vive todavía la inercia de un modelo económico receptor de ingresos extraordinarios, pero ahora, habiendo cambiado el ciclo económico, tiene cada vez más dificultades para mantener el dinamismo económico y evitar que los desajustes de la política fiscal se acumulen y erosionen la estabilidad económica y social y comprometan el crecimiento futuro [^ano_2019_1-9].
+
+[^ano_2019_1-9]: Las citas están contenidas en el "Análisis de Coyuntura" de la Fundación Milenio. Véase: <https://fundacion-milenio.org/coy-422-problemas-y-retos-de-la-economia-boliviana/>. Esta ONG nació durante el gobierno de Gonzalo Sánchez de Lozada y se mantuvo estrechamente asociada a él. En la actualidad sus principales analistas son asesores directos o referentes intelectuales de la Confederación de Empresarios Privados de Bolivia.
+
+Si el predominante optimismo colectivo que dice detectar el CELAG puede ser exagerado (teniendo en cuenta la conflictividad social), es fácil percibir que la sensación térmica prevaleciente, en concreto sobre lo económico, no está en consonancia con el denso pesimismo del documento de la Fundación Milenio.
+
+Los hechos que presenta su informe de coyuntura provienen de fuentes oficiales, pero su mensaje tiene dificultades en calar socialmente, porque sus críticas y tendencia de pronósticos catastrofistas se han estado repitiendo, sin mayores cambios, desde el mismo inicio mismo de este gobierno en 2006.
+
+La gran diferencia radica ahora en que las fuentes de ingreso han mermado realmente, y no hay alternativas visibles que las reemplacen. Las empresas creadas para sustituir ingresos funcionan muy por debajo de su capacidad instalada y los réditos esperados no aparecen. En su lugar, predominan las deudas y obligaciones de pagarlas, y las vías de despilfarro y fuga de los recursos colectivos se mantienen y se ensanchan.
+
+Por todo ello, el choque entre la realidad económica y las promesas oficiales, aunque todavía no inminente, empezará a manifestarse poco después de las elecciones. Las fuentes más explosivas de conflicto tienen hoy otras vertientes.
+
+## La quiebra de los "aparatos del orden" y los intentos de reparar los daños
+
+Autores tan dispares como Weber o Poulantzas coinciden, desde ópticas y nomenclaturas muy diferenciadas, en que la función general del Estado es la preservación del orden; esto, a partir de que el Estado ejerce la violencia legítima mediante el monopolio del uso de la fuerza, para impedir que la explosión de contradicciones sociales se generalice. La Policía es habitualmente la principal encargada de ejercer esa función.
+
+Entre los síntomas más claros de la crisis de Estado que vivió el antiguo régimen, vigente por medio siglo, hasta implosionar en 2005, ocuparon un destacado lugar la corrupción, la ingobernabilidad y la insubordinación policial.
+
+Esta situación no experimentó cambios profundos, inclusive cuando hace más de cinco años el presidente Morales Ayma dio un ultimátum a la Policía para que se transforme a fondo en un plazo máximo de tres meses. Las reformas con que este gobierno ha intentado cambiar la realidad policial han caído, una tras otra, en los más decepcionantes fracasos. Sus únicas consecuencias perceptibles son que fracciones internas se imponen sobre otras, o la manera en que infidencias, solicitadas o no por algunos altos miembros del gobierno contra alguno de sus colegas, generan escándalos y, más raramente, alguna modificación del gabinete.
+
+La constante es que el régimen de la "revolución democrática y cultural" mantiene e incrementa el control y el uso partidario de la Policía. Heredó esta práctica de sus antecesores, pero la ha elevado al paroxismo.
+
+La seguidilla de descubrimientos de delitos metódicamente cultivados por gran parte, o por todas las cúpulas policiales, se ha hecho más frecuente y se ha acelerado hasta el vértigo. En lo que va del año parece haberse igualado la cuota del año pasado, en un menú que incluye cobros y exacciones a los aspirantes a ingresar a la Academia de Oficiales, múltiples modalidades de tolerancia, complicidad y directa participación en actividades de fabricación, distribución, exportación y comercialización de cocaína, cobros y chantajes en el manejo de ascensos y destinos y mucho más.
+
+El destape de una sólida alianza de algunos oficiales policiales mimados por el gobierno y, en consecuencia, "atornillados" en sus puestos, deja completamente mal parado al Ministerio de Gobierno y a figuras clave del régimen [^ano_2019_1-10].
+
+[^ano_2019_1-10]: Véase: <https://n9.cl/0wvow>; <https://n9.cl/ftn20>; <https://n9.cl/dydnu0>; <https://n9.cl/h24h7>
+
+Se vive nuevamente una situación tan incómoda para el gobierno como la que se dio cuando el general René Sanabria fue capturado en 2011 en una acción conjunta de las policías de Chile y de Panamá [^ano_2019_1-11]. En realidad, es algo peor, porque comprueba que no se logró mayores cambios en ocho años, en los que buena parte de los comandantes generales de la institución están presos o procesados.
+
+[^ano_2019_1-11]: Véase: <https://n9.cl/7c4dl>
+
+La intención de extender los daños que ha supuesto el apresamiento del jefe de la Fuerza Especial Contra el Crimen (FELCC) de Santa Cruz y varias de sus conexiones, desvelando escandalosa y teatralmente que Carlos Mesa le vendió en 2009 un inmueble a un allegado del coronel Medina, termina volcándose contra la maniobra de la diputada oficialista denunciante, conocida difamadora de figuras incómodas.
+
+Si en 2009 el hoy jefe policial imputado ya había incursionado en actividades criminales, es decir, tres años después de instaurado el gobierno de Morales, y durante diez tiene una carrera de continuo encumbramiento, el problema es del régimen que lo estuvo promocionando y amparando [^ano_2019_1-12].
+
+[^ano_2019_1-12]: Se trata de un verdadero regalo para Mesa, que lo necesita urgentemente en esta su fase de invisibilidad, dado que desnuda la baja calidad y sustentabilidad de las acusaciones oficiales en su contra.
+
+Todo lo que pueda considerarse circunstancial o anecdótico en la Policía no debe inducir a perder de vista el panorama general, que indica una lesión gravísima en uno de los sustentos más importantes del funcionamiento y la autoridad estatal.
+
+Si esto se conecta con el descrédito total de la administración de justicia y del TCP y la crisis del TSE, estamos ante una situación de imparable deslegitimación, que intenta sostenerse apenas erogando fortunas en propaganda y razzias de intimidación selectiva y ampliada.
+
+La completa pérdida de entusiasmo de los afiliados del oficialismo para simplemente caminar unas cuadras o kilómetros para votar por su binomio electoral (en las "primarias"), o la atrevida transgresión que se manifiesta en votos blancos y nulos (en esa misma votación), es una pequeña, pero muy profunda y significativa muestra de disolución de la hegemonía y de una desmoralización interna de proporciones.
+
+La jefatura masista ---aunque quizás no el máximo caudillo, adormecido por el murmullo de los aduladores--- llega a captar el peligro y arriesga fuertes y desesperadas apuestas para amortiguar los efectos.
+
+La aprobación de un Sistema Único de Salud (SUS) ---deseado, necesitado y reclamado por la mayoría de la población, que carece de cobertura sanitaria--- pone de manifiesto el amplio consenso respecto a que ponerlo en pie y mantenerlo en el tiempo requiere una arquitectura institucional y un cambio consistente de la priorización de la inversión y el gasto público. Tal orientación está divorciada del proyecto gubernamental, que utiliza al SUS como una promesa de seguro universal, inalcanzable en los términos previstos y manejados por el gobierno [^ano_2019_1-13].
+
+[^ano_2019_1-13]: Véase el resumen del plan de los médicos colegiados en: <https://n9.cl/uolyt>
+
+Por si falla el plan de convencer que con un aporte pequeño se podrá atender un océano de necesidades, el ingenio oficial descubre periódicamente "mares de gas" [^ano_2019_1-14], como estuvo prometiendo por más de un año con la perforación del pozo ultraprofundo Boyuy X2.
+
+[^ano_2019_1-14]: Véase: <http://190.129.90.36/cambio3/?q=node/62897>
+
+## Un trimestre feroz
+
+Es posible que el lapso entre julio y octubre próximos nos lleve a situaciones desconocidas por la dureza de choques y el despliegue de violencia simbólica y verbal.
+
+Si las cosas se quedaran congeladas en el punto en que nos encontramos, para el MAS sería relativamente fácil conseguir los puntos que le faltan para ganar en primera ronda (especialmente con la ayuda del TSE y teniendo como guardaespaldas al TCP).
+
+Pero, por lo menos desde el espacio social, las posibilidades de que el inmovilismo se extienda parecen completamente remotas. Cada conflicto reivindicativo ---y con mayor razón si se conecta de alguna forma con reclamos democráticos--- profundizará el desgaste que afecta al Estado.
+
+Aportarán lo suyo los reclamos corporativos, ya sea del campo popular o del empresarial, y cada uno de ellos sumado a los anteriores diluirá con cierta facilidad la recuperación o el avance de la intención favorable votos para el MAS. Pero si el principal retador electoral del MAS decide mantener su estado cuasi catatónico, nada detendrá el triunfo oficialista. Tampoco hay posibilidades de que, cerca de las elecciones, los demás candidatos logren un milagro.
+
+Hay que contar con que, inclusive con la más rápida y ágil reacción, un eventual triunfo de CC no subsanará fácilmente sus debilidades congénitas respecto a su comprensión del país, ni a al origen, naturaleza, composición y estilo de la coalición política que impulsa su candidatura.
+
+Por lo tanto, ya sea que ascienda un nuevo y débil equipo de gobierno, o que el MAS, por las malas o por las buenas, se quede controlando el Estado, el agotamiento de su modelo lo conduce, igual que a sus eventuales reemplazantes, a enfrentar turbulencias extraordinarias a poco de iniciado el período constitucional 2020-2025.
+
+::: {style="text-align:right; font-weight: bold;"}
+Abril de 2019
+:::
+
+## Notas

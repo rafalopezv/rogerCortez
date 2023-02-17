@@ -1,0 +1,94 @@
+---
+lang: es
+format: 
+  html:
+    page-layout: article
+---
+
+#  Identidades censales y desarrollo como ideología estatal {.unnumbered}
+
+No es Bolivia el primer país en el que se presentan problemas debido a los resultados de un censo [^ano_2013_2-1] (el Censo Nacional de Población y Vivienda -- CNPV, de 2012), pero es posiblemente el único en el que las protestas de este origen alcanzan una intensidad que las lleva hasta la calle, como ocurrió en la ciudad de La Paz el pasado 11 de septiembre, convirtiendo esta cuestión en la más importante del último cuatrimestre y en uno de los principales ejes de disputa de los siguientes meses.
+
+[^ano_2013_2-1]: En Chile, donde se detectó una omisión censal del 9%, el presidente salió a pedir perdón por los errores, se declaró indignado por ellos y abrió la posibilidad de repetir el censo. Véase: <http://www.latercera.com/noticia/politica/2013/08/674-536898-9>
+
+La principal causa de esta poderosa y peculiar reacción ante la actualización de los datos demográficos del país es la reducción del flujo de fondos fiscales a las localidades en que se habría producido un estancamiento o una reducción de pobladores. La segunda es que también puede implicar un recorte de su número de representantes ante la Asamblea Legislativa Plurinacional.
+
+Además de lo mencionado, este censo trae una contradicción muy llamativa: el bajo porcentaje (40%) de quienes declaran pertenecer a "alguna nación o pueblo originario campesino", frente al 62% se autoidentificaban como tales en el censo de 2001. La importancia de esta modificación tiene que ver con que CPE declara en su artículo 2 que:
+
+> *"Dada la existencia precolonial de las naciones y pueblos indígena originario campesinos \[...\] se garantiza su libre determinación \[...\] que consiste en su derecho a la autonomía, al autogobierno, a su cultura, al reconocimiento de sus instituciones y a la consolidación de sus entidades".*
+
+Es decir que se los considera el sujeto central de la transformación y de la plurinacionalidad del Estado, lo que habría llevado a algunos de los que antagonizan con los cambios y la nueva denominación estatal a suponer que ambos tambalearían a consecuencia de estos nuevos datos de autopertenencia.
+
+Sin embargo, tales conclusiones son extremadamente simplistas o tendenciosas porque olvidan que la autoidentificación presenta un dinamismo extraordinario, vinculado a tácticas y estrategias de sujetos sociales colectivos, como lo prueba el hecho de que la autoidentificación indígena trepó al 71% el año pasado, según el reporte de la Universidad de Vanderbilt, que detecta simultáneamente un nivel de autoidentificación como mestizo de un 76% de los encuestados.
+
+Lo que verdaderamente bloquea, y eventualmente puede cerrar el paso a la culminación de la reforma estatal, es la voluntad del gobierno de seguir mezquinando el avance de la descentralización y las autonomías y, por encima de todo, la ruptura de la alianza entre indígenas campesinos y no campesinos, fomentada también desde la cúpula estatal. De modo que el problema no estaría en las fluctuaciones estadísticas de la autoidentificación.
+
+## Justicia, cárceles y muerte
+
+La matanza de unos 35 internos de la cárcel de Palmasola, ocurrida el 23 de agosto, impacta de manera directa sobre un grupo relativamente restringido de personas que pertenecen, además, a círculos habitualmente poco influyentes. Sin embargo, la extrema violencia y la seriedad de los hechos ha tenido mucho eco y ha colocado sobre la mesa el debate público de varias cuestiones.
+
+Las declaraciones ---y en cierta forma, las actuaciones--- de las principales autoridades frente a los acontecimientos tienen un tono más cercano al de una asociación de voluntarios o de miembros de alguna iglesia; es decir, de instituciones ajenas a los acontecimientos y, desde luego, sin ninguna responsabilidad sobre su desencadenamiento. Con ello tratan de soslayar el hecho de que, durante los siete años de esta gestión gubernamental, y los dos que cumple en breve su reforma judicial, no solo la situación de las cárceles mantiene intactos todos los vicios del pasado, sino que estos han empeorado en varios aspectos.
+
+En Palmasola, por ejemplo, el escándalo que desencadenó la catástrofe de agosto puso al descubierto cómo pequeños grupos de reos controlan el recinto carcelario ---constituyendo quizás la primera autonomía plena y efectiva que se vive en el país---, ante la indiferencia de sus custodios, cuando no de su abierta complicidad.
+
+La ausencia de cambios en esta esfera afecta a mucho más que al 85% sin sentencia de las casi 12.000 personas encarceladas [^ano_2013_2-2]. Y es que los ciudadanos en general se sienten a merced de la Policía, el Ministerio Público y los jueces, quienes, antes que representar al sistema de justicia nacional, son parte de un círculo que aterra por su arbitrariedad, venalidad y predisposición a extorsionar a cualquiera que caiga en sus manos, ya sea para denunciar, reclamar justicia o defenderse [^ano_2013_2-3].
+
+[^ano_2013_2-2]: Véase: <https://www.opinion.com.bo/articulo/cochabamba/%EF%BB%BFmora-judicialafecta-85-reclusos/20130903013800447124.html>
+
+[^ano_2013_2-3]: De acuerdo a estudios seriados actualizados en 2012, la confianza de la ciudadanía boliviana ocupa el puesto 23 de un total de 26 países americanos estudiados, respecto a su sistema de administración de justicia (Daniel Seligson et al., Cultura política en democracia 2012: Hacia la igualdad de oportunidades, Cochabamba: LAPOP, 2012).
+
+Este sentimiento de desprotección se fue agudizando por el frecuente develamiento de actividades criminales que involucran a altos jefes y oficiales de la Policía [^ano_2013_2-4] y por la acción abiertamente discrecional de fiscales, que rotan con enorme velocidad en sus cargos y que frecuentemente son destituidos por graves irregularidades en el cumplimiento de sus funciones.
+
+[^ano_2013_2-4]: En las tres últimas semanas un jefe anticorrupción de esa institución y los responsables de la lucha contra el crimen fueron sorprendidos en flagrancia, el primero por el FBI en Miami, los otros dos en El Alto por sus camaradas. Mientras que los principales exasesores jurídicos del Ministerio de Gobierno, juzgados bajo acusación de haber montado redes para extorsionar a opositores perseguidos, insisten en denunciar a las principales autoridades gubernamentales de estar implicadas en tales actos.
+
+En el primer artículo de esta serie de análisis se ha afirmado que, pese a las reiteradas y cada vez peores señales de corrupción e impunidad, los estudios de opinión no detectan variaciones significativas en los índices de aprobación al gobierno por la población. Sin embargo, experiencias previas de sucesos tan serios como los mencionados operan cambios en la actitud del público, eventualmente silenciosos durante plazos prolongados, pero que a la larga estallan.
+
+## Fugas, omisiones y contrastes internacionales
+
+Si ante hechos como el sucedido en Palmasola el gobierno opta por aparentar prescindencia y candor, se ha cuidado mucho de actuar con firmeza e implacabilidad ante sus enemigos, como bien saben los dirigentes indígenas, que tienen tras sus pasos a un escuadrón de fiscales con órdenes de apremio, bajo severos cargos por haber castigado físicamente al representante de CONISUR, un impulsor destacado del plan oficial de la carretera a través del TIPNIS.
+
+Precisamente por tales antecedentes, la fuga del senador Pinto ---hasta entonces refugiado en la embajada de Brasil--- apenas tres días antes de la tragedia de Palmasola, amplifica la percepción de debilidad e impotencia estatal ante ciertas cuestiones. Con mayor razón cuando las autoridades han sido burladas por segunda vez [^ano_2013_2-5] y sus pedidos de que los prófugos sean devueltos por los países donde buscaron refugio han sido rechazados por segunda vez.
+
+[^ano_2013_2-5]: Poco antes, el exgobernador de Tarija huyó a Paraguay.
+
+La huida del opositor sirvió, además, para sacar a la luz pública que las autoridades bolivianas, que denunciaran vigorosa y exitosamente el acoso contra el presidente por varias potencias europeas, habían incurrido en acciones similares, aunque de menor escala, al revisar naves diplomáticas brasileñas bajo el argumento de que en ellas podía encontrarse el exsenador Pinto.
+
+A pesar de las expresiones de molestia de la presidenta de Brasil por la manera en que actuaron algunos de sus representantes diplomáticos en el caso del opositor boliviano ---acusado por el oficialismo en varios procesos judiciales---, el que le hayan otorgado refugio aporta su propia cuota de desgaste a la credibilidad de imputaciones y procedimientos judiciales llevados adelante por miembros del gobierno [^ano_2013_2-6].
+
+[^ano_2013_2-6]: Opera en el mismo sentido la insistencia gubernamental, y particularmente la del presidente, de cargar sobre las espaldas de ONG (en este caso, las especializadas en derechos humanos) la supuesta culpa de obstruir la formación física de los militares, puesto que estas se movilizan y denuncian maltratos, torturas y asesinatos en cuarteles. Estas declaraciones presidenciales se repiten periódicamente; la última vez, el mes pasado, cuando en unos actos militares acusó de traicionar a la patria a los jefes militares que en 2005 entregaron misiles a EE.UU.
+
+La victimización del jefe de Estado y la amplia y sincera solidaridad que atrajo el hostigamiento que sufrió de parte de "potencias democráticas" se desportilla ante la acumulación de antecedentes que muestran un divorcio entre sus denuncias y las prácticas en que incurre en la política doméstica.
+
+## Obras con orientación proselitista
+
+El que Bolivia mantenga una posición económica rezagada en el continente, pese al evidente ensanchamiento de sus ingresos y al volumen general de su economía, no afecta la amplia aceptación interna de la política económica oficial. Entre otras cosas, porque además de que gran parte de la población ignora ese dato o le resulta indiferente, celebra la ampliación de planes sociales, subsidios y subvenciones, así como el masivo incremento de los ingresos fiscales, provenientes de la recuperación de empresas estatales y de los buenos precios de los productos de exportación.
+
+La capitalización de esa buena voluntad pública ha sido explotada por el gobierno, que se esmera en ensancharla cada nuevo día, para así mantener y ampliar la importante distancia con sus rivales que muestran las encuestas sobre intención de voto. Según la mayor parte de ellas, si las elecciones se dieran de inmediato, el MAS obtendría una votación mayor a la suma de sus dos más inmediatos competidores y muy próxima a la que obtuvo en 2005 (que no en 2009).
+
+El financiamiento de grandes obras públicas, con masivas inversiones (1.400 millones de dólares para una represa en Santa Cruz; 300 millones de dólares para el satélite Túpac Katari; 260 millones de dólares para el teleférico de La Paz, etcétera, etcétera) es parte de tal estrategia, que aparentemente no sufre menoscabo por las grandes pérdidas en negocios tales como el montaje de fábricas, importación de maquinarias y otras que se conocen hasta ahora.
+
+Además, también se prodiga al incrementar ventajas y obsequios a algunos de los sectores sociales que lo apoyan de manera más militante, como los llamados cooperativistas mineros [^ano_2013_2-7], a quienes está transfiriendo más áreas de reservas minerales, avaluadas en miles de millones de dólares.
+
+[^ano_2013_2-7]: Los cooperativistas constituyen un amplio sector en el que, bajo una sola identidad, se confunden pequeños grupos de dirigentes que operan como patrones y, eventualmente, como beneficiarios de las mayores ganancias de las cooperativas. Debajo de ellos se ubica una capa de capataces, que ostentan algunos privilegios, y una amplia masa de trabajadores asalariados con ingresos precarios y casi ningún beneficio, pero que parecen asimilarse plenamente a la identidad única, sin reparar en las importantes y crecientes diferencias internas. Distinciones similares se verifican en otros sectores, con características propias y diferenciadas, como el de los cocaleros, en que las líneas de distinción se expresan en torno a la distinta capacidad para contratar crecientes cuotas de asalariados ---especialmente para la cosecha---, la experticia comercial y los contactos comerciales, así como la influencia y el prestigio sindical y político.
+
+Lo más nocivo de este modo de asegurarse lealtades es el poderoso estímulo a un fortalecido corporativismo, que ya se ha manifestado varias veces en enfrentamientos entre sectores populares por copar o monopolizar la captura de rentas provenientes de la extracción de recursos naturales.
+
+La intensificación de las presiones sobre ONG ---no únicamente las que trabajan con DD. HH., sino varias que trabajan con indígenas y medio ambiente--- avanza con los aprestos electorales, como si algunos altos funcionarios temiesen que sus competidores políticos se beneficien de un respaldo similar al que ellos percibieron en los años de formación del MAS. Esta actitud desconfiada y muchas veces agresiva se manifiesta en el coercitivo proceso de negociación de nuevos convenios, en el que las ONG sospechosas corren el riesgo de ver cancelada su personería, ya que desde los círculos oficiales se las ve y trata como competidoras y/o rivales del sistema de representación política.
+
+Ante la aceleración de los aprestos electorales oficiales, los opositores han respondido estas últimas semanas estructurando coaliciones de amplio espectro ---es el caso de Unidad Nacional con el Frente Amplio--- y combinando alianzas con elecciones internas ---como lo hace el Movimiento Sin Miedo---.
+
+Estas iniciativas refuerzan la sensación de que el partido oficialista enfrentará a varios oponentes, sin que cristalice ningún proyecto de cohesión de las principales fuerzas opositoras. Dicha tendencia se afianza ante la falta de evidencias que indiquen que un proyecto unificado pueda atraer una mayor cantidad de votos que la que convocan ahora, por separado, sus potenciales adherentes.
+
+De este modo, cuando faltan 15 meses para las elecciones nacionales, no hay señales de que en esos comicios pueda estar en juego un cambio de titulares del gobierno, incluso si los actuales pierden las dos terceras partes que hoy controlan el Legislativo.
+
+La firmeza de esta tendencia aparentemente solo podría ser socavada por un vuelco adverso, inesperado y espectacular de la situación económica, un nuevo gran paso en falso oficial, como el gasolinazo de 2010, o una exacerbación súbita y muy seria de sus contradicciones internas.
+
+Pero, inclusive en un escenario de tal naturaleza, las fuerzas opositoras se enfrentarían a desafíos extraordinarios, ya que si alguna o dos o más coaligadas entre sí llegaran a ser gobierno, necesitarían una estrategia --- hoy por hoy completamente inexistente--- para lidiar con la formidable oposición del actual partido oficial, coaligado con casi toda la dirigencia de organizaciones sociales y, además, ampliamente arraigado en posiciones clave del Estado, donde, con solo formalizar nombramientos con su actual ventaja en las Cámaras, se asegura copar tales espacios (empresas estatales, contraloría, aparato judicial) por varios años.
+
+<br>
+
+::: {style="text-align:right; font-weight: bold;"}
+Agosto de 2013
+:::
+
+## Notas

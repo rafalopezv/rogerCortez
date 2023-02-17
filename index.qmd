@@ -1,0 +1,11 @@
+---
+lang: es
+format: 
+  html:
+    page-layout: full
+    toc: false
+---
+
+# Portada {.unnumbered}
+
+Una ilustración ocupará este lugar

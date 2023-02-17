@@ -1,0 +1,60 @@
+---
+lang: es
+format: 
+  html:
+    page-layout: full
+---
+
+
+# Introducción {.unnumbered}
+
+<br>
+
+Estas páginas nacen de la solicitud de elaborar un documento que interprete la situación coyuntural y el rumbo de nuestro país entre diciembre de 2012 y abril de 2013. En ese momento no tenía la certeza de si se trataría de un análisis único o de una serie que se extendería por algún tiempo; nunca llegué a pensar que abarcaría casi una década, como ha ocurrido.
+
+En abril de 2013, cuando se inicia esta colección de análisis, el Movimiento al Socialismo (MAS) alcanzaba el tope de su popularidad y aceptación social, vigorosamente arropado por los ingresos fiscales que proporcionaban una larga racha de precios extraordinarios de nuestras exportaciones y los ajustes favorables a las recaudaciones estatales que introdujo la nacionalización de los hidrocarburos. Tuvo igual importancia para lograr esa popularidad el cumplimiento gubernamental de los principales compromisos electorales de su campaña de 2005: una nueva Constitución, la recuperación del control estatal de recursos naturales y una amplia participación de sectores sociales mayoritarios, entre los principales.
+
+Sin una real competencia partidista al frente, y en medio de una significativa expansión de los ingresos económicos y el ahorro populares, que marcaban el ritmo de un perceptible descenso de la pobreza y la desigualdad, el MAS se sentía dueño del futuro por lo menos durante largos años o, según algunos de sus dirigentes, por uno o más siglos.
+
+Ninguno de estos jerarcas, convertidos en profetas provisionales, estaba preocupado por los tempranos signos de una honda y persistente descomposición de las prácticas gubernamentales en las que incurría una gran cantidad de funcionarios, electos y nombrados. Más bien las alentaban, distribuyendo dinero y privilegios a manos llenas entre la dirigencia de las grandes y poderosas organizaciones sociales sobre las que cimentó su poder. “Microcorrupción” la llamaría más adelante el vicepresidente.
+
+
+En 2010 el MAS había decidido deshacerse de organizaciones políticas aliadas, como el Movimiento Sin Miedo (MSM), y fortalecer los rasgos partidistas de su propia organización que, más que como un partido en su acepción más convencional, actuó y actúa como un conglomerado de dirigentes de organizaciones sindicales, profundamente arraigados en una dinámica corporativista de preservación, a rajatabla y por encima de otras consideraciones, de los intereses y demandas de “su sector”.
+
+Este comportamiento ha esterilizado cualquier intento —si es que en algún momento lo hubo realmente— de cambiar la forma del Estado, y ha fortalecido sus características más tradicionales, ratificando cuán equívoco es suponer que representa a la sociedad y su tendencia intrínseca a sectorizarse y sectarizarse, en beneficio de la perpetuación de los grupos e individuos que copan su mando.
+
+En 2011, con su agresivo comportamiento frente a la marcha de pueblos del TIPNIS, el MAS optó por excluir a los indígenas del gobierno y del bloque de poder, optando por afianzar sus lazos con las organizaciones campesinas y de colonizadores (interculturales). Con su triunfo en las elecciones de 2014, ambas tendencias se estabilizaron como dominantes.
+
+Al leer estas páginas, cabe tener en cuenta que cada título corresponde a los hechos más importantes ocurridos durante un cuatrimestre (empezando en abril de 2013). Estos textos, que ya fueron publicados en una escala reducida y para un público limitado, se han revisado para esta compilación, y se ha corregido únicamente errores de edición y estilo, dejando intactos los conceptos de fondo.
+
+El sentido de publicarlos para una circulación más amplia es que permiten reconstruir la evolución histórica del país en la última década a partir de la experiencia continuamente verificada. La visión que utiliza el autor puede ser compartida, refutada o repudiada por las lectoras o los lectores; sin embargo, en cualquiera de esos casos, no les impide beneficiarse de revisar una cadena de hechos y de los juicios y apreciaciones que merecieron en su momento.
+
+Este trabajo no pretende erudición alguna; se basa exclusivamente en el entrenamiento que proporciona una permanente, detallista y comprometida visión del acontecer boliviano y, en especial, del comportamiento de los sujetos sociales colectivos, constructores ciertos de la vida y de la
+historia del país.
+
+Puesto que gran parte de los hechos escrutados han podido sucumbir a la fragilidad de nuestra memoria personal y a su exposición a la vertiginosa sucesión de noticias, es posible que, en ocasiones, valga la pena contextualizar una determinada situación mencionada en el texto, cotejándola con las referencias contenidas en el trabajo o con otros recursos similares. Seguramente que el esfuerzo adicional valdrá la pena en este intento por comprender y asimilar mejor nuestro pasado próximo, del que no solo fuimos testigos, sino participantes y protagonistas de mil maneras distintas.
+
+Además de los análisis cuatrimestrales, se incluyen algunos anexos o apéndices sobre cuestiones sobresalientes, o que explican las categorías de análisis utilizadas y varias veces elaboradas por el autor.
+
+En tal sentido, la perspectiva desde la que se han formulado los análisis y previsiones aquí contenidos parte de considerar al régimen masista como producto de un proceso constituyente, iniciado en 1990 con la marcha indígena de pueblos del oriente boliviano y que se extendió hasta la aprobación de la Constitución vigente desde 2009. A su vez, este proceso constituyente es parte de un nuevo ciclo estatal que arranca con la emancipación campesina de la tutela política que ejerció el Movimiento Nacionalista Revolucionario (MNR) sobre esta clase social, desde 1952 hasta finales de la década de 1970.
+
+Los análisis de coyuntura aquí contenidos se fundan en un esfuerzo por entender los acontecimientos a partir de la movilización de sujetos sociales como los pueblos, las clases sociales o sus fracciones, antes que del comportamiento de dirigentes o “personalidades”, sean estos considerados “héroes” o “villanos”. La primera es la aproximación que prevalece en el tratamiento noticioso o de buena parte de la historiografía.
+
+Queda claro que las intervenciones individuales pueden ser decisivas, pero, al final, serán verdaderamente inteligibles cuando se las considere como componentes de un cuadro mucho más amplio y complejo que nos sobrepasa a todos en tanto que personas aisladas, sin importar nuestros dones, virtudes o fallos.
+
+La ruta propia que construimos bolivianos y bolivianas transita en esta época por caminos insospechados e insospechables, y que nos condicionan igual que al resto de la humanidad. El más constante y decisivo, pero todavía ampliamente subvalorado, resulta de la huella que hemos impreso con nuestra obsesiva búsqueda de una forma particular de “desarrollo” que ha conseguido situar como la fundamental la contradicción entre humanidad y naturaleza, después de que durante siglos este sitio lo ocuparan las contradicciones internas de la sociedad humana.
+
+El otro conflicto, enredado con el anterior y dependiente de aquel, es la explosión de la primera pandemia de este siglo, que exhibe sin piedad la fragilidad de nuestros logros materiales, vapuleando, como no había ocurrido antes, nuestra confianza en la ciencia y en la tecnología y, por lo general, en el conjunto de nuestros conocimientos acumulados.
+
+Ambos problemas amenazan la continuidad de nuestra especie y el conjunto de la vida misma sobre el planeta. Si no conseguimos entrelazar la resolución de problemas crónicos muy propios, como el racismo, la pobreza o el caudillismo (y no solo el político), con la atención de los que son comunes a toda la humanidad, es más que dudoso que podamos resolver cualquiera de ellos, así sea pasajeramente.
+
+La mejor base con que contamos para enfrentar tales retos es rescatar y, si fuera posible, aglutinar la resiliencia de nuestros pueblos, que no solo han resistido y se han sobrepuesto a tan variadas y perversas formas de opresión y colonialismo, sino que avanzan incansablemente, consolidando, local y universalmente, el reconocimiento de su presencia, su fuerza y valor, como sujetos clave para resolver los más acuciantes conflictos de este crucial momento.
+
+
+<div style="text-align:center; font-weight: bold;">Roger Cortéz Hurtado</div>
+<div style="text-align:center;">Diciembre de 2021</div>
+
+
+
+
+

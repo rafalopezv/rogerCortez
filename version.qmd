@@ -1,0 +1,13 @@
+---
+lang: es
+format: 
+  html:
+    toc: false
+    page-layout: full
+---
+
+# Sobre esta versión {.unnumbered}
+
+Aquí explicaré porquer hice esta versión 
+
+
