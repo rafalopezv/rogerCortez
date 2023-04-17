@@ -1,0 +1,14 @@
+name: pdf_to_shiny
+title: pdf_to_shiny
+username:
+account: rafalopezv
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 8869648
+bundleId: 7097955
+url: https://rafalopezv.shinyapps.io/pdf_to_shiny/
+when: 1681704348.17131
+lastSyncTime: 1681704348.17132
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: input/.DS_Store|input/app.R|input/function_cards.R|input/limpieza_links.R|input/links_noticias.csv|output/.DS_Store|output/rsconnect/shinyapps.io/rafalopezv/shiny_pdf_chatgpt.dcf|README.md
