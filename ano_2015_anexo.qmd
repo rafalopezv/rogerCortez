@@ -4,12 +4,14 @@ format:
   html:
     page-layout: article
 ---
-# Anexo: Nuevo bloque de poder y contradicciones entre indígenas y campesinos de Bolivia {.unnumbered}
----
+
+# Nuevo bloque de poder y contradicciones entre indígenas y campesinos de Bolivia {.unnumbered}
 
 ## El bloque de poder depurado
 
-La composición de los responsables de la conducción estratégica del gobierno se corresponde con una depuración del bloque social en el poder, en beneficio de las fracciones campesinas de mayor grado de maduración empresarial (campesinos exportadores, principalmente cocaleros y medianos soyeros), importadores (“comerciantes populares”, como los llama el antropólogo Nico Tassi), grandes propietarios del transporte terrestre y una activa burguesía burocrática [^13], gestora de negocios y oportunidades para todos ellos.
+La composición de los responsables de la conducción estratégica del gobierno se corresponde con una depuración del bloque social en el poder, en beneficio de las fracciones campesinas de mayor grado de maduración empresarial (campesinos exportadores, principalmente cocaleros y medianos soyeros), importadores ("comerciantes populares", como los llama el antropólogo Nico Tassi), grandes propietarios del transporte terrestre y una activa burguesía burocrática [^ano_2015_anexo-1], gestora de negocios y oportunidades para todos ellos.
+
+[^ano_2015_anexo-1]: Uso la categoría siguiendo la de Charles Bettelheim (1978, Las luchas de clases en la URSS, Segundo periodo, 1923-1930, vol. 1, Madrid: Siglo XXI, p. 36), quien la define como compuesta por "agentes de reproducción, distintos a los productores, que \[...\] tienen \[el poder de disponer\] efectivamente de los medios de producción que pertenecen formalmente al Estado", así como del excedente que producen esos medios estatales. Afirma que no necesitan ser agentes conscientes de la burguesía, pero terminan asimilándose a ella por "su interés material y situación social". Más adelante se identifican particularidades de esta fracción de clase en nuestro país.
 
 Este núcleo del poder estatal reafirmó un acuerdo previo con la banca, que no es parte del bloque, pero que lo acompaña establemente y que ha avanzado un armisticio con los agroexportadores menos comprometidos con el sector duro de terratenientes que encabezó la resistencia anticonstituyente en 2008.
 
@@ -27,15 +29,15 @@ Sin embargo, respetando la distinción entre clase y cultura, en nuestra realida
 
 Aplicando esos criterios, los campesinos son propietarios individuales de parcelas dedicadas principalmente a la agricultura o la ganadería, compradores y vendedores de fuerza de trabajo, que residen una parte considerable del año en áreas urbanas, que combinan sus actividades agropecuarias con multiempleo y multiocupación (comercio, transporte las más frecuentes, pero no las únicas) y con origen étnico y cultural indígena.
 
-Los hoy llamados indígenas, habitualmente en posesión de “chacos” familiares, según las costumbres de su comunidad, residen en TCO, reconocidas o no legalmente como tales. Tienen una vinculación esporádica con el salario (casi siempre como vendedores de fuerza de trabajo), así como con actividades económicas ajenas a las que practican en su comunidad.
+Los hoy llamados indígenas, habitualmente en posesión de "chacos" familiares, según las costumbres de su comunidad, residen en TCO, reconocidas o no legalmente como tales. Tienen una vinculación esporádica con el salario (casi siempre como vendedores de fuerza de trabajo), así como con actividades económicas ajenas a las que practican en su comunidad.
 
 Estas actividades incluyen recolección, pesca, caza y agricultura y ganadería en las tierras bajas y minería en las tierras altas; de allí el enfoque predominantemente territorial de sus reivindicaciones.
 
 En términos demográficos, los indígenas representan una minoría neta del total de la población rural (incluyendo a la totalidad de comunidades de tierras altas y bajas) y su peso económico es casi indetectable en la actual composición del PIB. En contrapartida, en sus territorios se ubica prácticamente la totalidad de reservas hidrocarburíferas nacionales probadas y probables, yacimientos minerales, acuíferos y gran parte de las reservas de biodiversidad.
 
-Con referencia a los campesinos —clase social cuya existencia se remonta a la Revolución Nacional de 1952—, debe tomarse en cuenta que la pequeña producción agropecuaria ha seguido una trayectoria que la conduce del mercantilismo al capitalismo, cuando es exitosa, o a la migración urbana que, a la postre, tiene un resultado similar en la mayoría de los casos, al ubicar al migrante relativamente exitoso en una situación de microempresario o de asalariado muchas veces proletarizado.
+Con referencia a los campesinos ---clase social cuya existencia se remonta a la Revolución Nacional de 1952---, debe tomarse en cuenta que la pequeña producción agropecuaria ha seguido una trayectoria que la conduce del mercantilismo al capitalismo, cuando es exitosa, o a la migración urbana que, a la postre, tiene un resultado similar en la mayoría de los casos, al ubicar al migrante relativamente exitoso en una situación de microempresario o de asalariado muchas veces proletarizado.
 
-El proyecto político que ha ido decantando el MAS se basa en ignorar y negar las trayectorias divergentes de campesinos e indígenas, caracterizándolas como “tensiones creativas”.
+El proyecto político que ha ido decantando el MAS se basa en ignorar y negar las trayectorias divergentes de campesinos e indígenas, caracterizándolas como "tensiones creativas".
 
 Aquí se plantea como hipótesis que ese ocultamiento de las contradicciones favorece a las fracciones campesinas más competitivas desde el punto de vista capitalista. Estas fracciones se inclinan muy rápidamente, con activo impulso de sus representantes estatales, a incrementar su capitalización mediante la acumulación de tierras para la captura de rentas, ante la creciente demanda de agroexportadores extranjeros (brasileños, menonitas, colombianos, argentinos) y algunos locales.
 
@@ -46,5 +48,3 @@ Junio de 2015
 :::
 
 ## Notas
-
-[^13]: Uso la categoría siguiendo la de Charles Bettelheim (1978, Las luchas de clases en la URSS, Segundo periodo, 1923-1930, vol. 1, Madrid: Siglo XXI, p. 36), quien la define como compuesta por “agentes de reproducción, distintos a los productores, que [...] tienen [el poder de disponer] efectivamente de los medios de producción que pertenecen formalmente al Estado”, así como del excedente que producen esos medios estatales. Afirma que no necesitan ser agentes conscientes de la burguesía, pero terminan asimilándose a ella por “su interés material y situación social”. Más adelante se identifican particularidades de esta fracción de clase en nuestro país.

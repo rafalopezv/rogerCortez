@@ -2,12 +2,15 @@
 library(tidyverse)
 library(rvest)
 library(furrr)
+library(janitor)
+library(htmltools)
 
-# activate parallel computing
-plan(multisession, workers = 6)
+# activar  procesamiento parelelo
+plan(multisession, workers = 12)
 
-# this data frame was mainly build with chatgpt v. 3.5: 
-df <- rio::import("input/links_noticias.csv")
+# base de noticias
+df <- rio::import("input/links_noticias.csv") %>% 
+  janitor::remove_empty()
 
 # limpieza
 df %>% 
@@ -23,23 +26,27 @@ df %>%
   select(num, everything()) -> df
 
 
-# format column tema (topic)
+# limpieza de temas
 df %>% 
   mutate(
-    tema = str_to_sentence(tema),
     tema = case_when(
-      tema == "Campaña evo: fraude-golpe" ~ "Campaña Evo: fraude-golpe",
-      tema == "Cidh y giei" ~ "CIDH y GEI",
-      tema == "Murillo miami" ~ "Murillo Miami",
-      tema == "Delitos tcp" ~ "Delitos TCP",
-      tema == "Ff. aa." ~ "FF.AA",
-      # cambio porque es la misma idea
-      tema == "Luchas por tierra y territorios" ~ "Tierra y territorio",
+      tema %in% c("economía y política económica", "economía, caída de ingReSoS fiScaleS y déficit de empReSaS eStataleS") ~ "Economía",
+      tema %in% c("dichoS del gabinete de campaña", "campaña Evo: Fraude-golpe") ~ "Campaña Evo | Fraude-Golpe",
+      tema %in% c("ADEPCOCA", "Coca, Cocaína") ~ "Coca-Cocaína",
+      tema %in% c("tieRRa y teRRitoRio", "luchaS poR tieRRa y teRRitoRioS", "Conflictos por tierra y áreas protegidas", "Conflictos por tierra, territorios y socioambientales") ~ "Tierra-Territorio",
+      tema == "Censo de población y vivienda" ~ "Censo",
+      tema %in% c("Reforma judicial", "delitoS tcp", "fiScalía") ~ "Justicia",
+      tema %in% c("Luchas internas del MAS", "Interna del MAS") ~ "MAS-IPSP",
+      tema %in% c("ff. aa.", "Policía") ~ "Fuerzas Armadas & Policía",
+      tema == "maRchaS y contRamaRchaS" ~ "Marchas y contramarchas",
+      tema == "coRpoRativiSmo" ~ "Corporativismo",
+      tema %in% c("cambio climático-medioambiente", "Incendios") ~ "Medio Ambiente",
+      tema == "nuevaS autoRidadeS" ~ "Autoridades electas",
       T ~ tema
     )
   ) -> df
 
-# format column periodico (newspaper)
+# limpieza fuente
 df %>% 
   mutate(
     enlace = str_replace_all(enlace, "\\s+", ""),
@@ -51,11 +58,25 @@ df %>%
       str_detect(enlace, "la-razon") ~ "La Razón",
       str_detect(enlace, "ftierra") ~ "Fundación Tierra",
       str_detect(enlace, "corteidh") ~ "CIDH",
-      str_detect(enlace, "cancilleria") ~ "Cancillería boliviana"
+      str_detect(enlace, "cancilleria") ~ "Cancillería boliviana",
+      enlace == "https://www.youtube.com/watch?v=c8Q95YS_AlM" ~ "Cabildeo Digital",
+      enlace == "https://brujuladigital.net/opinion/economia-los-temas-que-no-debatimos-pero-que-deberiamosQuicoVelazco" ~ "Brujula Digital",
+      enlace == "https://brujuladigital.net/opinion/economia-los-temas-que-no-debatimos-pero-que-deberiamosQuicoVelazco" ~ "Brujula Digital",
+      enlace == "https://hparlante.wixsite.com/digital-media/single-post/2020/02/28/el-regreso-de-walter-ch%C3%A1vez" ~ "H Parlante",
+      enlace == "https://abi.bo/index.php/polititca2/34651-molina-declaraciones-de-la-jefa-del-comando-sur-de-eeuu-muestran-poco-respeto-a-los-paises-del-triangulo-del-litio" ~ "ABI",
+      enlace == "https://www.clarin.com/sociedad/nuevo-superalimento-gobierno-busca-impulsar-cannabis-cocina_0_dAL6Hji72y.html" ~ "Clarin",
+      enlace == "HTTPS://WWW.LOSTIEMPOS.COM/ACTUALIDAD/ECONOMIA/20230713/MILENIO-40-DEL-DEFICIT-FISCAL-2022-SE-FINANCIO-CREDITOS-DEL-BANCO" ~ "Los Tiempos",
+      enlace == "https://eldebr.com.bo/pais/diputado-del-mas-hizo-37-giros-a-cuatro-paises-por-el-valor-de-us-51-millones_317119" ~ "El Deber",
+    ),
+    enlace = case_when(
+      enlace == "https://eldebr.com.bo/pais/diputado-del-mas-hizo-37-giros-a-cuatro-paises-por-el-valor-de-us-51-millones_317119" ~ "https://eldeber.com.bo/pais/diputado-del-mas-hizo-37-giros-a-cuatro-paises-por-el-valor-de-us-51-millones_317119",
+      enlace == "https://eldeber.com.bo/pais/el-censo-mostrara-un-pais-mas-urbano-y-preven-que-revelara-fallas-del-padron_301337ttps://eldeber.com.bo/santa-cruz/afines-al-MAS-advierten-con-cercar-santa-cruz-si-no-se-levanta-el-paro-en-48-horas_301363" ~ "https://eldeber.com.bo/pais/el-censo-mostrara-un-pais-mas-urbano-y-preven-que-revelara-fallas-del-padron_301337", 
+      T ~ enlace
     )
   ) -> df
 
-# function to verify links are valid
+
+# funcion para verificar enlaces vivos
 check_url <- function(url) {
   error_report <- tryCatch(
     expr = read_html(url),
@@ -71,17 +92,17 @@ check_url <- function(url) {
   }
 }
 
-# function execution
+# ejecución de función check_url
 df %>% 
   mutate(
     check_url = future_map_chr(.$enlace, check_url, .progress = T) 
   ) -> df
 
-# filter out links with 404 or any other client error message 
+# filtrar links vivos
 df %>% 
   filter(check_url == "Success: Sin errores") -> df
 
-# function to extract date article was published
+# funcion para extraer la fecha de publicación de los artículos de prensa
 published_date <- function(url, idOrClass) {
   page <- read_html(url)
   date_extracted <- html_text(html_node(page, idOrClass))
@@ -89,7 +110,7 @@ published_date <- function(url, idOrClass) {
   return(date_extracted)
 }
 
-# function to extract article title
+# funcion para extraer el titulo de los articulos
 title <- function(url) {
   page <- read_html(url)
   title_extracted <- html_text(html_node(page, "title"))
@@ -97,8 +118,7 @@ title <- function(url) {
   return(title_extracted)
 } 
 
-# execution of functions: title and published_date
-# note: html ids and classes for extraction were examined inspecting newspaper web sites
+# execución de functiones
 df %>% 
   mutate(
     fecha = case_when(
@@ -107,8 +127,7 @@ df %>%
       periodico == "Página 7" ~ future_map_chr(.$enlace, ~published_date(., idOrClass = ".date"), .progress = T),
       periodico == "Los Tiempos" ~ future_map_chr(.$enlace, ~published_date(., idOrClass = ".date-publish"), .progress = T),
       periodico == "El País (España)" ~ future_map_chr(.$enlace, ~published_date(., idOrClass = "#article_date_p"), .progress = T),
-      periodico == "CIDH" ~ "2021-06-07", 
-      num %in% c("69", "70") ~ "2021-05-01"
+      periodico == "CIDH" ~ "2021-06-07"
     )
   ) -> df
 
@@ -116,12 +135,12 @@ df %>%
   mutate(
     titulo = case_when(
       periodico == "CIDH" ~ "Opinión Consultiva OC-28/21:  La figura de la reelección presidencial indefinida en sistemas presidenciales en el contexto del sistema interamericano de derechos humanos",
-      num %in% c("69", "70") ~ "Despojo de tierras de comunidades por el agronegocio boliviano",
+      periodico == "Fundación Tierra" ~ "Despojo de tierras de comunidades por el agronegocio boliviano",
       T ~ future_map_chr(.$enlace, title, .progress = T)
     )
   ) -> df
 
-# cleaning column titulo 
+# limpieza de titulos
 df %>% 
   mutate(
     titulo = str_replace(titulo, "\\|", ""),
@@ -135,273 +154,157 @@ df %>%
   ) -> df
 
 
-# note: before doing this see the variability of column fecha
-# instead of cleaning this variability through code, I passed a the orginal string of dates to chatgpt and got the fromatted ones
-fechas_formato <- c("2021-08-07",
-  "2021-08-25",
-  "2021-07-20",
-  "2021-07-19",
-  "2021-06-18",
-  "2021-08-15",
-  "2021-06-23",
-  "2021-06-22",
-  "2021-06-24",
-  "2021-05-10",
-  "2021-08-25",
-  "2021-08-25",
-  "2021-06-27",
-  "2021-06-07",
-  "2021-08-13",
-  "2021-08-13",
-  "2021-08-10",
-  "2021-08-14",
-  "2021-08-19",
-  "2021-08-25",
-  "2021-08-19",
-  "2021-08-27",
-  "2021-08-18",
-  "2021-08-18",
-  "2021-07-24",
-  "2021-08-23",
-  "2021-08-23",
-  "2021-08-24",
-  "2021-08-19",
-  "2021-08-26",
-  "2021-06-28",
-  "2021-07-22",
-  "2021-08-29",
-  "2021-05-04",
-  "2021-08-25",
-  "2021-06-13",
-  "2021-08-13",
-  "2021-08-13",
-  "2021-08-10",
-  "2021-08-14",
-  "2021-08-19",
-  "2021-08-26",
-  "2021-08-18",
-  "2021-08-24",
-  "2021-08-23",
-  "2021-08-23",
-  "2021-08-24",
-  "2021-08-19",
-  "2021-05-08",
-  "2021-07-05",
-  "2021-06-11",
-  "2021-05-27",
-  "2021-07-05",
-  "2021-07-15",
-  "2021-08-27",
-  "2021-07-28",
-  "2021-08-24",
-  "2021-08-01",
-  "2021-03-18",
-  "2021-05-01",
-  "2021-05-01",
-  "2021-07-25",
-  "2021-07-02",
-  "2021-07-20",
-  "2021-05-03",
-  "2021-07-26",
-  "2021-07-05",
-  "2021-05-06",
-  "2021-06-28",
-  "2021-07-19",
-  "2021-07-15",
-  "2021-06-25",
-  "2021-06-02",
-  "2021-08-21",
-  "2021-08-25",
-  "2021-08-25",
-  "2021-08-24",
-  "2021-08-09",
-  "2021-08-10",
-  "2021-08-22",
-  "2021-08-23",
-  "2021-08-21",
-  "2021-05-13",
-  "2021-05-23",
-  "2021-06-28",
-  "2021-07-19",
-  "2021-08-09",
-  "2021-07-04",
-  "2021-06-04",
-  "2021-06-21",
-  "2021-05-01",
-  "2021-05-09",
-  "2021-05-22",
-  "2021-05-24",
-  "2021-06-13",
-  "2021-06-18",
-  "2021-06-14",
-  "2021-09-03",
-  "2021-08-14",
-  "2021-07-01",
-  "2021-05-27",
-  "2021-06-20",
-  "2021-06-07",
-  "2021-05-05",
-  "2021-05-04",
-  "2021-06-11",
-  "2021-07-27",
-  "2021-06-01",
-  "2021-05-27",
-  "2021-05-19",
-  "2021-05-18",
-  "2021-05-14",
-  "2021-07-15",
-  "2021-08-23",
-  "2021-07-04",
-  "2021-07-07",
-  "2021-07-08",
-  "2021-07-06",
-  "2021-07-06",
-  "2021-07-06",
-  "2021-08-23",
-  "2021-08-27",
-  "2021-06-24",
-  "2021-06-26",
-  "2021-07-14",
-  "2021-08-27",
-  "2021-08-19",
-  "2021-09-17",
-  "2021-09-18",
-  "2021-09-27",
-  "2021-09-29",
-  "2021-10-07",
-  "2021-10-07",
-  "2021-10-08",
-  "2021-10-10",
-  "2021-10-11",
-  "2021-10-11",
-  "2021-10-11",
-  "2021-10-12",
-  "2021-10-12",
-  "2021-10-11",
-  "2021-10-14",
-  "2021-10-18",
-  "2021-10-18",
-  "2021-10-20",
-  "2021-10-22",
-  "2021-10-21",
-  "2021-10-22",
-  "2021-11-01",
-  "2021-11-02",
-  "2021-11-02",
-  "2021-11-05",
-  "2021-11-05",
-  "2021-11-06",
-  "2021-11-08",
-  "2021-11-08",
-  "2021-11-08",
-  "2021-11-12",
-  "2021-11-12",
-  "2021-11-12",
-  "2021-11-12",
-  "2021-11-12",
-  "2021-11-12",
-  "2021-11-14",
-  "2021-11-14",
-  "2021-11-14",
-  "2021-11-14",
-  "2021-11-15",
-  "2021-11-15",
-  "2021-11-16",
-  "2021-11-17",
-  "2021-08-04",
-  "2021-03-18",
-  "2021-08-24",
-  "2021-08-02",
-  "2021-11-19",
-  "2021-11-06",
-  "2021-11-05",
-  "2021-11-03",
-  "2021-11-01",
-  "2021-11-02",
-  "2021-11-01",
-  "2021-11-02",
-  "2021-11-02",
-  "2021-11-02",
-  "2021-11-01",
-  "2021-10-31",
-  "2021-11-01",
-  "2021-10-31",
-  "2021-10-16",
-  "2021-10-16",
-  "2021-10-08",
-  "2021-10-06",
-  "2021-09-24",
-  "2021-09-24",
-  "2021-09-20",
-  "2021-09-20",
-  "2021-09-20",
-  "2021-09-19",
-  "2021-09-19",
-  "2021-09-17",
-  "2021-11-25",
-  "2021-11-25",
-  "2021-11-18",
-  "2021-11-22",
-  "2021-11-01",
-  "2021-11-04",
-  "2021-11-05",
-  "2021-11-19",
-  "2021-11-07",
-  "2021-11-02",
-  "2021-11-02",
-  "2021-11-25",
-  "2021-11-25",
-  "2021-08-10",
-  "2021-08-19",
-  "2021-08-25",
-  "2021-08-31",
-  "2021-09-01",
-  "2021-09-03",
-  "2021-09-05",
-  "2021-09-06",
-  "2021-09-06",
-  "2021-09-19",
-  "2021-09-17",
-  "2021-09-03",
-  "2021-08-29",
-  "2021-09-21",
-  "2021-09-23",
-  "2021-09-25",
-  "2021-10-08",
-  "2021-10-20",
-  "2021-10-22",
-  "2021-10-21",
-  "2021-10-22",
-  "2021-11-02",
-  "2021-11-03",
-  "2021-11-01",
-  "2021-11-10",
-  "2021-11-15",
-  "2021-11-10",
-  "2021-11-21",
-  "2021-11-17",
-  "2021-11-16",
-  "2021-11-25",
-  "2021-11-25", 
-  "2021-11-22") 
+# arreglo de fechas
+df %>% 
+  filter(periodico == "El Deber") -> eldb
 
-#  introduce right date format and add booststrap class to get right colors on cards 
+eldb %>% 
+  separate(fecha , into = c("fecha", "null"), sep = ",") %>% 
+  select(-null) %>% 
+  mutate(fecha = gsub(" de ", "-", .$fecha)) %>% 
+  separate(fecha , into = c("dia", "mes", "año"), sep = "-") %>% 
+  mutate(
+    mes = case_when(
+      mes == "enero" ~ "01",
+      mes == "febrero" ~ "02",
+      mes == "marzo" ~ "03",
+      mes == "abril" ~ "04",
+      mes == "mayo" ~ "05",
+      mes == "junio" ~ "06",
+      mes == "julio" ~ "07",
+      mes == "agosto" ~ "08",
+      mes == "septiembre" ~ "09",
+      mes == "octubre" ~ "10",
+      mes == "noviembre" ~ "11",
+      mes == "diciembre" ~ "12",
+      T ~ mes
+    ),
+    dia = trimws(dia),
+    nchar = nchar(dia),
+    dia = case_when(
+      nchar == 1 ~ paste0("0", dia),
+      T ~ dia
+    ),
+    fecha = paste0(año, "-", mes, "-", dia) %>% as.Date()
+  ) -> eldb
+
+# resolver casos específicos de el deber
+eldb %>% 
+  mutate(
+    fecha = case_when(
+      enlace == "https://eldeber.com.bo/pais/garcia-linera-desmiente-declaraciones-del-general-terceros-y-reuniones-con-el-alto-mando_238112" ~ "2021-07-07" %>% as.Date(),
+      enlace == "https://eldeber.com.bo/pais/relatora-especial-sobre-la-situacion-de-los-defensores-de-ddhh-observa-presunta-criminalizacion-cont_312872juiciomontadocontraWaldoA." ~ "2023-01-30" %>% as.Date(),
+      T ~ fecha
+    ),
+    enlace = case_when(
+      enlace == "https://eldeber.com.bo/pais/relatora-especial-sobre-la-situacion-de-los-defensores-de-ddhh-observa-presunta-criminalizacion-cont_312872juiciomontadocontraWaldoA." ~ "https://eldeber.com.bo/pais/relatora-especial-sobre-la-situacion-de-los-defensores-de-ddhh-observa-presunta-criminalizacion-cont_312872juiciomontadocontraWaldoA",
+      T ~ enlace
+    )
+  ) -> eldb
+
+# lso tiempos
+df %>% 
+  filter(periodico == "Los Tiempos") -> lt
+
+lt %>% 
+  mutate(fecha = gsub("Publicado el ", "", .$fecha) %>% trimws) %>% 
+  mutate(fecha = gsub(" a ", ",", .$fecha) %>% trimws) %>% 
+  # pull(fecha)
+  separate(fecha, into = c("fecha", "null"), sep = ",") %>% 
+  select(-null) %>% 
+  mutate(fecha = as.Date(fecha, format = "%d/%m/%Y")) -> lt
+
+# casos específicos los tiempos
+lt %>% 
+  mutate(
+    fecha = case_when(
+      enlace == "https://www.lostiempos.com/actualidad/opinion/20230721/columna/verdaderos-peligros-deuda-publica-bolivianaQuicoVelazco" ~ "2023-07-21" %>% as.Date(),
+      enlace == "https://www.lostiempos.com/especial-multimedia/20230605/explotacion-oro-petroleo-afecta-seriamente-6-areas-protegidas" ~ "2023-06-05" %>% as.Date(),
+      enlace == "https://www.lostiempos.com/especial-multimedia/20230507/DIARIO-DEL-PADRE-PICA-ACUSADO-ABUSAR-SEXUALMENTE-85-NINOS-SACUDE" ~ "2023-05-07" %>% as.Date(),
+      T ~ fecha
+    )
+  ) -> lt
+
+# el pais españa
+df %>% 
+  filter(periodico == "El País (España)") -> elp
+
+elp %>% 
+  separate(fecha, into = c("fecha", "null"), sep = " - ") %>% 
+  select(-null) %>% 
+  separate(fecha, into = c("dia", "mes", "año"), sep = " ") %>% 
+  mutate(
+    mes = case_when(
+      mes == "jun" ~ "06",
+      mes == "feb" ~ "02",
+      mes == "jul" ~ "07",
+      mes %in% c("may", "may.") ~ "05",
+      mes == "abr" ~ "04"
+    ),
+    fecha = paste0(año, "-", mes, "-", dia) %>% as.Date()
+  ) -> elp
+
+# armado de df
+df %>% 
+  filter(!periodico %in% c("El País (España)", "Los Tiempos", "El Deber")) -> df
+
 df %>% 
   mutate(
-    fecha = as.Date(fechas_formato),
+    fecha = as.Date(fecha),
+    fecha = case_when(
+      enlace == "https://www.youtube.com/watch?v=c8Q95YS_AlM" ~ "2022-05-03" %>% as.Date(),
+      enlace == "https://brujuladigital.net/opinion/economia-los-temas-que-no-debatimos-pero-que-deberiamosQuicoVelazco" ~ "2022-11-19" %>% as.Date(),
+      enlace == "https://hparlante.wixsite.com/digital-media/single-post/2020/02/28/el-regreso-de-walter-ch%C3%A1vez" ~ "2022-02-28" %>% as.Date(),
+      enlace == "https://abi.bo/index.php/polititca2/34651-molina-declaraciones-de-la-jefa-del-comando-sur-de-eeuu-muestran-poco-respeto-a-los-paises-del-triangulo-del-litio" ~ "2023-03-12" %>% as.Date(),
+      T ~ fecha
+    ),
+    titulo = case_when(
+      fecha == "2022-05-03" ~ "Día de la libertad de prensa: ¡Amalia responde al hijo de Arce!",
+      fecha == "2022-11-19" ~ "Los temas que no debatimos pero deberíamos",
+      fecha == "2022-02-28" ~ "El regreso de Walter Chavez",
+      fecha == "2023-03-12" ~ "Molina: Declaraciones de la jefa del Comando Sur de EEUU muestran poco respeto a los países del triángulo del litio",
+      T ~ titulo
+    ),
+    enlace = case_when(
+      fecha == "2022-11-19" ~ "https://brujuladigital.net/opinion/economia-los-temas-que-no-debatimos-pero-que-deberiamos",
+      T ~ enlace
+    )
+  ) %>% 
+  filter(!is.na(fecha)) %>% 
+  bind_rows(., lt, elp, eldb) -> df
+
+# arreglos finales
+df %>% 
+  mutate(
+    enlace = case_when(
+      enlace == "https://eldeber.com.bo/pais/relatora-especial-sobre-la-situacion-de-los-defensores-de-ddhh-observa-presunta-criminalizacion-cont_312872juiciomontadocontraWaldoA" ~ "https://eldeber.com.bo/pais/relatora-especial-sobre-la-situacion-de-los-defensores-de-ddhh-observa-presunta-criminalizacion-cont_312872",
+      T ~ enlace
+    ), 
+    titulo = case_when(
+      enlace == "https://eldeber.com.bo/pais/relatora-especial-sobre-la-situacion-de-los-defensores-de-ddhh-observa-presunta-criminalizacion-cont_312872" ~ "Relatora Especial sobre la situación de los defensores de DDHH observa presunta criminalización contra Waldo Albarracín",
+      enlace == "https://www.lostiempos.com/especial-multimedia/20230605/explotacion-oro-petroleo-afecta-seriamente-6-areas-protegidas" ~ "La explotación de oro y petróleo afecta seriamente 6 áreas protegidas",
+      enlace == "https://www.lostiempos.com/especial-multimedia/20230507/DIARIO-DEL-PADRE-PICA-ACUSADO-ABUSAR-SEXUALMENTE-85-NINOS-SACUDE" ~ "El diario del padre ‘Pica’, acusado de abusar sexualmente a 85 niños, sacude a la Iglesia Católica",
+      T ~ titulo
+    )
+  ) -> df
+
+#  crear clases para tarjetas bootstrap
+df %>% 
+  mutate(
     clase = case_when(
       periodico == "El Deber" ~ "card h-100 bg-success",
-      periodico == "Página 7" ~ "card h-100 bg-warning",
+      periodico == "El País (España)" ~ "card h-100 bg-primary",
       periodico == "CIDH" ~ "card h-100 bg-dark",
       periodico == "La Razón"  ~ "card h-100 bg-danger",
-      periodico == "Los Tiempos" ~ "card h-100 bg-light",
+      periodico == "Los Tiempos" ~ "card h-100 bg-warning",
       periodico == "Fundación Tierra" ~ "card h-100 bg-info",
       T ~ "card h-100 bg-light"
     )
   ) -> df
 
-# Change locale to get literal dates in spanish
-# note: this code my not work in your computer. I'm using macOS Monterrey 12.5.1
+
+# cambiar locale a español para extraer fechas literales
+# nota: ajustar de acuerdo a sistema operativo. El mío macOS Sonoma 14.5
 Sys.setlocale(locale = "es_ES.UTF-8")
 
 # ad column with literal date
@@ -410,8 +313,7 @@ df %>%
     fecha_literal = format(fecha, "%d de %B de %Y")
   ) -> df
 
-# function to create bootstrap cards based on data frame
-# tip: give pure html code from bootstrap site to chatgpt and ask for translation into shiny 
+# funcion para crear tarjetas
 card <- function(.title, .paper, .date, .class, .link) {
   tags$div(
     class = "col",
@@ -423,7 +325,7 @@ card <- function(.title, .paper, .date, .class, .link) {
         tags$br(),
         tags$p(class = "card-text", .paper),
         tags$p(class = "card-text", .date),
-        # super tip: this makes the whole card linkable
+        # hacer toda la tarjta clickeable
         tags$a(class = "stretched-link", href=.link)
       )
     )
@@ -432,7 +334,7 @@ card <- function(.title, .paper, .date, .class, .link) {
 
 cards <- list()
 
-# iterate over the rows of the data frame and create the cards
+# crear tarjetas
 for (i in seq_len(nrow(df))) {
   cards[[i]] <- card(
     .title = df[i, "titulo"], 
@@ -443,15 +345,18 @@ for (i in seq_len(nrow(df))) {
   )
 }
 
-# create column with shiny cards
+# añadir tarjetas a data frame
 df %>% 
   mutate(
     card = cards
   ) -> df
 
-# export data frame ready for shiny production
+# exportar data frame para shiny en producción
 df %>% 
-  write_rds("data/noticias/output/df_shiny.rds")
+  select(-dia, -mes, -año, -nchar, -num, -anexo_original, -check_url) %>% 
+  write_rds("output/df_shiny.rds")
+
+
 
 
 

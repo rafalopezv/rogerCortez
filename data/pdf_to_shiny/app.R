@@ -1,127 +1,174 @@
-# about: running app 
 library(shiny)
 library(tidyverse)
 library(purrr)
+library(here)
+library(shinyWidgets) # Load the shinyWidgets library
 
-# importing data. Tip: if app is inside a larger project use here library for the relative path
-df <- read_rds(here::here("output/df_shiny.rds")) 
+# Importando datos
+df <- read_rds(here::here("output/df_shiny.rds"))
+Sys.setlocale(locale = "es_ES.UTF-8")
 
-# ui
+# Helper function to format dates in Spanish
+format_date_spanish <- function(date) {
+  months <- c("enero", "febrero", "marzo", "abril", "mayo", "junio", "julio", "agosto", "septiembre", "octubre", "noviembre", "diciembre")
+  weekdays <- c("domingo", "lunes", "martes", "miércoles", "jueves", "viernes", "sábado")
+  
+  formatted_date <- format(date, "%A %d de %B de %Y") %>% as.character()
+  formatted_date <- gsub(paste(weekdays, collapse = "|"), function(x) weekdays[which(weekdays == x)], formatted_date)
+  formatted_date <- gsub(paste(months, collapse = "|"), function(x) months[which(months == x)], formatted_date)
+  
+  return(formatted_date)
+}
+
+# UI
 ui <- fluidPage(
-  tags$br(),
-  tags$br(),
+  includeCSS("www/styles.css"),
   tags$head(
-    tags$style(
-      # inline css: hard to translate to R!
-      HTML("
-      .card {
-         border-width: 0px;
-        transition: transform 0.5s cubic-bezier(0.165, 0.84, 0.44, 1) 0s;
+    tags$script(HTML("
+      
+      window.onscroll = function() {scrollFunction()};
+
+      function scrollFunction() {
+        if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+          document.getElementById('toTopBtn').style.display = 'block';
+        } else {
+          document.getElementById('toTopBtn').style.display = 'none';
+        }
       }
 
-      .card:hover {
-        transform: scale(1.1);
+      
+      function topFunction() {
+        document.body.scrollTop = 0;
+        document.documentElement.scrollTop = 0;
       }
-        ")
-    )
+    "))
   ),
+  tags$br(),
   theme = bslib::bs_theme(
-    version = 5, 
-    base_font = "Roboto Mono Light", 
+    version = 5,
+    base_font = "Roboto Mono Light"
   ),
   fluidRow(
-    tagList(
-      tags$style(
-        # all this css code modify the dates' slider appearance.
-        type = 'text/css', 
-        '#big_slider  {
-        padding-left: 25%;
-        }',
-        '#big_slider .irs-from {
-        font-size: 19px;
-        top:-13px;
-        background-color: #FFFFFF;
-        color: #15202c;
-        z-index:5;
-        }',
-        '#big_slider .irs-to {
-        font-size: 19px; 
-        top:-13px; 
-        background-color: #FFFFFF; 
-        color: #15202c; 
-        z-index:5;
-        }',
-        '#big_slider .irs-min {
-        font-size: 19px;
-        top:-13px;
-        }',
-        '#big_slider .irs-max {
-        font-size: 19px;
-        top:-13px;
-        }',
-        '#big_slider .irs-bar {
-        background: #1c9af1; 
-        border: 0px;
-        }'
-      ),
-      tags$br(),
-      tags$br(),
-      div(
-        id = 'big_slider',
-        sliderInput(
-          inputId = "year_filter",
-          label = NULL,
-          min = min(df$fecha),
-          max = max(df$fecha),
-          value = c(min(df$fecha), max(df$fecha)),
-          dragRange = T,
-          step = 1, 
-          timeFormat = "%B %d, %Y", 
-          ticks = F,
-          width = "60%"
-        )
+    id = "cabecera",
+    tags$br(),
+    column(
+      width = 6,
+      class = "selector-container",
+      dateRangeInput(
+        separator = "a",
+        inputId = "year_filter",
+        label = "Elija el rango de fechas",
+        start = as.Date(min(df$fecha)),
+        end = as.Date(max(df$fecha)),
+        min = as.Date(min(df$fecha)),
+        max = as.Date(max(df$fecha)),
+        format = 'dd  MM  yyyy',
+        language = "es",
+        width = "100%"
       )
     ),
-    selectInput(
-      inputId = "tema_filter", 
-      choices = df$tema %>% unique, 
-      label = "Topic", 
-      selected = df$tema %>% unique
+    column(
+      width = 6,
+      class = "selector-container",
+      selectInput(
+        inputId = "tema_filter",
+        choices = c("Todos", unique(df$tema)),
+        label = "Elija el tema",
+        selected = "Todos"
+      )
     ),
-    selectInput(
-      inputId = "news_filter", 
-      choices = df$periodico %>% unique, 
-      label = "Where it was published", 
-      selected = df$periodico %>% unique, 
-      multiple = T
+    column(
+      width = 6,
+      class = "selector-container",
+      selectInput(
+        inputId = "news_filter",
+        choices = c("Todos", unique(df$periodico)),
+        label = "Elija la fuente",
+        selected = "Todos"
+      )
+    ),
+    column(
+      width = 6,
+      class = "selector-container",
+      searchInput(
+        inputId = "search_box",
+        label = "Búsqueda específica",
+        placeholder = "Escriba su búsqueda...",
+        btnSearch = icon("search"),
+        btnReset = icon("remove"),
+        width = "100%"
+      )
+    )
+  ),
+  fluidRow(
+    column(
+      class = "resultados",
+      width = 12,
+      align = "center",
+      textOutput("counter"),
     ),
     tags$br(),
     tags$br(),
     tags$br(),
-    tags$br(),
-    uiOutput("cards")
+    
+  ),
+  fluidRow(
+    column(
+      width = 12,
+      uiOutput("cards")
+    )
+  ),
+  tags$button(
+    id = "toTopBtn",
+    class = "btn",
+    onclick = "topFunction()",
+    icon("arrow-up")
   )
 )
 
+# Server
 server <- function(input, output, session) {
   filtered_df <- reactive({
-    df %>%
+    search_term <- input$search_box
+    df_filtered <- df %>%
       filter(
         fecha >= input$year_filter[1] & fecha <= input$year_filter[2],
-        tema %in% input$tema_filter,
-        periodico %in% input$news_filter
+        (tema == input$tema_filter | input$tema_filter == "Todos"),
+        (periodico == input$news_filter | input$news_filter == "Todos")
       )
+    
+    if (search_term != "") {
+      search_filtered <- df_filtered %>%
+        filter(
+          str_detect(tolower(titulo), tolower(search_term))
+        )
+      if (nrow(search_filtered) == 0) {
+        return(df_filtered) # Return all cards if search yields no results
+      } else {
+        return(search_filtered)
+      }
+    }
+    
+    df_filtered
+  })
+  
+  output$counter <- renderText({
+    n <- nrow(filtered_df())
+    if (n == 0) {
+      "No hay ninguna fuente con los filtros seleccionados"
+    } else {
+      paste(n, "fuentes encontradas")
+    }
   })
   
   output$cards <- renderUI({
-    tags$div(
-      # this class was taken directly from bootsrap page
-      class = "row row-cols-1 row-cols-md-6 g-4",
-      map(filtered_df()$card, ~.x)
-    )
+    req(filtered_df()) # Asegúrate de que los datos filtrados estén disponibles antes de renderizar
     
+    tags$div(
+      class = "row row-cols-1 row-cols-sm-2 row-cols-md-4 g-4",
+      map(filtered_df()$card, ~ .x)
+    )
   })
-  
 }
 
 shinyApp(ui = ui, server = server)

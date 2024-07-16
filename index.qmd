@@ -8,4 +8,4 @@ format:
 
 # Portada {.unnumbered}
 
-Una ilustración ocupará este lugar
+<img src="img/portada2.png" width="80%"/>

@@ -1,0 +1,442 @@
+---
+lang: es
+format: 
+  html:
+    page-layout: article
+bibliography: data/ano_2023_anexo/bib.bib
+---
+
+# Cocaleros, globalización y luchas democráticas en Bolivia {.unnumbered}
+
+## Resumen 
+
+Se indaga los factores que generan el proceso de ascenso y declive hegemónico de los cocaleros del trópico de Cochabamba, como parte del proceso democrático en Bolivia, subrayando que dicha hegemonía se fundamenta, tanto en factores sociales e históricos internos, como en la demanda y mercado internacional de cocaína y la guerra de baja intensidad de EEUU contra los productores de coca. 
+
+Se apuntan lateralmente algunos rasgos propios de cocaleros de los Yungas de La Paz, que ha experimentado vivencias y presiones similares, en búsqueda de resaltar la identidad propia y particular del sujeto estudiado y lo que particulariza su experiencia.
+
+## Introducción
+
+
+Se inquiere aquí el rol que jugaron y que desempeñan hoy los campesinos productores de coca del trópico cochabambino, en tanto actores del proceso democrático, buscando integrar la confluencia de los factores internos con los internacionales, asumiendo que la globalización[^1] ha definido, con igual peso que los primeros, el nacimiento y evolución como sujeto colectivo, características distintivas de su identidad, igual que el sello característico de algunas de sus principales líneas de acción.  
+
+La gravitación de factores externos, aquí claramente mayor que con otros sujetos y actores, se debe a que la producción de hoja de coca satisface, en mayor medida que los requerimientos particulares y tradicionales de su consumo interno, la ávida demanda de un mercado global que la requiere como materia prima para la fabricación ilegal de cocaína, una sustancia muy representativa de tendencias sociales y culturales del capitalismo. 
+
+En Bolivia, los mayores empresarios locales de producción y tráfico de cocaína[^2] capturaron el poder estatal en 1980, con la dictadura de García Meza, y, de allá en adelante, acompañados de socios externos, no han abandonado su propósito de acumular, con escasos y cortos paréntesis, el máximo de poder económico y político, mediante su influencia y penetración en el estado. 
+
+Los cocaleros del trópico de Cochabamba establecidos en el “centro” geográfico del país, alcanzaron una alta visibilidad pública y predicamento por la intensidad de sus luchas contra para preservar sus cultivos coca y contra el intervencionismo extranjero.  Los cocales venían expandiéndose desde los años setenta del siglo anterior, hasta que, debido al declive de la industria minera nacional, llegaron a ser producto clave de la  el mercado mundial y la ola de globalización que impactó sobre América Latina, a partir de los años 80 del siglo anterior.
+
+Este trabajo intenta presentar una somera visión de conjunto, basada en la consulta de múltiples investigaciones de autores nacionales y extranjeros, focalizando la atención en el camino de construcción de hegemonía que caracteriza la trayectoria política de los cocaleros del trópico cochabambino.
+
+## Orígenes
+
+Son dos las fuerzas principales que posibilitaron que un grupo especializado de agricultores, inicialmente poco numerosos y muy poco conocidos en el resto de la sociedad, llegue a ampliar, en plazo brevísimo, su importancia social y política, hasta convertirse en el engranaje principal de una amplia coalición social y política que destituyó y sustituyó en el control del poder estatal al bloque dominante formado a la sombra de la revolución nacional de 1952 [^3].
+
+La primera es la amplia y vigorosa ola de migraciones internas que, por un lado, aceleró la urbanización del país y, por el otro, empujó masivamente a indígenas y campesinos desde sus comunidades de la zona andina hacia el campo en las tierras bajas del Oriente, Sur y Norte del país. Pesó sobre el flujo migratorio orientado al oriente boliviano, primigenia y básicamente interno, una destacada influencia estadounidense, iniciada con las recomendaciones de la asesoría prestada por el Departamento de Estado de ese país, a través de la misión encabezada por Merwin L. Bohan[^4]  en 1942. 
+
+La colonización dirigida por el estado, hacia las Tierras Bajas del Este, empezando con los gobiernos del Movimiento Nacionalista Revolucionario (MNR), después por las dictaduras militares, hasta llegar a la proyección estratégica que le ha otorgado el Movimiento al Socialismo (MAS) armoniza con la importancia decisiva que tiene en }el plan de desarrollo concebido por los técnicos de la misión Bohan. Esta corriente migratoria también se expresó en el trópico de Cochabamba.
+
+La segunda fuerza, decisiva para la creación del sujeto cocalero del trópico de Cochabamba se imbrica con el  impulso globalizador mundial que también influyó sobre la recuperación democrática latinoamericana, en la década de los ochenta del siglo anterior. 
+
+La recuperación democrática boliviana estuvo precedida de cambios muy profundos, por la irrupción de nuevos sujetos sociales participantes de las luchas democráticas, antidictatoriales, antiimperialistas, de disputa por el poder y del enunciado de nuevas propuestas estatales, fortalecidas en el camino de recuperación y ampliación de libertades y derechos. Los campesinos sobresalen entre los sujetos más activos y de proyección estratégica más nítida, en ese período [@cortez2022, p. 114]
+
+Desde la época de la dictadura de Banzer, es decir hace poco más de medio siglo, y por lo menos hasta el primer quinquenio de los años dos mil, el peso de factores internacionales, de la globalización, se intensificó de una forma muy peculiar en la región andina, desde el momento en que, el centro mismo del sistema de poder internacional, los Estados Unidos, dedicase enormes recursos a una “guerra contra las drogas”, haciendo de la erradicación de coca, el foco de su máxima atención durante el gobierno de Ronald Reagan 1981-89).
+
+De esta forma, la conjunción de estos proceso, más la muy diversa y compleja agregación de luchas internas del país y el colapso del tipo de estado nacido en 1952, han conducido a que, desde 2006 a 2021,  el poder del estado sea ejercido por una organización política representativa de una coalición social, hegemonizada por la alianza entre una fracción campesina autónoma, los cocaleros del trópico cochabambino, con sectores de una nueva burguesía burocrática, originada en grupos de profesionales, académicos y funcionarios jerárquicos [^5]. 
+
+Este núcleo ha sido el referente principal de la convergencia, ideológico, cultural y política de los primeros   con campesinos, indígenas de tierras bajas y altas, cooperativistas mineros y la amplia colección de nuevas clases y fracciones urbanas -nietas e hijas de campesinos migrantes- y otras, con una distinta genealogía social origen, se sienten representadas y expresadas política y electoralmente por el MAS-IPSP.
+
+
+La profundidad y amplitud de la aceptación popular de este proceso se verifica en que el máximo dirigente cocalero, ungido como presidente en tres elecciones nacionales consecutivas (2005, 2009, 2014), y su entorno más cercano, alcanzaron a concentrar poder, político y social, sin parangón en la historia del país.
+
+Juan Evo Morales Ayma, presidente de los cocaleros del trópico cochabambino y, durante catorce años, del Estado, proviene de la dirigencia sindical de los colonizadores de esa región, curtida en años de una guerra de baja intensidad declarada por Estados Unidos y ejecutada por el estado boliviano, contra los cocaleros y la coca.  Esta organización social fue de las primeras que coparon el espacio estatal municipal, abierto por la Ley la Participación Popular, así como actor central de la creación del Instrumento Político por la Soberanía de los Pueblos (IPSP).
+
+Con esa base organizativa compitió y aventajó electoralmente a las organizaciones políticas tradicionales y construyó su papel hegemónico, atrayendo el respaldo de otros sectores, apelando una batería de consignas antiimperialistas, democráticas, pro indígenas, ambientalistas y pro mujer, hasta que consiguió colocarse, a partir del año 2005, a la cabeza del proceso constituyente (1990-2009) que proyectó en la Constitución, ampliamente deliberada socialmente, y aprobada en 2009, una reforma profunda del estado y la sociedad. 
+
+Al cabo de pocos años de su ascenso estatal, el MAS, empieza a tomar distancia, hasta romper e, primero, con los indígenas[^6] de tierras bajas, a partir del conflicto del Territorio Indígena Parque Nacional Isiboro Sécure (TIPNIS) y, a continuación con otros sectores sociales, incluyendo la representación de los indígenas de Tierras altas en Consejo Nacional de Ayllus y Markas del Qullasuyu (CONAMAQ). 
+
+Hasta un cierto punto, esa experiencia replica algunas de las peripecias de la trayectoria social y política del MNR, como instrumento político de la creación y consolidación de la moderna burguesía boliviana. Por su propia importancia y por lo último que acaba de anotarse es necesario afinar el seguimiento histórico y sociológico del sujeto cocalero.
+
+## Campesinos, colonizadores, cocaleros
+
+El bloque nacional popular (ver infra), representado inicialmente por el gobierno del Movimiento Nacionalista Revolucionario (MNR), fue excluido por las fracciones burguesas nacidas de la misma entraña estatal; así, la base popular revolucionaria tomó distancia del MNR, comenzando con la clase obrera. 
+
+La autonomía social y política de los campesinos, clase social emergente de la revolución, frente al MNR avanzó más pausadamente. Desde finales de los años 70  el campesinado empezó a convertirse en punto de referencia de la remodelación del bloque popular que, al cabo de décadas, se ha reestructurado como un conglomerado clases sociales (campesinos, obreros, trabajadores urbanos asalariados y autónomos) y pueblos indígenas. 
+
+Por más de treinta años, la representación política de este bloque se concentró en la Central Obrera Boliviana (COB), con apoyo e influencia de partidos de izquierda. Pero, entre los años 80 y 90, esa conducción colapsó (internamente por el eclipse obrero y el hundimiento del gobierno de la Unidad Democrática y Popular (UDP)[^7]  generando un vacío, cubierto a la postre por movimientos sociales[^8], principalmente indígenas y campesinos, menos afectados por la diáspora proletaria.
+
+Durante este trayecto, durante el que empieza a detectarse el arranque del proceso constituyente (1990-2009), el bloque nacional popular encuentra su referencia central alrededor de dos sujetos colectivos, muy próximos pero diferentes: los indígenas y los campesinos.
+
+La práctica desaparición económica y social de los obreros mineros en los 80, por el cierre de las principales minas estatales, junto a la intensificación de grandes migraciones internas, de tierras altas a tierras bajas y del campo a la ciudad; las actividades de rememoración y rechazo frente al inminente V Centenario del inicio de la conquista española; la gran marcha indígena de tierras bajas, en 1990, con su demanda de cambios fundamentales en las relaciones estado-sociedad (tierra-territorio-dignidad), confluyeron y se exteriorizaron en el rescate y fortalecimiento de una autoidentificación indígena en una incuestionable mayoría nacional, verificada en el censo de población y vivienda de 2001.  
+
+En estas condiciones, las organizaciones de los colonizadores (principalmente familias migrantes campesinas pobres que ocupan nuevos territorios) fueron cobrando, dentro la Confederación Sindical Única de Trabajadores Campesinos de Bolivia (CSUTCB), mayor influencia y gravitación que los movimientos campesinos tradicionales, del Altiplano y los valles. Los cocaleros del trópico de Cochabamba eran ya en ese momento la fracción más organizada y activa de los colonizadores.
+
+Numéricamente, los cocaleros de Yungas y del trópico de Cochabamba, incluyendo sus familias, representan una minoría del campesinado, lo que no ha limitado su capacidad de constituirse en un sector muy representativo del conjunto la clase social campesina, expresando nítidamente sus principales rasgos distintivos: 
+
+1. Su origen étnico y cultural indígena (aymaras y quechuas en su mayoría);
+2. su múltiple inserción laboral, con base y vínculo constante, con la pequeña y mediana producción agropecuaria;
+3. su papel de agentes principales de los mercados de tierra, incluyendo a los que han permitido la expansión de las ciudades, como a los cada vez más dinámicos mercados informales e ilegales en zonas agroexportadoras y cocaleras; y
+4. su centralidad en el mercado del trabajo, como compradores y vendedores de fuerza de trabajo rural y urbana; compra/vendedores y autónomos (cuentapropistas)[^9].
+
+Este conjunto de roles y actividades es un denominador común entre los campesinos bolivianos, que complementan sus ingresos por trabajo agropecuario con actividades productivas y comerciales de distinta índole, (transportistas, artesanos y el más amplio abanico de empleos autónomos). Estas labores se cumplen principalmente en ciudades, donde suele vivir parte o la totalidad de su familia, con lo que tienen creciente peso, vinculación y participación en la vida de los centros urbanos del país. Los empleos a los que acceden o crean, son usualmente precarios y conforman el cuerpo de la economía oculta (o informal) que absorbe más del 80% de la fuerza laboral del país.
+
+La identidad de la clase social campesina, ha ido adquiriendo características propias y distintas a la de su ancestro indígena, con el que mantiene una profunda, contradictoria y vital relación, que no ha inhibido que se labre una identidad propia y diferente de los indígenas contemporáneos [@cortez2023]
+
+El momento de mayor proximidad entre ambos sujetos se ha dado entre los años 90 hasta inicios del siglo XXI; pero, desde el encumbramiento gubernamental del MAS, las diferencias y contradicciones entre ellos se han profundizado al ritmo del avance capitalista del país. 
+
+## Particularidades nacionales y regionales
+
+La coca se produce en tres países de la región andina. Colombia y Perú son actualmente los primeros productores mundiales de coca, Bolivia el tercero; pero, los acontecimientos dejan muy claro que la superficie de los cultivos está lejos de ser el factor decisivo en cuanto a efectos sociales, económicos o policiales[^10] .
+
+En Bolivia, la regularidad y la constancia de políticas públicas, compromisos internacionales y la predisposición estatal predominante a limitar drásticamente la producción de la hoja de coca ha favorecido que los productores se involucren en diverso tipo de conflictos sociales[^11] .
+
+Pero, ni en Perú, ni en Colombia los productores de hoja de coca, eventualmente bien organizados y combativos en ciertas áreas de esos países, se aproximan a constituir un movimiento de la importancia, influencia y proyección social y política que han alcanzado a escala nacional los cocaleros de los Yungas y el trópico de Cochabamba. Esto demuestra que las influencias externas no alcanzan por si solas, a definir cursos y resultados que se les suelen atribuir o esperar de ellas[^12] .  Se toma como principal pista para explicar esta notable diferencia, el gran peso cultural de lo indígena en Bolivia, así como  sus tradiciones organizativas,  sus estrategias anticoloniales, la fortaleza e irradiación social de los campesinos.
+
+La trayectoria política de los cocaleros bolivianos y sus organizaciones se traduce en dos significativos hechos, que destacan al contrastarlos con el primer y segundo productores mundiales de coca (Colombia y Perú). 
+
+- La producción boliviana de coca, (la primera en 1980, ocupa ahora un tercer puesto)[^13] es, entre las tres, la que registra menos oscilaciones bruscas y es la más estable en las tres últimas décadas, según las mediciones que hace la oficina especializada de NNUU en los tres países.  
+
+- Bolivia es el país que registra los menores índices de violencia, entre los países productores de coca, pese al persistente avance de la fabricación de cocaína[^14]  y la presencia y actuación de grupos pertenecientes a carteles internacionales, dentro de sus fronteras[^15]  
+
+```{r}
+#| include: true
+#| echo: false
+#| message: false
+#| warning: false
+
+library(downloadthis)
+source("data/ano_2023_anexo/ano_2023_anexo.R")  
+```
+
+<h3 style="text-align:center">Cultivo de coca en la región Andina, 1994-2003</h3>
+```{r}
+#| include: true
+#| echo: false
+#| message: false
+#| classes: light-mode
+
+tabla_2023_anexo_2
+```
+
+```{r}
+#| include: true
+#| echo: false
+#| message: false
+#| classes: dark-mode
+
+tabla_2023_anexo_2_dark
+```
+
+<p class="fuente">
+Censo de Cultivos de Coca. 2003.UNODC Colombia: p 12 [@unodc2023]
+</p>
+
+<center>
+
+::: columns
+::: {.column width="45%"}
+```{r}
+#| include: true
+#| echo: false
+#| message: false
+#| classes: light-mode
+
+t2 %>% 
+  download_this(
+    output_name = "tabla coca",
+    output_extension = ".xlsx",
+    button_label = " Descargar tabla ",
+    button_type = "warning",
+    has_icon = TRUE,
+    icon = "fa fa-save"
+  )
+```
+
+```{r}
+#| include: true
+#| echo: false
+#| message: false
+#| classes: dark-mode
+
+t2 %>% 
+  download_this(
+    output_name = "tabla coca",
+    output_extension = ".xlsx",
+    button_label = " Descargar tabla ",
+    button_type = "default",
+    has_icon = TRUE,
+    icon = "fa fa-save"
+  )
+```
+:::
+:::
+
+</center>
+<br>
+
+Tomando como fuente las apreciaciones internacionales más pesimistas, las de Oficina de control de Drogas (ONDCP) de la Casa Blanca (EEUU)[^16] , una década después de los años que grafica el cuadro de arriba, Colombia ha ascendido de las 112.000 Has en 2013 a 234.000 en 2021, con un potencial de producir entre 353 a 932 toneladas de cocaína; Perú de 59.500 hectáreas a 84.400, es decir de un potencial de 460 a 785 TM; mientras Bolivia sube de 27.000 Has. (2013) a 39.500 (2021), con un potencial de extracción de 138 TM (2013) a 317 toneladas métricas de cocaína (2021) (Total mundial máximo:  2.034 TM).
+
+## Colonización y producción de coca y cocaína en el trópico de Cochabamba   
+
+Mientras el cultivo de coca en los Yungas de La Paz se remonta a los señoríos aymaras preincaicos [@caj1989], la producción en el trópico cochabambino empezó a cobrar importancia a inicios del siglo XX.  Pero, es recién a partir de lo años 50 que la curva de producción empieza un ascenso sostenido [@salazar2009]. 
+
+A falta de tradición de vínculos comunitarios locales, la pertenencia y militancia en los sindicatos, cubre y sustenta los contactos y redes sociales muy fuertes, que se han tejido al calor de la resistencia ante los embates represivos estatales para erradicar la coca  y demandas por servicios básicos. Como se verá más adelante, esto viene sucediendo desde mucho antes de la migración de obreros mineros, despedidos en la “relocalización” de 1986, lo que cuestiona una idea ampliamente difundida que atribuye la politización y organización en Chapare y Carrasco a la llegada masiva de migrantes mineros, después del cierre de minas en 1986[^17] [@spedding2013].
+
+Los núcleos productores (colonias/sindicatos) del trópico cochabambino (en sus seis municipios: Chimoré, Colomi, Entre Ríos, Puerto Villarroel, Sinahota y Villa Tunari) han sido conformados por familias campesinas migrantes, ahuyentadas por la pobreza y extrema pobreza de sus comunidades originarias [@flores1984].
+
+La suma de oleadas migratorias en los años 60, 70 que se prolongan y masifican en los siguientes años, haciéndose muy intensa en la actualidad. Esta ocupación territorial en ascenso continuo, presenta un paréntesis, con tendencia a la baja, a finales de los años 90, a raíz del recrudecimiento represivo ejercido contra la expansión descontrolada de los cultivos de coca, en la década previa.  En ese momento se presenta una fase de expulsión de población intimidada y amedrentada por la guerra contra la coca, la caída de los precios de la hoja y la parálisis económica de la región.
+
+La colonización del trópico cochabambino proviene cuantitativamente, en más de la mitad, de otras provincias de Cochabamba -incluyendo zonas altas de las que conforman el trópico- y, luego, de Oruro, La Paz, Chuquisaca, Potosí [@flores1984, p.98]. El traslado desde las yermas, altas y frías regiones de las que procede la mayoría, a las tierras ardientes, pletóricas de humedad, biodiversidad y múltiples y desconocidas amenazas (enfermedades, insectos, serpientes, depredadores) requirió de gran audacia de sus protagonistas.  
+
+Esto deja su huella en la combatividad de sus acciones y el tino de su intuición estratégica para sortear y resistir la combinación de la fuerza represiva del estado y la intervención de la mayor potencia militar, con todos sus recursos y tecnología. La violencia de estos choques se manifestó crudamente durante los años de vigencia de la guerra contra la coca igualmente en Yungas, pero en Chapare y Carrasco alcanzó sus puntos más altos y cruentos.
+
+La colonización del trópico de Cochabamba ha estado determinada por las oscilaciones de la demanda internacional de coca[^18] , por la paupérrima oferta de trabajo digno, ingresos y horizonte de futuro de la economía nacional. 
+
+Entre los años 50 a los años 80 se producen al menos cuatro oleadas de migración hacia el trópico cochabambino [@salazar2009]:
+
+>**del nacionalismo revolucionario** (1952-1963) que apoyó los asentamientos espontáneos; (..); **de las dictaduras** (1964-1982), (mediante) programas de colonización semidirigido (1965-1971) y, sobre todo, la colonización espontánea inducida por la pobreza y el **“boom de la coca-cocaína** (1972-(en adelante))”. (El subrayado es mío).
+
+Las diferencias de los tiempos y tipo de migración entre las regiones cocaleras, con sus efectos e influencias culturales y políticas, dependen en alto grado de su ubicación geográfica. Las zonas de producción de coca en los Yungas de La Paz se distribuyen alrededor de la azarosa carretera entre La Paz y el Beni, un eje hasta hoy secundario en la economía del país, en tanto que los centros de producción en Cochabamba “cabalgan” sobre la vía caminera más importante del país, Santa Cruz-Cochabamba. Los bloqueos y movilizaciones de los cocaleros del Chapare-Carrasco afectan de manera directa e inmediata la principal vía económica del país, mientras que en Yungas tienen un impacto menor.
+
+La zona cocalera de Cochabamba está instalada en una frontera entre los colonizadores y los pueblos indígenas que habitan el Territorio Indígena y Parque Nacional Isiboro-Sécure (TIPNIS). En ella se manifiesta una tendencia de los colonizadores a extender, sin pausa ni tregua, la ocupación territorial, mediante un persistente avance campesino sobre el territorio indígena. Así ha nacido el mayor conflicto de los colonizadores, resueltamente apoyados por el estado, con los pueblos del TIPNIS, por el avance de una carretera (Villa Tunari-San Ignacio de Moxos) diseñada para atravesar y dividir el territorio indígena y parque nacional, abriéndolo a nuevas oleadas colonizadoras[^19].
+
+Si bien las mayores tensiones ocurren en la zona ocupada por la colonización más reciente, el empeño por construir la carretera del propio expresidente Morales Ayma y sus más cercanos colaboradores, bajo una estrategia estatal de neocolonización territorial –supuesta (y dudosamente) “para hacer retroceder a la oligarquía de Oriente”-, que sintoniza con la tendencia de los cocaleros más prósperos del trópico de Cochabamba a diversificar sus capitales cocaleros hacia otros rubro (comercio, transporte, construcción, acuicultura, ganadería y cultivo y exportación de oleaginosas, caña de azúcar).
+
+La diversificación y reproducción ampliada de capital originado en la coca es visible al recorrer la carretera que atraviesa el trópico de Cochabamba, donde se observa una febril actividad productiva y comercial, acompañada de una irrefrenable ampliación de áreas urbanizadas. Esto contrasta con el aislamiento relativo de los centros urbanizados en Yungas[^20] , donde también existe una multiplicación de negocios y parque automotor, como parte de las ganancias que se obtiene de la coca, pero, sin la articulación y fluida relación de la región cocalera cochabambina que se proyecta sobre Santa Cruz y el Beni.
+
+## Modelo económico, intervención extranjera y cultivo de coca
+
+La gran movilización territorial campesina, a partir de la reforma agraria de 1953, en búsqueda de mayores ingresos, calidad y oportunidades de vida, se perfila como la herencia económica y social más duradera de la revolución de 1952.  En gran parte espontánea, conecta perfectamente con los planes basados en las principales recomendaciones del diseño que elaboró la misión de cooperación norteamericana encabezada por Merwin Bohan (1941) y, en 1956, el plan Eder de ajuste financiero, a cargo del Fondo Monetario Internacional (FMI). 
+
+La intención general de ambas propuestas es un avance modernizador capitalista, con base a intensificar y diversificar la extracción de recursos naturales, industrializar (enfatizando la agroindustria y metalurgia), ocupar los amplios territorios del este y el norte, expandiendo la economía y los mercados.  
+
+Son los pilares del modelo económico desarrollista[^21]  que, en sus diversas variantes, más liberales unas, o más estatistas las otras, constituyen el meollo de los programas gubernamentales, del MNR al MAS, o de las dictaduras al MIR, sin solución de continuidad hasta el presente.
+
+El conjunto de las migraciones campesinas han expandido y consolidado el mercado interno y, bajo ese manto, ha permitido la ampliación de la presencia territorial del estado.
+
+La combinación de migraciones espontáneas y las dirigidas, o patrocinadas por el estado explica el notable incremento de la población en el trópico cochabambino que, gracias a su mayor productividad y cantidad de cosechas anuales de coca -en comparación con los Yungas paceños- ha pasado a ser el primer productor y comercializador de coca del país, aunque representa 1/3 de la superficie cultivada, frente a la de Yungas (y Norte) de La Paz.
+
+<h3 style="text-align:center">Estimación del valor de la producción de la hoja de coca en las regiones de monitoreo considerando los precios de mercados autorizados</h3>
+```{r}
+#| include: true
+#| echo: false
+#| message: false
+#| classes: light-mode
+
+tabla_2023_anexo_1
+```
+
+```{r}
+#| include: true
+#| echo: false
+#| message: false
+#| classes: dark-mode
+
+tabla_2023_anexo_1_dark
+```
+
+<p class="fuente">
+Censo de Cultivos de Coca. 2003.UNODC Colombia: p 12 [@unodc2023]
+</p>
+
+<center>
+
+::: columns
+::: {.column width="45%"}
+```{r}
+#| include: true
+#| echo: false
+#| message: false
+#| classes: light-mode
+
+t1 %>% 
+  download_this(
+    output_name = "tabla coca2",
+    output_extension = ".xlsx",
+    button_label = " Descargar tabla ",
+    button_type = "warning",
+    has_icon = TRUE,
+    icon = "fa fa-save"
+  )
+```
+
+```{r}
+#| include: true
+#| echo: false
+#| message: false
+#| classes: dark-mode
+
+t1 %>% 
+  download_this(
+    output_name = "tabla coca2",
+    output_extension = ".xlsx",
+    button_label = " Descargar tabla ",
+    button_type = "default",
+    has_icon = TRUE,
+    icon = "fa fa-save"
+  )
+```
+:::
+:::
+
+</center>
+<br>
+
+La ocupación masiva del trópico de Cochabamba obedeció inicialmente a políticas de estado. Entre 1956 a 1960, a raíz de una grave crisis económica nacional, se ejecuta el plan Eder de estabilización del Fondo Monetario Internacional (FMI) que incluía la colonización dirigida de un total de 90.000 familias campesinas para aprovechar 1.687.500 hectáreas, en tierras bajas, que incluyen al Chapare [@unodc2022b].
+
+Al mismo tiempo, EEUU nunca dejó de presionar y condicionar, cualquier apoyo o ayuda, a que las tierras colonizadas, debían excluir el cultivo de coca o eliminarlo. Estas directrices tornaron hacia un impulso militarista desde que EEUU declaró su guerra contra las drogas (GCLD) en 1971 [@labrousse2012].
+
+La proscripción de la coca, por presión directa de EEUU y la casi totalidad de organismos internacionales, incluyendo en primer lugar NNUU y varias de sus agencias[^22] , que actuaron en este espacio como intermediarios o administradores de la estrategia de la GCLD, contribuirá a moldear el perfil de la movilización de colonizadores y sus organizaciones, antes de que cobren visibilidad en la escena política, como fracción autónoma de clase.
+
+La GCLD se ha desarrollado globalmente permeando lo económico, político y cultural, aunque sin jamás convencer ni a los más entusiastas, porque mientras más gastó, presionó y movilizó tropas, los resultados fueron más adversos y el tráfico más vigoroso, violento y extendido[^23] .
+
+Más del 70% de los recursos del mercado de las drogas ilícitas termina en la banca, entidades financieras y empresas de los países centrales -EEUU y los europeos-[^24]  de manera que la GCLD y en general las políticas prohibicionistas benefician objetivamente, en primer lugar, a los grupos criminales de traficantes y a sus intermediarios financieros, lavadores de activos e inversores en empresas legales. Pero, por encima de los balances y desequilibrios económicos y sociales de la GCLD está su utilidad política y geopolítica, ya que con ella se justifican cruzadas de todo tipo cuyo fin último es la preservación del poder hegemónico de quienes la impulsan [@ceres1993, p.7]. 
+
+## Construcción y asentamiento de la hegemonía cocalera 
+
+La capacidad de resistencia de los cocaleros obligó a los gobiernos a negociar y otorgar concesiones a los movilizados, en contraste con otros sectores sociales, silenciados y maniatados por la represión.  
+
+La lucha puramente corporativista y sectorialista por la defensa de la coca, que comparten con los campesinos comunarios de los Yungas paceños, empezó a convertirse gradualmente en una reivindicación general frente a las imposiciones foráneas y a la sumisión del estado boliviano ante ellas, a consecuencia de la omnipresencia de la GCLD.
+
+En consonancia con ese cambio del sentido común colectivo, la dirección cocalera rompe la burbuja de sus demandas exclusivas, enfatizando su sentido nacional y antiimperialista, mientras intensifica su participación en los reclamos democráticos generalizados. Utiliza la participación electoral y parlamentaria de su instrumento político en plataforma de construcción de un perfil propio, que ensancha canales de relación con otros sectores populares. Difunde simbologías y mecanismo de comunicación de entendimiento entre los sectores cocaleros, de ellos con todos los campesinos y con el conjunto de sectores populares [@komadina2007]
+
+En pos de atemperar la resistencia que produjo el enfoque militarista y represivo, las acciones policiales y militares contra los cultivos de coca se acompañaron de planes de “desarrollo alternativo” que ofrecían compensaciones, indemnizaciones y opciones productivas para sustituir a la coca, como describe el Plan Trienal de lucha contra el narcotráfico (1986), presentado por el gobierno para obtener financiamiento internacional. 
+
+Casi todas las evaluaciones independientes coinciden en que la política de desarrollo alternativo jamás pudo alcanzar sus objetivos explícitos, debido la estrechez de su financiamiento; a la cara y frondosa burocracia nacional e internacional que derrochaba recursos, ignorancia e insensibilidad o, simplemente, su incapacidad para comunicarse y ganar la confianza de los campesinos
+
+Queda como cuestión a investigar hasta qué punto la prolongada y compleja negociación cocaleros-estado ha influido para que la producción de coca en Bolivia nunca volviera a elevarse hasta lo más altos niveles que alcanzó a principios de los años 80 y mantenga hasta ahora una mayor estabilidad, en comparación con los otros países productores.
+
+El rostro más negociador, no carente de represión, del desarrollo alternativo se manifestó en Yungas, en tanto que su faz represiva primó en Chapare y Carrasco. 
+
+Durante el período de 1986 a 2002, año en que la reducción de cocales llega su máximo nivel, la dirigencia cocalera se entrena al máximo en el ejercicio combinado de la resistencia frente a la guerra, con una línea de negociación que le permitía anotarse puntos ante los demás sectores populares y la opinión pública.
+
+Desarrolla al mismo tiempo una vigorosa y constante política de alianzas que pone de su parte a la CSUTCB y a la COB, entre las principales organizaciones sociales que empiezan a respaldarlos. El recuento de muertos, heridos, apresados, perseguidos y desvalijados que acumula en la guerra de las autoridades y sus mandantes contra la coca, sensibiliza al público. Fernando Salazar O. contabiliza 95 muertos civiles y 28 uniformados, entre 1998 a 2004, [@salazar2009, p.356]
+
+La fuerza de su movimiento sobresale entre los campesinos, pero, con criterio estratégico, los cocaleros no pugnaron por lograr los principales puestos de la CSUTCB, ni siquiera en los momentos de mayor crisis y desorden interno de la confederación campesina.  Optaron más bien por fortalecer sus propios sindicatos y federaciones, afianzando su gravitación en la Confederación de colonizadores, con una disciplina cada vez mayor, más vertical y centralizada, en la línea que impulsa la conducción de Evo Morales Ayma, cuya continua exposición en los medios de difusión masiva lo consagran como cabeza y símbolo del movimiento.
+
+El proceso que despeja el camino para que los colonizadores cocaleros del trópico cochabambino, logren hegemonizar al bloque popular presenta dos características originales.  La primera engloba el repertorio táctico-estratégico con que sus dirigentes participan de la creación en la Asamblea por Soberanía de las Pueblos[^25]  (ASP), para llegar en poco tiempo a copar su dirección para utilizarla como puntal de la creación de Instrumento Político para la Soberanía de los Pueblos (IPSP), antecesor del MAS.
+
+Este paso concreta la reiterada aspiración de sindicatos y la propia CSUTCB de contar con un “instrumento político propio”, libre del control de partidos tradicionales y de cualquier otra influencia, tal cual se afirma en el VI Congreso nacional de la CSUTCB (citado por Zuazo, 2009: 31).
+
+La obstinación de las seis federaciones del trópico y, en especial, la de su perpetuo y supremo presidente, Juan Evo Morales Ayma, en crear y mantener al “instrumento político”, distingue a los cocaleros cochabambinos de cualesquier otra fracción campesina, igual que la de las demás clases sociales subalternas y pueblos indígenas.
+
+La presencia política y electoral del IPSP/MAS establece un viraje sustantivo en la construcción democrática del país, donde las demandas de democracia participativa y directa, así como la de “desmonopolizar la representación política” que hacen parte del proceso constituyente parecen cada vez más alcanzables. Desde el momento que una fracción campesina, inicialmente y, a continuación, el bloque nacional popular, cuentan con una organización que encabeza y canaliza sus demandas, los partidos de las clases dominantes marchan hacia su desintegración y las asociaciones de “intelectuales orgánicos” que quisieron representar la “conciencia de clase o el pensamiento científico de la clase revolucionaria”[^26]  pierden el espacio paternalista que ocupaban desde principios del siglo XX.
+
+Esta determinación autónoma, de una clase social clásicamente considerada tradicionalista y conservadora por el pensamiento marxista convencional, es intrínsecamente distinta a los prolongados intentos del sindicalismo obrero revolucionario boliviano y la izquierda partidista del país por imaginarse o tratar de convertir a la COB (sindicato de sindicatos) en un “órgano de poder” ejecutor de la revolución y molde orgánico de una nueva estructura estatal.
+
+La creación del IPSP-MAS corrobora que los campesinos percibieron durante años la profunda crisis de representatividad de los partidos políticos, incluyendo al MNR que fue por décadas su referente, y la caducidad de los modelos paternalistas imperantes en la izquierda y muchas ONG, conducidas por expertos, técnicos o académicos. Sin embargo, el MAS supo sacar el máximo provecho de ONG abocadas al trabajo con campesinos e indígenas, para, después, durante su gobierno controlarlas hasta la asfixia, cuidando de que no reediten la experiencia que las llevó a acunarlo en sus inicios [@cortez2022]
+
+La segunda peculiaridad del movimiento cocalero es que en un período de pocos años supera los linderos del discurso propio y particular de su sector (defensa de sus cultivos) haciéndolo parte de una narrativa antiimperialista amplia, que recoge su experiencia, multiplicándola al reivindicar a los pueblos indígenas, como base y sustancia de la nacionalidad y su peculiar pluralidad en Bolivia. Suma a lo anterior el repertorio simbólico y narrativo del nacionalismo revolucionario y la izquierda, referido a la defensa de los recursos naturales. 
+
+Desarrolla al mismo tiempo una vigorosa y metódica política de alianzas que pone de su parte a la CSUTCB y a la COB, entre las principales organizaciones sociales que empiezan a respaldarlos. 
+
+La ofensiva bélica norteamericana contra la coca y los cocaleros se aplicó celosamente desde 1985 hasta los primeros tres años del nuevo siglo. La embajada de EEUU y la DEA llegaron a fundirse en una sola representación en el imaginario popular, porque la intervención se hizo tan descarnada y directa, que la diplomacia y sus protocolos sucumbieron ante las órdenes abiertas, las “certificaciones” que calificaban al país sobre si era apto o no para esto o lo otro (ayuda, comercio, contratos); o la otorgación de visas como estímulo o castigo [@labrousse2012]. La aversión contra las imposiciones se hizo tan marcada que pasó de las marchas y manifestaciones los grafitis callejeros: Gringos, erradiquen sus narices (no la coca) y a la música “Que la DEA no me vea que causa estrés” (Atajo).
+
+En esta intersección de contradicciones internas, donde sobresalen los rigores del ajuste estructural, el desempleo y el debilitamiento sindical y concurren con la presión imperial abierta, la defensa de la hoja de coca, previamente restringida a las zonas productoras y al reclamo de un gremio trasciende a cuestión nacional [@komadina2007], lo que coloca a los cocaleros como la expresión concreta y tangible de resistencia antiimperialista y antineoliberal.
+
+El MAS que desde su fundación concentró gran parte de sus esfuerzos en la arena electoral, catapulta a la cabeza del Gobierno, con el respaldo electoral de una inequívoca mayoría absoluta nacional, al presidente de las Federaciones del trópico de Cochabamba, en diciembre de 2005[^27].
+
+Con el explícito objetivo de elevar la convocatoria electoral a un prolongado triunfo “en las mentes y corazones”, el nuevo jefe de Estado, opta por autoidentificarse como indígena[^28] , no como campesino, o colonizador[^29]. Desanda intencionadamente, el recorrido de los indígenas aymaras y quechuas que con la revolución nacional de 1952 acogieron,entusiastas, la invocación del MNR para dejar en el pasado la identidad de indio/indígena y adoptar la de campesino. La reivindicación de la identidad indígena capta una muy patente determinación pro autónomica de una mayoría nacional, durante el proceso constituyente.
+
+En los primeros cinco años de su gobierno, el nuevo régimen, representante del bloque popular encabezado por el MAS, abrió el arco de sus alianzas, dando espacio a reivindicaciones de otros sectores, en particular a las de pueblos indígenas.  De ese modo la nueva Constitución Política del Estado (CPE), al mismo tiempo que consagra a la coca, expresa propuestas principalmente sustentadas por organizaciones indígenas, como: la aspiración de un modelo de desarrollo compatible con el respeto a la naturaleza; la más amplia descentralización y la vigencia de autonomías territoriales; la participación y control social; el reconocimiento de que la propiedad de los recursos corresponde al pueblo boliviano y no del estado, que tiene el papel de administrador y muchas otras [@unitas2010]. Durante esa fase inicial de gobierno se ejercita una ampliación de libertades, derechos colectivos y civiles, con funcionamiento de espacios participativos[^30].
+
+## Del repliegue a la marginalización 
+
+La proclamación de  una honda reforma estatal, representativa de amplios sectores populares, bajo un núcleo de hegemonía cocalera, ocurrió en una situación de cambios rápidos y profundos, global y localmente. 
+
+El poder de EEUU ha retrocedido en América Latina, donde el principal socio comercial y financiero es ahora China y dónde Rusia e Irán han conseguido aliados, incentivando el deseo norteamericano por recuperar terreno perdido y acceder a recursos como el litio, las “tierras raras” y otros, como lo ha reconocido abiertamente la comandante del Comando Sur recientemente[^31].
+
+En Bolivia, la etapa de apertura y ampliación democrática se desenvolvió con contradicciones desde un inicio. La voluntad del núcleo hegemónico permitió la aprobación de una CPE de avanzada, pero, la amplitud de los acuerdos en que se sustentan han ido estrechándose, como lo evidencia la cadena de atropellos de todos los órganos estatales contra la CPE, de manera muy visible a partir del segundo mandato presidencial [@cortez2023]
+
+El instrumento (MAS/IPSP), donde la dirigencia cocalera tiene la última palabra, empezó desde 2010 a deshacerse de sus aliados políticos y sociales como los indígenas. La prácticas iniciales de búsqueda de consenso y acuerdos igualitarios ha transitado hacia una práctica de cooptación de la dirigencia de las mayores organizaciones sociales (principalmente las campesinas, las de cooperativistas mineros, transportistas) y de división de las que no se someten.  
+
+El caudillismo extremo, la ocupación forzada, gran parte de veces, de todos los espacios estatales y la determinación de permanecer indefinidamente en el poder, hicieron crisis en 2016 (derrota en referendo popular) y en 2019, causando la fuga de las cabezas del Gobierno. Un año después el MAS pudo retornar al control del poder del estado, con una victoria de 55% de votos.
+
+El regreso alivió brevemente la crisis política[^32]  que ahora afecta la unidad del MAS y de su base corporativa, cuyos dirigentes pugnan por recuperar y acaparar privilegios.  Una prueba categórica de la inestabilidad política y el resquebrajamiento hegemónico es la intensificación de la persecución política y judicial, aplicada no sólo a dirigentes políticos contrarios, sino a los de organizaciones sociales, incluyendo a los cocaleros de Yungas, a los que trata como enemigos, desde que se aprobó la Ley 906, de la coca, que confiere igual legitimidad a la producción del trópico de Cochabamba que a la de Yungas.  
+
+El desmoronamiento hegemónico, dentro del MAS-IPSP y del conjunto de la sociedad también está íntimamente ligado al descenso, casi vertical, de la presencia física e influencia de la intervención estadounidense (y con ella de la GCLD), dado el enfriamiento y distancia entre el gobierno de Morales Ayma, desde su inicio y con un pico dado por la expulsión del embajador de EEUU 2011 y de la DEA en septiembre de 2008. Con el tiempo, esta ausencia directa desgasta la potencia del simbolismo antiimperialista que los cocaleros estampaban como firma en sus alianzas con otros sujetos sociales y socava la narrativa del gobierno, cuando busca atribuir todos sus problemas y tropiezos al imperialismo[^33]  
+
+La intensa y constante presencia política del máximo dirigente cocalero de Cochabamba, en su papel de expresidente de Estado, igual que la adhesión sin fisuras de las Seis Federaciones del Trópico a las acciones de Morales A., incluyendo su papel en la fragmentación del MAS/IPSP, tiene efectos sobre la percepción colectivo frente a los cocaleros de Chapare. Ahora es bastante más probable que sean identificados como privilegiados (por inversión pública, poder político y la importancia económica de la hoja de coca), que con la imagen de quien puede enfrentar exitosamente al imperio[^34]  y rodearse de sujetos aliados. 
+
+Las bases del poder hegemónico construido por este sector se han debilitado externa e internamente, al compás del crecimiento de sus demandas e imposiciones corporativistas (toda experiencia del TIPNIS), su respaldo incondicional a políticas gubernamentales contra otros sujetos sociales y, desde luego, a la difuminación  de la GCLD de la escena política nacional y regional, al mismo tiempo que cobran fuerza inusitada la presencia y violencia de los grupos transnacionales de traficantes de drogas ilegales.
+
+El cuasi enclaustramiento del expresidente en Villa Tunari, corazón geográfico y político del territorio cocalero cochabambino, representa con fidelidad una nueva relación de fuerzas, donde se acumulan los datos de la ausencia de los cocaleros en el núcleo hegemónico y la tendencia de que lleguen inclusive a resultar marginales dentro del bloque social que controla el estado desde 2006. 
+
+## Bibliografía
+
+::: {#refs}
+:::
+
+## Notas
+
+[^1]: Y, antes y con ellos, planes de “desarrollo” norteamericanos y de organismos internacionales, elaborados para el país y la región
+
+[^2]: Roberto Suarez Levy, el más célebre, no el único, optó por un alto perfil público que difundió ampliamente su imagen y dichos
+
+[^3]: Conformado por los sectores financiero, minería, agroexportadores, cúpula militar y la alta gerencia empresarial y estatal.
+
+[^4]: El explosivo crecimiento de Santa Cruz -departamento y ciudad-, el modelo agrícola allá predominante son también parte de las consecuencias vinculadas al Plan que dejó como legado esa misión “de cooperación”, además de su profundo calado en las concepciones de desarrollo de casi todas las organizaciones políticas bolivianas; desde ese entonces hasta el presente.
+
+[^5]: Procedente, en su casi totalidad, de la pequeña burguesía urbana, especialista o estudiosa de Ciencias Humanas, principalmente Derecho, Política, Economía, Comunicación Social. Desde sus puestos gerenciales manejan grandes recursos estatales, con gran discrecionalidad, para dedicarse, en múltiples casos,  a un posterior tránsito al sector privado, como ejecutivos y/o propietarios (de allí su caracterización de burguesía).
+
+[^6]: Aquí se circunscribe el uso de la categoría indígena a individuos y comunidades que habitan sus tierras comunitarias de origen (TCO). Ellos constituyen la mayoría de las treinta seis naciones a las que se refiere la Constitución Política del estado (CPE); su población total, incluyendo la de tierras altas y bajas, se mueve en torno al 3% de la del país (cálculo propio con base a proyecciones del INE). Los campesinos son trabajadores multiempleo, incluyendo producción agropecuaria, de origen indígena, quechua y aymara principalmente, que en muchos casos alternan su residencia entre el campo y las ciudades; sus familias en muchos casos residen en ciudades.  Los campesinos, junto a los obreros y la a mayor parte de clases medias urbana, que se han originado en familias campesina,  superan holgadamente el 80% de la población total (Ibidem).
+
+[^7]: E internacionalmente por la caída del socialismo “real”
+
+[^8]:Reservo esta denominación a la acción directa e iniciativas de agrupación espontánea que plantean demandas, reclamos, reivindicaciones o propuestas. Nacen ante la falta o estrechez de canales de representación (partidos, sindicatos u otras instituciones similares) y suelen extinguirse con la satisfacción o derrota del planteamiento que los nucleó. Son distintos a las organizaciones sociales (sindicales, gremiales) con las que pueden actuar conjuntamente, sinérgica o contradictoriamente.
+
+[^9]: En término de superficie de cultivos  superficie de cultivos, Naciones Unidas cuantificó l, en 2021, la existencia de una superficie de 30.500 Has (unas 19.000 en Yungas y más de 11.000 en Cochabamba). Esto es un 38% más de las 22.000 Has que autoriza la ley vigente y más del doble que, de acuerdo a las estimaciones más sólidas, se requieren para atender la demanda legal interna (unas 12.000 hectáreas). Según mis cálculos el número total de productores sobrepasaría los 120.000 productores, rondando, con sus familia, el medio millón de habitantes, es decir una minoría equivalente al 15% de la población rural  boliviana (y  todavía más pequeña si se acepta la denominación de campesino aquí propuesta). 
+
+[^10]: Así lo ratifica, que grupos como el Primer Comando Central o el Vermelho en Brasil -que no es productor de hoja- tengan un papel cada vez más significativo en materia de acopio, distribución, comercialización y exportación mundial de cocaína. Minorías demográficas como los trabajadores mineros, antes y ahora los cocaleros en Bolivia, tienen mejores posibilidades de destacar social y política porque sus productos exportables tienen un protagonismo económico que no se da en otros países. Por encima de eso, está la raíz indígena y su larga y peculiar experiencia en nuestro caso.
+
+[^11]: El Estado Plurinacional de Bolivia denunció la Convención de Viena en junio de 2011 y volvió a adherirse a ella a fines de ese año, con una reserva formal al artículo de la Convención que penaliza a la coca en estado natural.
+
+[^12]: Que suponen, por ejemplo, que la situación presente de Nicaragua o Venezuela puede definirse por organismos internacionales o cualquier otro agentes externos.
+
+[^13]: Aproximadamente un 13% del total en 2022, según UNODC.
+
+[^14]: No es fácil segregar la violencia atribuible principal o exclusivamente a la fabricación de cocaína, de otras causas que han generado escaladas de distinta duración e impacto general. Por ejemplo, Ecuador, con un papel muy secundario en la producción de hoja, experimenta ahora una progresión brutal de violencia, atribuida por autoridades y medios de difusión, a disputas de bandas de traficantes de cocaína.
+
+[^15]: Hernández, H. Homicidios en América Latina y el Caribe: magnitud y factores asociados, en revista Notas de Población N ° 113 • julio-diciembre de 2021 • págs. 119-144. CEPAL. México dónde no se produce cocaína, pero sí otras drogas, y que es el principal puerta de ingreso de la cocaína andina   es el epicentro, desde que se militarizó la lucha antidrogas, hace casi dos décadas, con desparecidos y asesinados por encima de los 100 mil, secuestros, torturas, coptacopn a gran escalade militares, policías de todos los niveles, políticos, jueces, fiscales, etc., etc
+
+[^16]: ONDCP Briefing Room, “ONDCP Releases Data on Coca Cultivation and Production in the Andean Region”, White House Government. [Click](https://www.whitehouse.gov/ondcp/briefing-room/2022/07/14/ondcp-releases-data-on-coca-cultivation-and-production-in-the-andean-region/) para acceder al documento (consultada el 9 de mayo de 2023).
+
+[^17]: Hay varios estudios que muestran que el sindicalismo campesino se inspiró en los sindicatos mineros y trató de imitar su solidez y eficacia de lucha, desde los años 30 del siglo pasado. Los migrantes-colonizadores campesinos siguen esa tradición mucho antes de la “relocalización”: La idea que esta modificó o “moldeó” al sindicalismo cocalero no aporta pruebas factuales.  La estabilidad poblacional de Yungas de La Paz, matizada ocasionalmente por el avance de población citadina en algunas poblaciones no trastoca la fortaleza de la influencia comunitaria y sindical, en esa región. Más bien, ha llegado a hacerse hegemónica en algunas localidades, antes controladas por la clase media urbana gracias al poder económico de la producción y comercio de coca, muy notoriamente en los treinta últimos años [^@spedding2013]
+
+[^18]: Es unánime la opinión de los estudiosos respecto a que la demanda para acullicu (masticado) busca invariablemente a la coca yungueña; inclusive en el Chapare, debido a sus características (“más dulce” y “suave al paladar”).
+
+[^19]: La influencia política decisiva de los colonizadores se refleja en la obstinación estatal para doblegar la resistencia indígena, parapetado tras un discurso desarrollista y “modernizador” recalcitrante, que el MAS solía calificar de colonialista, cuando era empleado por el bloque dominante empresarial. El Gobierno hegemonizado por cocaleros se ha mostrado abierto a las demandas de los agroexportadores, que operan con capital financiero altamente transnacionalizado, pero esa buena voluntad estatal choca con el límite de los demás sectores del bloque popular que tienden a rechazar el uso de OGM y los tóxicos asociados a estos, así como el avance constante de las fronteras agrícola y ganadera y el tráfico ilegal de tierras en que se sustenta [^@cortez2022]
+
+[^20]: Existe una posibilidad importante, que no he podido documentar, de que la influencia económica yungueña, más directa e importante -sin descartar otras- se proyecte sobre la ciudad de El Alto que manifiesta una fisonomía tan activa como la que se observa en el trópico cochabambino.
+
+[^21]: Ya sea para independizarse, para buscar un horizonte poscapitalista, o para imitar el avance de las potencias occidentales, la ideología desarrollista que campea en el continente, trata -sin lograrlo- de combinar extracción y exportación de materias primas con una industrialización fr los siglos XIX o XX– a la europea, o estadounidense, o de tipo stalinista. El resultado ha sido invariablemente el avance y consolidación de un capitalismo rezagado, con escasa industrialización y un enorme retraso tecnológico, mayor o menor según los casos, pero siempre creciente, comparado con las economías centrales.
+
+[^22]: desde 1948 las Naciones Unidas ordenaron una investigación sobre la hoja de coca en Bolivia y Perú, respaldada por seguidores locales, como el caso del médico peruano Carlos Gutiérrez Noriega”, Según ese estudio, impregnado de prejuicios y un claro sesgo racista (Becerra, 2021:61), la masticación de coca produce “bajos índices de inteligencia, poca memoria, incapacidad para expresarse hasta los límites de la subnormalidad” [^@meza2013]
+
+[^23]: En su informe globa l 2022, UNODC afirma que la producción mundial de cocaína trepó en 2021 hasta alcanzar “las casi 2.000 toneladas métricas (el doble que en 2015)” y que “el cultivo de coca se incrementó 35% entre 2020 a 2021, el “mayor incremento interanual, desde el año 2016”. Según esta agencia de la ONU el 60% de la producción mundial de coca proviene actualmente de Colombia, el 26% de Perú y el 13% de Bolivia. Como contraparte, el mismo informe evalúa que frente a los 50.000 millones de dólares que rinde ese mercado allá, las pérdidas por descenso de productividad y daños a la salud pública se elevan a los 116.000 millones anuales, a los que deben sumarse los miles de millones en represión, armas, cárceles.
+
+[^24]: [Click](https://www.incb.org/documents/Publications/AnnualReports/Thematic_chapters/Spanish/AR_2002_S_Chapter_I.pdf) para acceder al documento  (verificado junio 2023)
+
+[^25]: Veliz Lazo, Alejo, ASAMBLEA POR LA SOBERANIA DE LOS PUEBLOS: ¿Qué es la Asamblea por la Soberanía de los Pueblos?. [Click](https://www.angelfire.com/ca/pueblosoriginariosbo/) para acceder al documento.(consultado el 09 de mayo de 2023). 
+
+[^26]: Prácticamente todos los procesos mundiales de socialismo “obrero” u “obrero y campesino” han sido tuteladas y controladas por intelectuales de la pequeña burguesía, quienes han justificado su posición dominante (que suele ser antesala de su conversión en burguesías burocráticas de estado y, de allá, a burguesía empresarial simple) afirmando que se “desclasan” o “proletarizan”, por su adscripción ideológica al proletariado. Este mismo fenómeno terminó por imponerse en el MAS, ya que gran parte los funcionarios y académicos que se alían con Morales Ayma, se convierten en una especie de séquito del caudillo, posición que emplean terminan para copar la conducción efectiva del estado, ocupan las gerencias de sus empresas y beneficiarse familiar e individualmente.
+
+[^27]: El decreto de nacionalización de los hidrocarburos en 2006, la expulsión de la DEA de Bolivia en 2008, junto a una larga cadena de decisiones diplomáticas independientes, y muchas abiertamente contrarias a posiciones de EEUU, son parte de una larga colección de acciones antiimperialistas del régimen del MAS. Una señal de revancha y castigo a esa actitud  -entre otras- se produjo en 2013 cuando Washington y aliados europeos suyos, hostigaron al avión en que viajaba Morales  de retorno a Bolivia (desde Rusia), no permitiéndole que aterrice para repostar combustible en Europa, porque supuestamente llevaba de contrabando a Edward Snowden. 
+Ver BBC Mundo “¿Fue legal desviar el avión de Evo Morales?”, BBC Mundo, 03 de julio de 2013, disponible [aquí](https://www.bbc.com/mundo/noticias/2013/07/130703_bolivia_europa_derecho_internacional_espacio_aereo_men) 
+
+[^28]: El origen de ese cambio de perspectiva se relaciona con la huella que deja la rememoración del centenario V de la conquista española, el profundo impacto causado por la marcha de los pueblos indígenas de tierras bajas en 1990 y un ánimo colectivo que se expresó en el censo de 2001 en la autoidentificación de casi 2/3 de la población boliviana con alguno de los pueblos indígena del país (NOTA).
+
+[^29]: Con el respaldo de la Confederación de colonizadores, estos renuncian a esa identidad histórica (bajo la idea de romper cualquier relación, con lo colonial y el colonialismo, adoptando para sí el ambiguo y confuso nombre de interculturales. El cambio no modifica ni el origen, tradiciones y cultura del sector, porque su tendencia a ocupar nuevos territorios, expandir las fronteras agroganaderas y el mercado de tierras ha cobrado un impulso vigoroso, con pleno respaldo estatal, conduciendo a conflictos cada más frecuentes y duros con indígenas y hasta con empresarios del agronegocio que han sido sus cercanos aliados en esta última década.
+
+[^30]: Económicamente, el país, como casi todos los países del continente logra avances claramente perceptibles en esa época de bonanza. Bolivia destaca en la disminución de pobreza e indigencia, descenso de la desigualdad y estabilidad macroeconómica. CEPAL 2014, Panorama Social de América Latina, CEPAL, disponible [aquí](https://www.cepal.org/sites/default/files/presentation/files/150126_presentacion_panorama_social_distribucion.pdf)
+
+[^31]: Diario Público, “Sin disimulos: la insoportable fijación de EE.UU en los recursos de Latinoamérica”, (enero 2023), vídeo de YouTube. Disponible [aquí](https://www.youtube.com/watch?v=Lo4XV8P6rGU). (consultado el 09 de mayo de 2023).
+
+[^32]: Abarca la concentración de grandes obras, como la planta de urea de YPFB en Bulo Bulo, aeropuerto internacional de Chimoré, centro de alto rendimiento en Villa Tunari, con un valor de más de 7.000 MM de Bs. Hasta la priorización de demandas municipales que superan, entre 2011 a 2019) los 1.400 MM de Bs, frente a los 318 MM de bs,  en Yungas, en el mismo lapso. [CLick](https://www.noticiasfides.com/nacional/politica/-34evo-cumple-34-potencio-el-chapare-con-417-obras-y-a-los-yungas-otorgo-solo-138-406050) para ampliar la información
+
+[^33]: Contribuye a ese desgaste la susceptibilidad, detectada a través de múltiples sondeos, de los lazos de dependencia con China, cuya presencia económica ha sustituido a EEUU en América Latina, igual que el frecuente hallazgo de pruebas e indicios de que grandes empresas chinas se relacionan con sonados escándalos de corrupción, aquí y en países vecinos.
+
+[^34]: Estados Unidos no ha abandonado su cruzada contra “las drogas”, pese a los datos de su fracaso, incluyendo la legalización de la marihuana en 21 de sus estados. Su principal preocupación, en materia de control de drogas prohibidas, se ha desplazado a los opioides (tanto legales, recetados por médicos, cuanto los ilegales), en especial el fentanilo que mató a unas 106.000 personas en 2022. Este desplazamiento de foco no ha mermado su atención, -ni la de organismos internacionales- de la cocaína, cuyo consumo mundial se ha duplicado en comparación con el año 2010, según UNODC.
+
+
+
+

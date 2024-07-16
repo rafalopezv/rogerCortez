@@ -1,17 +1,20 @@
 project:
   type: book
+  title: "rogerCortez"
   
 book:
   search: true
-  downloads: [pdf, epub]
+  # downloads: [pdf, epub]
   sharing: [twitter, facebook]
   
   
   chapters:
     - index.qmd
+    - sobre.qmd
+    - autor.qmd
     - presentacion.qmd
     - introduccion.qmd
-    - como_leer.qmd
+    
     - part: "2013"
       chapters: 
         - ano_2013_1.qmd
@@ -59,9 +62,28 @@ book:
         - ano_2021_1.qmd
         - ano_2021_2.qmd
         - ano_2021_3.qmd
+    - part: "2022"
+      chapters: 
+        - ano_2022_1.qmd
+        - ano_2022_2.qmd
+        - ano_2022_3.qmd
+    - part: "2023"
+      chapters: 
+        - ano_2023_1.qmd
+        - ano_2023_2.qmd
+    - part: "Ensayos"
+      chapters: 
+        - ano_2015_anexo.qmd
+        - ano_2017_anexo.qmd
+        - ano_2023_anexo.qmd
+    - part: "Noticias"
+      chapters: 
+        - shiny.qmd
+      
+        
     
-    - autor.qmd
-    - version.qmd
+    
+    
   
     
 format:
@@ -70,10 +92,6 @@ format:
       light: [cosmo, theme-light.scss, styles.css]
       dark: [cosmo, theme-dark.scss, styles.css]
       
-      
-      
-  pdf:
-    documentclass: scrreprt
 
 editor: visual
 

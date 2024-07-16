@@ -156,7 +156,6 @@ plot_ano_2018_3 %>%
   )
 ```
 
-
 ```{r}
 #| include: true
 #| echo: false
