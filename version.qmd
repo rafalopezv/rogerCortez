@@ -1,0 +1,27 @@
+---
+lang: es
+format: 
+  html:
+    toc: false
+    page-layout: full
+---
+
+# Sobre esta versión {.unnumbered}
+
+Contruí esta versión como homenaje a Roger.
+
+<br>
+
+::: light-mode
+<center><img src="img/rafa_fondo_blanco-cropped.svg" width="30%"/></center>
+:::
+
+::: dark-mode
+<center><img src="img/rafa_fondo_oscuro-cropped.svg" width="30%"/></center>
+:::
+
+<br>
+
+<br>
+
+<center>Rafa López V.<br> Analista de datos \| full-stack developer \| investigador social</center>

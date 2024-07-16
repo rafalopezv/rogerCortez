@@ -1,0 +1,18 @@
+---
+lang: es
+format: 
+  html:
+    page-layout: full
+---
+
+# Compilación de noticias {.unnumbered}
+
+<p style="text-align:center;">
+
+Haga click en cualquier tarjeta para acceder a su contenido
+
+</p>
+
+<iframe src="https://rafalopezv.shinyapps.io/pdf_to_shiny/" style="border:none; width:100%; height:100vh;" seamless>
+
+</iframe>

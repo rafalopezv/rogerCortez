@@ -1,0 +1,13 @@
+---
+lang: es
+format: 
+  html:
+    page-layout: article
+---
+
+# Sobre esta versión {.unnumbered}
+
+En esta parte Rafa:
+
+-   explica las razones de porque hizo esta versión y
+-   muestra las funcionalidades de la página

@@ -1,0 +1,11 @@
+---
+lang: es
+format: 
+  html:
+    page-layout: full
+    toc: false
+---
+
+# Portada {.unnumbered}
+
+<img src="img/portada2.png" width="80%"/>

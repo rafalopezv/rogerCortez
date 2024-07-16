@@ -1,0 +1,60 @@
+---
+lang: es
+format: 
+  html:
+    page-layout: full
+---
+
+# Presentación {.unnumbered}
+
+<br>
+
+La presente publicación recopila los análisis de coyuntura y prospectiva que, de manera sostenida e ininterrumpida, difundió cuatrimestralmente el Servicio de Asesoría y Apoyo (SAA) de Pan Para el Mundo (PPM) en Bolivia entre 2013 y 2021.
+
+Son los aportes elaborados por nuestro colaborador Roger Cortez Hurtado, quien periódicamente nos sacudió con una mirada aguda y profunda en torno a los diferentes momentos y tendencias del contexto político, social, ambiental y económico del país. Sus contribuciones, que no comprometen a PPM ni al SAA, se orientan a informar sobre el acontecer nacional y, sobre todo, a aportar a la reflexión y al debate interno tanto de la Oficina Regional Andina y de la División de América Latina de PPM, como de los equipos institucionales de las veinte entidades socias de PPM en Bolivia.
+
+Aquí, en el marco de un espíritu plural, democrático y transparente, se recogen los análisis de coyuntura de los nueve años en los que Roger Cortez desentraña el complicado panorama nacional en sus diferentes dimensiones. No se trata de un recuento descriptivo de los hechos de cada período; es, más bien, un permanente esfuerzo de interpretación sustantiva y en profundidad que hace el autor sobre los hechos y sus tendencias.
+
+El hilo conductor ---al que acompañan temas propios de cada coyuntura--- es la preocupación de que el país se mantenga en una especie de espiral recurrente de la que no puede salir, a pesar del periodo de bonanza económica ---que alcanzó su cúspide en 2014, año a partir del cual empieza el declive--- y del potencial de la biodiversidad y las oportunidades para cambiar la matriz productiva.
+
+En varios de sus análisis muestra la permanente campaña electoral con recursos públicos que se impulsa desde distintos niveles de gobierno; lacontinua conflictividad social y política en una insistente actitud de polarización y confrontación para debilitar y destruir al adversario político; la crisis de la justicia, el control político de los órganos del Estado y la judicialización de la política; la corrupción y el derroche de los recursos y bienes públicos.
+
+Muestra también las lógicas prebendales/clientelares y de debilitamiento de las organizaciones sociales para su sometimiento a la hegemonía del poder; la continuidad de un patrón de desarrollo de carácter extractivista y de saqueo de los recursos naturales; las quemas, incendios y deforestación de amplias extensiones de bosques, particularmente en la Amazonía y la Chiquitanía, ligadas al avasallamiento de las área protegidas con fines ligados a la dotación de concesiones mineras a supuestos cooperativistas y a la ampliación de la frontera agrícola y al tráfico de tierras a través de colonizadores ---mal llamados interculturales, como señala el autor--- para beneficio del agronegocio, controlado por intereses "empresariales", especialmente de países vecinos.
+
+Escruta, además, el flagrante debilitamiento de los pueblos indígenas, la división de sus organizaciones y la presión sobre las tierras comunitarias de origen (TCO), especialmente de tierras bajas, entre varios otros temas de emergencia y urgencia en la agenda política, económica, sociocultural y ambiental del país en el período 2013-2021, tales como los conflictos de octubre-noviembre de 2019 y el fallo anticonstitucional del Tribunal Constitucional Plurinacional (TCP) que habilitó la candidatura oficialista. El autor caracteriza esa conducta como un auténtico "golpe de Estado", al haber reformado ilegalmente la CPE.
+
+Cortez constata la recurrente ausencia, tanto en el oficialismo como en la oposición, de propuestas de cambio que trasciendan el modelo primario exportador de nuestra economía. Considera que es un imperativo generar propuestas renovadas y creativas desde todas las instancias de la sociedad civil, que constituyen un desafío en tiempos de la incertidumbre causada por la pandemia de COVID-19 y de la crisis global que vivimos, que conduce al planeta a situaciones de mayor riesgo y colapso, en el marco del cambio climático.
+
+Para la Oficina Regional Andina de PPM y el SAA es una satisfacción presentar la compilación de estos análisis de coyuntura, que contribuirán a la memoria histórica del país y a la necesidad de mantener la llama viva de la reflexión y del debate plural y democrático sobre temas sustantivos y de pertinencia para el futuro de Bolivia y de sus nuevas generaciones.
+
+<div style="text-align:right;">
+
+Lima, Perú y La Paz, Bolivia, diciembre de 2021
+
+<div/>
+
+<br>
+
+::: {style="text-align:center; font-weight: bold;"}
+Lima, Perú y La Paz, Bolivia, diciembre de 2021
+:::
+
+<br>
+
+::: {style="text-align:center; font-weight: bold;"}
+Adrian Oelschlegel
+:::
+
+::: {style="text-align:center;"}
+Responsable ORA de PPM
+:::
+
+<br>
+
+::: {style="text-align:center; font-weight: bold;"}
+José Antonio Peres Arenas
+:::
+
+::: {style="text-align:center;"}
+Responsable SAA de PPM en Bolivia
+:::
